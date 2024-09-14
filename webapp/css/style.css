@@ -65,3 +65,59 @@
     background-color: rgba(255, 255, 255, 0.3);
   }
 }
+
+@media only screen and (max-width: 768px) {
+  #mainFlexBox {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+
+  #logoVBox {
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  }
+
+  #mainLogo {
+      width: 80%;
+      max-width: 300px;
+  }
+
+  #secondaryLogo {
+      width: 20%;
+      max-width: 80px;
+  }
+
+  #formVBox {
+      width: 90%;
+      max-width: 400px;
+      margin-top: 20px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  #mainFlexBox {
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+  }
+
+  #logoVBox {
+      width: auto;
+  }
+
+  #mainLogo {
+      width: 500px;
+  }
+
+  #secondaryLogo {
+      width: 100px;
+  }
+
+  #formVBox {
+      width: 400px;
+  }
+}
+

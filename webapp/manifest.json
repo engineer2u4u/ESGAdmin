@@ -85,6 +85,41 @@
           "name": "Main",
           "pattern": "Main",
           "target": "Main"
+        },
+        {
+          "name": "AddNewClient",
+          "pattern": "AddNewClient",
+          "target": "AddNewClient"
+        },
+        {
+          "name": "ManageClients",
+          "pattern": "ManageClients",
+          "target": "ManageClients"
+        },
+        {
+          "name": "CreateCredentials",
+          "pattern": "CreateCredentials/{currentNav}/{domain}",
+          "target": "CreateCredentials"
+        },
+        {
+          "name": "ClientBranches",
+          "pattern": "ClientBranches/{currentNav}/{domain}",
+          "target": "ClientBranches"
+        },
+        {
+          "name": "MonitorClients",
+          "pattern": "MonitorClients",
+          "target": "MonitorClients"
+        },
+        {
+          "name": "ReportingSheets",
+          "pattern": "ReportingSheets/{currentNav}/{domain}",
+          "target": "ReportingSheets"
+        },
+        {
+          "name": "ManageFactors",
+          "pattern": "ManageFactors",
+          "target": "ManageFactors"
         }
       ],
       "targets": {
@@ -97,6 +132,41 @@
           "viewType": "XML",
           "transition": "slide",
           "viewName": "Main"
+        },
+        "AddNewClient": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "AddNewClient"
+        },
+        "ManageClients": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "ManageClients"
+        },
+        "CreateCredentials": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "CreateCredentials"
+        },
+        "ClientBranches": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "ClientBranches"
+        },
+        "MonitorClients": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "MonitorClients"
+        },
+        "ReportingSheets": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "ReportingSheets"
+        },
+        "ManageFactors": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "ManageFactors"
         }
       }
     }

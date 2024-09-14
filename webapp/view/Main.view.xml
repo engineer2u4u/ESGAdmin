@@ -1,38 +1,117 @@
 <mvc:View controllerName="ESGAdmin.ESGAdmin.controller.Main" xmlns:mvc="sap.ui.core.mvc"
-	xmlns:core="sap.ui.core" displayBlock="true"
-	xmlns="sap.m">
+	xmlns:core="sap.ui.core" displayBlock="true" xmlns="sap.m">
 	<Page id="page" title="{i18n>title}" titleAlignment="Center">
-		<headerContent>
-			<Text id="user" />
+	<!--Custom Header with Title and App Common Buttons : Expand-->
+		<customHeader>
+			<Bar>
+				<contentLeft>
+					<!-- <Button icon="sap-icon://nav-back" tooltip="{i18n>back}" press="onBackCPPress"/> -->
+					<Image src="./assets/ESG Kosh.png" class="sapUiMediumMargin"
+                                    width="50px" />
+				</contentLeft>
+				<contentMiddle>
+					<HBox>
+						<Title text="{i18n>title}"></Title>
+					</HBox>
+				</contentMiddle>
+				<contentRight>
+					<!-- <core:Fragment fragmentName="eybtcadmin.fragment.headerContent" type="XML"/> -->
+					<Text id="user" />
+			<Button icon="sap-icon://bell" tooltip="Notifications" press="onNotificationPress" />
 			<Button icon="sap-icon://log" tooltip="Log Out" press="onLogOut" />
-		</headerContent>
+				</contentRight>
+			</Bar>
+		</customHeader>
+		<!-- <headerContent>
+			<Text id="user" />
+			<Button icon="sap-icon://bell" tooltip="Notifications" press="onNotificationPress" />
+			<Button icon="sap-icon://log" tooltip="Log Out" press="onLogOut" />
+		</headerContent> -->
 		<content>
-			<Panel width="auto" class="sapUiResponsiveMargin" accessibleRole="Region">
-				<headerToolbar>
-					<OverflowToolbar>
-						<Title text="Project Management" />
-					</OverflowToolbar>
-				</headerToolbar>
-				<content>
+			<VBox>
+				<Panel headerText="Client Management">
+					<FlexBox justifyContent="SpaceBetween" alignItems="Start" class="sapUiSmallMarginTop">
+						<HBox>
+							<!-- Tile for Client Onboarding: Add a new client -->
+							<GenericTile id="idAddClient" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Add New Client" press="onTilePress">
+								<TileContent footer="Client Onboarding">
+									<ImageContent src="sap-icon://add-employee" />
+								</TileContent>
+							</GenericTile>
 
-					<GenericTile
-						class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"
-						header="Project Onboarding" subheader=""
-						press="onPressonboarding">
-						<TileContent>
-							<ImageContent src="sap-icon://project-definition-triangle-2" />
-						</TileContent>
-					</GenericTile>
+							<!-- Tile for Manage Clients: Access Control -->
+							<GenericTile id="idManageClients" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Manage Clients" press="onTilePress">
+								<TileContent footer="Access Control">
+									<ImageContent src="sap-icon://key" />
+								</TileContent>
+							</GenericTile>
 
-				</content>
-			</Panel>
+							<!-- Tile for Monitor Clients: Check progress -->
+							<GenericTile id="idMonitorClients" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Monitor Clients" press="onTilePress">
+								<TileContent footer="Check Progress">
+									<ImageContent src="sap-icon://monitor-payments" />
+								</TileContent>
+							</GenericTile>
+							<!-- Tile for Add Master Data -->
+							<GenericTile id="idAnalyticsReports" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Analytics and Reports" press="onTilePress">
+								<TileContent footer="Client Reports">
+									<ImageContent src="sap-icon://business-objects-experience" />
+								</TileContent>
+							</GenericTile>				
+						</HBox>
+					</FlexBox>
+				</Panel>
+				<Panel headerText="Logs and Support">
+					<FlexBox justifyContent="SpaceBetween" alignItems="Start" class="sapUiSmallMarginTop">
+						<HBox>
+							<!-- Tile for Log: Check all the logs -->
+							<GenericTile id="idLogs" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Logs" press="onTilePress">
+								<TileContent footer="Check All Logs">
+									<ImageContent src="sap-icon://log" />
+								</TileContent>
+							</GenericTile>
 
+							<!-- Tile for Support and Incidents: For Clients support -->
+							<GenericTile id="idSupportIncidents" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Support and Incidents" press="onTilePress">
+								<TileContent footer="Client Support">
+									<ImageContent src="sap-icon://incident" />
+								</TileContent>
+							</GenericTile>
+						</HBox>
+					</FlexBox>
+				</Panel>
+				<Panel headerText="Master Data Management">
+					<FlexBox justifyContent="SpaceBetween" alignItems="Start" class="sapUiSmallMarginTop">
+						<HBox>
+						<!-- Tile for Add Users -->
+							<GenericTile id="idAddUsers" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Add Users" press="onTilePress">
+								<TileContent footer="Manage Users">
+									<ImageContent src="sap-icon://add-contact" />
+								</TileContent>
+							</GenericTile>
+
+							<!-- Tile for Update Factors-->
+							<GenericTile id="idAddMasterData" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"  header="Manage Factors" press="onTilePress">
+								<TileContent footer="Factor Management">
+									<ImageContent src="sap-icon://numbered-text" />
+								</TileContent>
+							</GenericTile>
+
+							<!-- Tile for Delete Data of Clients -->
+							<GenericTile id="idDeleteClientData" class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="Delete Data of Clients" press="onTilePress">
+								<TileContent footer="Data Deletion">
+									<ImageContent src="sap-icon://delete" />
+								</TileContent>
+							</GenericTile>
+						</HBox>
+					</FlexBox>
+				</Panel>
+			</VBox>
 		</content>
 		<footer>
 			<OverflowToolbar>
-				<HBox alignItems="Center" alignContent="Center" justifyContent="Center"
-					width="100%">
-					<Text text=" A RuDe Labs Production © 2024" />
+				<HBox alignItems="Center" alignContent="Center" justifyContent="Center" width="100%">
+					<Text text="Koshish Sustainable Solutions Pvt.Ltd © 2024" />
 				</HBox>
 			</OverflowToolbar>
 		</footer>

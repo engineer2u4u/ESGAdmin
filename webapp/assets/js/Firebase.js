@@ -7,15 +7,17 @@ sap.ui.define([
         initializeFirebase: function () {
             // Replace with your config here
             const firebaseConfig = {
-                apiKey: "AIzaSyDXE8DIGrL4rwyfRFHNLBIuKB9h_o6oGvI",
-                authDomain: "admin-731aa.firebaseapp.com",
-                projectId: "admin-731aa",
-                storageBucket: "admin-731aa.appspot.com",
-                messagingSenderId: "685845863429",
-                appId: "1:685845863429:web:d69811b8a0848e8223506c"
-            };
+                apiKey: "AIzaSyDyKDAG4aFAWYXAF7yOBC2p2xEUERAYpOE",
+                authDomain: "esgdashboard-2c535.firebaseapp.com",
+                projectId: "esgdashboard-2c535",
+                storageBucket: "esgdashboard-2c535.appspot.com",
+                messagingSenderId: "585639322807",
+                appId: "1:585639322807:web:9f7b670b47d828de58d932"
+              };
             // Initialize Firebase with the Firebase-config
             firebase.initializeApp(firebaseConfig);
+            // Initialize a secondary app instance for user creation
+            const secondaryApp = firebase.initializeApp(firebaseConfig, "SecondaryApp");
             // Create a Fir estore reference
             const firestore = firebase.firestore();
             // Create a Authentication reference
@@ -26,7 +28,8 @@ sap.ui.define([
             const oFirebase = {
                 firestore: firestore,
                 fireAuth: fireAuth,
-                oFirestore: oFirestore
+                oFirestore: oFirestore,
+                secondaryApp: secondaryApp
             };
             // Create a Firebase model out of the oFirebase service object which contains all required Firebase services
             var fbModel = new JSONModel(oFirebase);

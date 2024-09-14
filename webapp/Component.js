@@ -26,7 +26,9 @@ sap.ui.define([
 
 			// set the device model
 			this.setModel(models.createDeviceModel(), "device");
-			// set Firebase Model
+			// set the app Config model
+			this.setModel(models.createAppConfigModel(), "oAppConfig");
+			// set Firebase Model for Admin
 			this.setModel(Firebase.initializeFirebase(), "fbModel");
 		}
 	});

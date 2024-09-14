@@ -44,6 +44,11 @@ sap.ui.define(
         })
 
       },
+
+      onHomePress: function (oEvent) {
+        this.oRouter.navTo("Main");
+      },
+      
       getUserLog: function () {
         var oFModel = this.getView().getModel("fbModel").getData();
         var fireAuth = oFModel.fireAuth;
