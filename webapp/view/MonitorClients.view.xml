@@ -1,0 +1,47 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    xmlns="sap.m"
+    controllerName="ESGAdmin.ESGAdmin.controller.MonitorClients">
+    
+    <Page title="Client Branches">
+        <content>
+            <VBox class="sapUiSmallMargin">
+                 <!-- Table Section -->
+                <VBox class="sapUiTinyMarginTop">
+                    <Label text="Filter by Client Name" />
+                     <Select id="organizationTableSelect" items="{path: 'orgData>/results'}">
+                        <core:Item key="{orgData>organisationName}" text="{orgData>organisationName}" />
+                    </Select>
+
+                    <Table id="organizationTable" items="{path: 'orgData>/results'}" class="sapUiTinyMarginTop">
+                        <columns>
+                            <Column>
+                                <Text text="Organization Name" />
+                            </Column>
+                            <Column>
+                                <Text text="Branches" />
+                            </Column>
+                            <Column>
+                                <Text text="Country" />
+                            </Column>
+                            <Column>
+                                <Text text="Advisor" />
+                            </Column>
+                        </columns>
+                        <items>
+                            <ColumnListItem type="Navigation" press="onRowPress">
+                                <cells>
+                                    <Text text="{orgData>organisationName}" />
+                                     <Text text="{orgData>branch}" />
+                                    <Text text="{orgData>country}" />
+                                    <Text text="{orgData>advisor}" />
+                                </cells>
+                            </ColumnListItem>
+                        </items>
+                    </Table>
+                </VBox>
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>

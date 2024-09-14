@@ -1,0 +1,129 @@
+{
+    "BGK": [
+        { "id": "BLK01", "name": "Badami" },
+        { "id": "BLK02", "name": "Bagalkot" },
+        { "id": "BLK03", "name": "Bilagi" },
+        { "id": "BLK04", "name": "Guledagudda" },
+        { "id": "BLK05", "name": "Hungund" },
+        { "id": "BLK06", "name": "Ilkal" },
+        { "id": "BLK07", "name": "Jamkhandi" },
+        { "id": "BLK08", "name": "Mudhol" },
+        { "id": "BLK09", "name": "Rabakavi Banahatti" }
+    ],
+    "BLL": [
+        { "id": "BLR01", "name": "Ballari" },
+        { "id": "BLR02", "name": "Kampli" },
+        { "id": "BLR03", "name": "Kurugodu" },
+        { "id": "BLR04", "name": "Sandur" },
+        { "id": "BLR05", "name": "Siruguppa" }
+    ],
+    "BLG": [
+        { "id": "BLV01", "name": "Athni" },
+        { "id": "BLV02", "name": "Belagavi" },
+        { "id": "BLV03", "name": "Bylahongal" },
+        { "id": "BLV04", "name": "Chikodi" },
+        { "id": "BLV05", "name": "Gokak" },
+        { "id": "BLV06", "name": "Hukeri" },
+        { "id": "BLV07", "name": "Kagawada" },
+        { "id": "BLV08", "name": "Khanapur" },
+        { "id": "BLV09", "name": "Kittur" },
+        { "id": "BLV10", "name": "Mudalagi" },
+        { "id": "BLV11", "name": "Nippani" },
+        { "id": "BLV12", "name": "Ramdurg" },
+        { "id": "BLV13", "name": "Raybag" },
+        { "id": "BLV14", "name": "Savadathi" },
+        { "id": "BLV15", "name": "Yaragatti" }
+    ],
+    "BNR": [
+        { "id": "BNR01", "name": "Devanhalli" },
+        { "id": "BNR02", "name": "Dodballapur" },
+        { "id": "BNR03", "name": "Hoskote" },
+        { "id": "BNR04", "name": "Nelamangala" }
+    ],
+    "BNU": [
+        { "id": "BNU01", "name": "Anekal" },
+        { "id": "BNU02", "name": "Bengaluru East" },
+        { "id": "BNU03", "name": "Bengaluru North" },
+        { "id": "BNU04", "name": "Bengaluru South" },
+        { "id": "BNU05", "name": "Yelahanka" }
+    ],
+    "BDR": [
+        { "id": "BDR01", "name": "Aurad" },
+        { "id": "BDR02", "name": "Basavakalyan" },
+        { "id": "BDR03", "name": "Bhalki" },
+        { "id": "BDR04", "name": "Bidar" },
+        { "id": "BDR05", "name": "Chittaguppa" },
+        { "id": "BDR06", "name": "Hulasuru" },
+        { "id": "BDR07", "name": "Humnabad" },
+        { "id": "BDR08", "name": "Kamalanagara" }
+    ],
+    "CMN": [
+        { "id": "CMN01", "name": "Chamarajanagar" },
+        { "id": "CMN02", "name": "Gundlupet" },
+        { "id": "CMN03", "name": "Hanuru" },
+        { "id": "CMN04", "name": "Kollegala" },
+        { "id": "CMN05", "name": "Yelandur" }
+    ],
+    "CBL": [
+        { "id": "CBL01", "name": "Bagepalli" },
+        { "id": "CBL02", "name": "Cheluru" },
+        { "id": "CBL03", "name": "Chikballapur" },
+        { "id": "CBL04", "name": "Chintamani" },
+        { "id": "CBL05", "name": "Gauribidanur" },
+        { "id": "CBL06", "name": "Gudibanda" },
+        { "id": "CBL07", "name": "Manchenahalli" },
+        { "id": "CBL08", "name": "Sidlaghatta" }
+    ],
+    "CKM": [
+        { "id": "CKM01", "name": "Ajjampura" },
+        { "id": "CKM02", "name": "Chikkamagaluru" },
+        { "id": "CKM03", "name": "Kadur" },
+        { "id": "CKM04", "name": "Kalasa" },
+        { "id": "CKM05", "name": "Koppa" },
+        { "id": "CKM06", "name": "Mudigere" },
+        { "id": "CKM07", "name": "Narasimharajapura" },
+        { "id": "CKM08", "name": "Sringeri" },
+        { "id": "CKM09", "name": "Tarikere" }
+    ],
+    "CTR": [
+        { "id": "CTR01", "name": "Challakere" },
+        { "id": "CTR02", "name": "Chitradurga" },
+        { "id": "CTR03", "name": "Hiriyur" },
+        { "id": "CTR04", "name": "Holalkere" },
+        { "id": "CTR05", "name": "Hosdurga" },
+        { "id": "CTR06", "name": "Molakalmuru" }
+    ],
+    "DKN": [
+        { "id": "DKN01", "name": "Bantval" },
+        { "id": "DKN02", "name": "Beltangadi" },
+        { "id": "DKN03", "name": "Kadaba" },
+        { "id": "DKN04", "name": "Mangaluru" },
+        { "id": "DKN05", "name": "Mudubidare" },
+        { "id": "DKN06", "name": "Mulki" },
+        { "id": "DKN07", "name": "Puttur" },
+        { "id": "DKN08", "name": "Sulya" },
+        { "id": "DKN09", "name": "Ullala" }
+    ],
+    "DVG": [
+        { "id": "DVG01", "name": "Channagiri" },
+        { "id": "DVG02", "name": "Davanagere" },
+        { "id": "DVG03", "name": "Harihara" },
+        { "id": "DVG04", "name": "Honnali" },
+        { "id": "DVG05", "name": "Jagalur" },
+        { "id": "DVG06", "name": "Nyamathi" }
+    ],
+    "DWR": [
+        { "id": "DWR01", "name": "Alnavar" },
+        { "id": "DWR02", "name": "Annigeri" },
+        { "id": "DWR03", "name": "Dharwad" },
+        { "id": "DWR04", "name": "Hubballi" },
+        { "id": "DWR05", "name": "Kalghatgi" },
+        { "id": "DWR06", "name": "Kundgol" },
+        { "id": "DWR07", "name": "Navalgund" }
+    ],
+    "GDG": [
+        { "id": "GDG01", "name": "Gadag" },
+        { "id": "GDG02", "name": "Gajendragad" },
+        { "id": "GDG03", "name": "Laxmeshwar" }
+    ]
+}

@@ -1,0 +1,153 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    xmlns="sap.m"
+    controllerName="ESGAdmin.ESGAdmin.controller.ManageFactors"
+>
+    <Page title="Manage Factors">
+        <customHeader>
+            <OverflowToolbar>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />
+                <Image
+                    src="./assets/ESG Kosh.png"
+                    class="sapUiMediumMargin"
+                    width="60px"
+                    press="onHomePress"
+                />
+                <ToolbarSpacer />
+                <Title text="Manage Factors" />
+                <ToolbarSpacer />
+                <HBox alignItems="Center">
+                    <Button
+                        icon="sap-icon://bell"
+                        tooltip="Notifications"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </HBox>
+            </OverflowToolbar>
+        </customHeader>
+        <content>
+            <VBox>
+                <!-- Filter Inputs -->
+                <HBox>
+                    <Select
+                        id="filterScope"
+                        selectedKey="Scope 1"
+                    >
+                        <core:Item
+                            key="Scope 1"
+                            text="Scope 1"
+                        />
+                        <core:Item
+                            key="Scope 2"
+                            text="Scope 2"
+                        />
+                        <core:Item
+                            key="Scope 3"
+                            text="Scope 3"
+                        />
+                    </Select>
+                    <MultiComboBox
+                        id="filterLevel1"
+                        placeholder="Filter by Level 1"
+                        selectionChange="onFilterChange"
+                        items="{/data}"
+                    >
+                        <core:Item
+                            key="{Lookup}"
+                            text="{Lookup}"
+                        />
+                    </MultiComboBox>
+                    <MultiComboBox
+                        id="filterLevel2"
+                        placeholder="Filter by Level 2"
+                      items="{/data}"
+                    >
+                        <core:Item
+                            key="{Lookup}"
+                            text="{Lookup}"
+                        />
+                    </MultiComboBox>
+                    <MultiComboBox
+                        id="filterLevel3"
+                        placeholder="Filter by Level 3"
+                       items="{/data}"
+                    >
+                        <core:Item
+                            key="{Lookup}"
+                            text="{Lookup}"
+                        />
+                    </MultiComboBox>
+                    <!-- Add other filters as needed -->
+                </HBox>
+
+                <!-- Table -->
+                <Table
+                    id="ghgTable"
+                    items="{factorData>/results}"
+                >
+                    <columns>
+                        <Column>
+                            <Text text="Scope" />
+                        </Column>
+                        <Column>
+                            <Text text="Level 1" />
+                        </Column>
+                        <Column>
+                            <Text text="Level 2" />
+                        </Column>
+                        <Column>
+                            <Text text="Level 3" />
+                        </Column>
+                        <Column>
+                            <Text text="UOM" />
+                        </Column>
+                        <Column>
+                            <Text text="Lookup" />
+                        </Column>
+                        <Column>
+                            <Text text="GHG Conversion" />
+                        </Column>
+                    </columns>
+                    <items>
+                        <ColumnListItem>
+                            <Text text="{factorData>Scope}" />
+                            <Text text="{factorData>Level 1}" />
+                            <Text text="{factorData>Level 2}" />
+                            <Text text="{factorData>Level 3}" />
+                            <Text text="{factorData>UOM}" />
+                            <Text text="{factorData>Lookup}" />
+                            <Input value="{factorData>GHG Conversion}" />
+                        </ColumnListItem>
+                    </items>
+                </Table>
+            </VBox>
+        </content>
+                <footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                <Button
+                    text="Save"
+                    icon="sap-icon://save"
+                    press="onUploadFactor"
+                    type="Emphasized"
+                    visible="true"
+                />
+                <Button
+                    text="Reset"
+                    icon="sap-icon://reset"
+                    press="onReset"
+                />
+            </OverflowToolbar>
+        </footer>
+    </Page>
+</mvc:View>

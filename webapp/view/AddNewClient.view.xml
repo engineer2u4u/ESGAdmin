@@ -1,0 +1,232 @@
+<mvc:View
+    controllerName="ESGAdmin.ESGAdmin.controller.AddNewClient"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    displayBlock="true"
+    xmlns:l="sap.ui.layout"
+    xmlns:form="sap.ui.layout.form"
+    xmlns="sap.m"
+>
+    <Page
+        id="page"
+        title="Add New Client"
+        titleAlignment="Center"
+    >
+        <customHeader>
+            <OverflowToolbar>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />
+                <Image
+                    src="./assets/ESG Kosh.png"
+                    class="sapUiMediumMargin"
+                    width="60px"
+                    press="onHomePress"
+                />
+                <ToolbarSpacer />
+                <Title text="Add New Client" />
+                <ToolbarSpacer />
+                <HBox alignItems="Center">
+                    <Button
+                        icon="sap-icon://bell"
+                        tooltip="Notifications"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </HBox>
+            </OverflowToolbar>
+        </customHeader>
+        <content>
+            <VBox class="sapUiSmallMargin">
+                <form:SimpleForm
+                    editable="true"
+                    layout="ResponsiveGridLayout"
+                >
+                    <Label
+                        required="true"
+                        text="Name of the organisation"
+                    />
+                    <Input
+                        id="idOrgName"
+                        placeholder="Enter organisation name"
+                    />
+                    <Label
+                        required="true"
+                        text="Admin"
+                    />
+                    <Input
+                        id="idAdmin"
+                        placeholder="Enter Admin name"
+                    />
+                    <Label
+                        required="true"
+                        text="Admin Email"
+                    />
+                    <Input
+                        id="idAdminEmail"
+                        placeholder="Enter Admin email"
+                    />
+                    <Label
+                        required="true"
+                        text="Admin Phone"
+                    />
+                    <Input
+                        id="idAdminPhone"
+                        placeholder="Enter Admin phone (include country code, ex: +91-9999999999)"
+                    />
+                    <Label
+                        required="true"
+                        text="Enter a domain"
+                    />
+                    <HBox>
+                        <Input
+                            value="@"
+                            editable="false"
+                            width="30px"
+                        />
+                        <Input
+                            id="domainInput"
+                            placeholder="Enter domain here"
+                            liveChange="onDomainChange"
+                        />
+                        <Input
+                            value=".esgkosh"
+                            editable="false"
+                        />
+                    </HBox>
+                    <Label
+                        required="true"
+                        text="Country of the organisation"
+                    />
+                    <Select id="idCountry">
+                        <core:Item
+                            key="India"
+                            text="India"
+                        />
+                        <core:Item
+                            key="USA"
+                            text="USA"
+                        />
+                        <core:Item
+                            key="UAE"
+                            text="UAE"
+                        />
+                    </Select>
+                    <!-- <Label text="Type of Office" />
+                     <Select
+                        id="idOffice"
+                    >
+                        <core:Item
+                            key="Corporate Office"
+                            text="Corporate Office"
+                        />
+                        <core:Item
+                            key="Factory/Manufacturing Unit"
+                            text="Factory/Manufacturing Unit"
+                        />
+                        <core:Item
+                            key="Warehouse"
+                            text="Warehouse"
+                        />
+                        <core:Item
+                            key="Technical Support Center"
+                            text="Technical Support Center"
+                        />
+                        <core:Item
+                            key="Testing Facility"
+                            text="Testing Facility"
+                        />
+                        <core:Item
+                            key="Service Center"
+                            text="Service Center"
+                        />
+                    </Select> -->
+                    <!-- <Label text="State/Circle/Zone" /> -->
+                    <!-- <Select id="idState"> -->
+                    <!-- State options will be dynamically updated based on the selected country -->
+                    <!-- </Select> -->
+                    <!-- <Label text="Branch/Office" />
+                    <MultiInput
+                        id="branchInput"
+                        type="Text"
+                        placeholder="Enter branches"
+                        showValueHelp="false"
+                        showSuggestion="false"
+                        tokenUpdate="onTokenChange"
+                    /> -->
+
+                    <Label
+                        required="true"
+                        text="Number of employees"
+                    />
+                    <Input
+                        id="idNumEmployees"
+                        placeholder="Enter number of employees"
+                        type="Number"
+                    />
+                    <Label
+                        required="true"
+                        text="Renewable energy contract (Yes/No)"
+                    />
+                    <Select
+                        id="idRenewableEnergy"
+                        selectedKey="No"
+                    >
+                        <core:Item
+                            key="Yes"
+                            text="Yes"
+                        />
+                        <core:Item
+                            key="No"
+                            text="No"
+                        />
+                    </Select>
+                    <Label
+                        required="true"
+                        text="Framework"
+                    />
+                    <Select
+                        id="idReportingType"
+                        selectedKey="Both"
+                    >
+                        <core:Item
+                            key="BRSR"
+                            text="BRSR"
+                        />
+                        <core:Item
+                            key="GRI"
+                            text="GRI"
+                        />
+                        <core:Item
+                            key="Both"
+                            text="Both"
+                        />
+                    </Select>
+                </form:SimpleForm>
+            </VBox>
+        </content>
+        <footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                <Button
+                    text="Save"
+                    icon="sap-icon://save"
+                    press="onSubmit"
+                    type="Emphasized"
+                    visible="true"
+                />
+                <Button
+                    text="Reset"
+                    icon="sap-icon://reset"
+                    press="onReset"
+                />
+            </OverflowToolbar>
+        </footer>
+    </Page>
+</mvc:View>

@@ -1,0 +1,209 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    xmlns="sap.m"
+    controllerName="ESGAdmin.ESGAdmin.controller.ClientBranches"
+>
+    <Page title="Client Branches">
+        <customHeader>
+            <OverflowToolbar>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />
+                <Image
+                    src="./assets/ESG Kosh.png"
+                    class="sapUiMediumMargin"
+                    width="60px"
+                    press="onHomePress"
+                />
+                <ToolbarSpacer />
+                <Title text="Client Branches" />
+                <ToolbarSpacer />
+                <HBox alignItems="Center">
+                    <Button
+                        icon="sap-icon://bell"
+                        tooltip="Notifications"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </HBox>
+            </OverflowToolbar>
+        </customHeader>
+        <content>
+            <VBox class="sapUiSmallMargin">
+                <!-- Form Section -->
+                <HBox>
+                    <VBox>
+                        <Label text="Country" />
+                        <Select
+                            width="200px"
+                            id="idCountry"
+                            items="{country>/results}"
+                            change="onCountryChange"
+                        >
+                            <core:Item
+                                key="{country>id}"
+                                text="{country>name}"
+                            />
+                        </Select>
+                    </VBox>
+
+                    <VBox class="sapUiSmallMarginBegin">
+                        <Label text="State" />
+                        <Select
+                            width="200px"
+                            id="idState"
+                            items="{states>/results}"
+                            change="onStateChange"
+                        >
+                            <core:Item
+                                key="{states>id}"
+                                text="{states>name}"
+                            />
+                        </Select>
+                    </VBox>
+
+                    <VBox class="sapUiSmallMarginBegin">
+                        <Label text="District" />
+                        <Select
+                            width="200px"
+                            id="idDistrict"
+                            items="{districts>/results}"
+                            change="onDistrictChange"
+                        >
+                            <core:Item
+                                key="{districts>id}"
+                                text="{districts>name}"
+                            />
+                        </Select>
+                    </VBox>
+
+                    <VBox class="sapUiSmallMarginBegin">
+                        <Label text="Block" />
+                        <Select
+                            width="200px"
+                            id="idBlock"
+                            items="{blocks>/results}"
+                        >
+                            <core:Item
+                                key="{blocks>id}"
+                                text="{blocks>name}"
+                            />
+                        </Select>
+                    </VBox>
+                </HBox>
+                <!-- Buttons -->
+                <HBox width="70%">
+                    <VBox>
+                        <Label text="Type of Office" />
+                        <Select id="idOffice">
+                            <core:Item
+                                key="Corporate Office"
+                                text="Corporate Office"
+                            />
+                            <core:Item
+                                key="Factory/Manufacturing Unit"
+                                text="Factory/Manufacturing Unit"
+                            />
+                            <core:Item
+                                key="Warehouse"
+                                text="Warehouse"
+                            />
+                            <core:Item
+                                key="Technical Support Center"
+                                text="Technical Support Center"
+                            />
+                            <core:Item
+                                key="Testing Facility"
+                                text="Testing Facility"
+                            />
+                            <core:Item
+                                key="Service Center"
+                                text="Service Center"
+                            />
+                        </Select>
+                    </VBox>
+                    <HBox
+                        width="30%"
+                        class="sapUiSmallMarginTop"
+                        layoutData="new sap.ui.layout.GridData({span: 'L6 M6 S12'})"
+                        justifyContent="End"
+                    >
+                        <Button
+                            icon="sap-icon://add-product"
+                            text="Create"
+                            type="Emphasized"
+                            press="onCreate"
+                        />
+                        <Button
+                            icon="sap-icon://history"
+                            text="Reset"
+                            type="Default"
+                            press="onReset"
+                            class="sapUiTinyMarginBegin"
+                        />
+                    </HBox>
+                </HBox>
+                <!-- Table Section -->
+                <VBox class="sapUiTinyMarginTop">
+                    <Table
+                        items="{path: 'orgData>/results'}"
+                        class="sapUiTinyMarginTop"
+                    >
+                        <columns>
+                            <Column>
+                                <Text text="Country" />
+                            </Column>
+                            <Column>
+                                <Text text="State" />
+                            </Column>
+                            <Column>
+                                <Text text="District" />
+                            </Column>
+                            <Column>
+                                <Text text="Block" />
+                            </Column>
+                            <Column>
+                                <Text text="Office Type" />
+                            </Column>
+                            <Column>
+                                <Text text="Operation" />
+                            </Column>
+                        </columns>
+                        <items>
+                            <ColumnListItem>
+                                <cells>
+                                    <Text text="{orgData>country}" />
+                                    <Text text="{orgData>state}" />
+                                    <Text text="{orgData>district}" />
+                                    <Text text="{orgData>block}" />
+                                    <Text text="{orgData>officeType}" />
+                                    <Button icon="sap-icon://delete" />
+                                </cells>
+                            </ColumnListItem>
+                        </items>
+                    </Table>
+                </VBox>
+            </VBox>
+        </content>
+                            <footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                 <Button
+                    id="idButtonNext"
+                    text="Next"
+                    icon="sap-icon://open-command-field"
+                    press="onNext"
+                    type="Emphasized"
+                    visible="{oAppConfig>/Next}"
+                />
+            </OverflowToolbar>
+        </footer>
+    </Page>
+</mvc:View>

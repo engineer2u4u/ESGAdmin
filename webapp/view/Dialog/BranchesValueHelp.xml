@@ -1,0 +1,44 @@
+<Dialog
+  id="valueHelpDialog"
+  title="Value Help"
+  afterClose="onCloseDialog">
+  <content>
+    <VBox>
+      <!-- Filters -->
+      <HBox>
+        <Input placeholder="Country" value="{/filters/country}" liveChange="onFilterChange"/>
+        <Input placeholder="State" value="{/filters/state}" liveChange="onFilterChange"/>
+        <Input placeholder="District" value="{/filters/district}" liveChange="onFilterChange"/>
+        <Input placeholder="Block" value="{/filters/block}" liveChange="onFilterChange"/>
+        <Input placeholder="Office Type" value="{/filters/officeType}" liveChange="onFilterChange"/>
+      </HBox>
+
+      <!-- Table -->
+      <Table
+        id="valueHelpTable"
+        items="{/data}">
+        <columns>
+          <Column><Text text="Country"/></Column>
+          <Column><Text text="State"/></Column>
+          <Column><Text text="District"/></Column>
+          <Column><Text text="Block"/></Column>
+          <Column><Text text="Office Type"/></Column>
+        </columns>
+        <items>
+          <ColumnListItem>
+            <cells>
+              <Text text="{country}"/>
+              <Text text="{state}"/>
+              <Text text="{district}"/>
+              <Text text="{block}"/>
+              <Text text="{officeType}"/>
+            </cells>
+          </ColumnListItem>
+        </items>
+      </Table>
+    </VBox>
+  </content>
+  <endButton>
+    <Button text="Close" press="onCloseDialog"/>
+  </endButton>
+</Dialog>

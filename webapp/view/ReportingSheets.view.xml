@@ -1,0 +1,103 @@
+<mvc:View
+    controllerName="ESGAdmin.ESGAdmin.controller.ReportingSheets"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    displayBlock="true"
+    xmlns:l="sap.ui.layout"
+    xmlns:form="sap.ui.layout.form"
+    xmlns="sap.m"
+>
+    <Page
+        id="page"
+        title="Enable Reporting Sheets"
+        titleAlignment="Center"
+    >
+        <customHeader>
+            <OverflowToolbar>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />
+                <Image
+                    src="./assets/ESG Kosh.png"
+                    class="sapUiMediumMargin"
+                    width="60px"
+                    press="onHomePress"
+                />
+                <ToolbarSpacer />
+                <Title text="Enable Reporting Sheets" />
+                <ToolbarSpacer />
+                <HBox alignItems="Center">
+                    <Button
+                        icon="sap-icon://bell"
+                        tooltip="Notifications"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </HBox>
+            </OverflowToolbar>
+        </customHeader>
+        <content>
+            <Table id="esgTable" inset="false" width="100%" class="sapUiResponsiveMargin"
+                   items="{/complianceData}">
+                <headerToolbar>
+                    <Toolbar>
+                        <Title text="ESG Compliance Settings" level="H2"/>
+                        <!-- <ToolbarSpacer /> -->
+                        <Button text="Enable All" press="onSelectAll" />
+                        <Button text="Disable All" press="onDeselectAll" />
+                    </Toolbar>
+                </headerToolbar>
+                <columns>
+                    <Column>
+                        <Text text="Sheet Name" />
+                    </Column>
+                    <Column>
+                        <Text text="Type of Compliance" />
+                    </Column>
+                    <Column hAlign="Center">
+                        <Text text="Enable/Disable" />
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem>
+                        <cells>
+                            <Text text="{sheetName}" />
+                            <Text text="{complianceType}" />
+                            <Switch state="{enabled}" change="onSwitchChange" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+            </content>
+        <footer>
+            <OverflowToolbar>
+                <ToolbarSpacer />
+                <Button
+                    text="Save"
+                    icon="sap-icon://save"
+                    press="onSave"
+                    type="Emphasized"
+                    visible="true"
+                />
+                <Button
+                    text="Next"
+                    icon="sap-icon://open-command-field"
+                    press="onNext"
+                    type="Emphasized"
+                    visible="false"
+                />
+                <Button
+                    text="Reset"
+                    icon="sap-icon://reset"
+                    press="onReset"
+                />
+            </OverflowToolbar>
+        </footer>
+    </Page>
+</mvc:View>
