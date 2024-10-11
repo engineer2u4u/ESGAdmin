@@ -10,7 +10,7 @@ sap.ui.define([
             this.oRouter = sap.ui.core.UIComponent.getRouterFor(this);
             this.getRouter().getRoute("ClientBranches").attachPatternMatched(this._handleRouteMatched, this);
             // Load initial country data
-            this.loadData("./assets/model/countries.json", "country");
+            this.loadData("./assets/model/branches/countries.json", "country");
             // Initialize empty models for states, districts, and blocks
             this.getView().setModel(new JSONModel([]), "states");
             this.getView().setModel(new JSONModel([]), "districts");
@@ -21,10 +21,10 @@ sap.ui.define([
             var that = this;
             this.domain = oEvent.getParameter("arguments").domain;
             this.currentNav = oEvent.getParameter("arguments").currentNav;
-            if (this.currentNav == "ManageClients"){
-            that.getOwnerComponent().getModel("oAppConfig").setProperty("/Next", false);
-            }else{
-            that.getOwnerComponent().getModel("oAppConfig").setProperty("/Next", true);
+            if (this.currentNav == "ManageClients") {
+                that.getOwnerComponent().getModel("oAppConfig").setProperty("/Next", false);
+            } else {
+                that.getOwnerComponent().getModel("oAppConfig").setProperty("/Next", true);
             }
             var db = firebase.firestore();
             db.collection(this.domain).doc("Master Data").onSnapshot(function (querySnapshot) {
@@ -62,7 +62,7 @@ sap.ui.define([
         onCountryChange: function (oEvent) {
             var sCountryId = oEvent.getParameter("selectedItem").getKey();
             // Load the states data based on the selected country
-            this.loadData("./assets/model/states_" + sCountryId + ".json", "states");
+            this.loadData("./assets/model/branches/states_" + sCountryId + ".json", "states");
 
             // Clear districts and blocks
             this.getView().getModel("districts").setData([]);
@@ -72,7 +72,7 @@ sap.ui.define([
         onStateChange: function (oEvent) {
             this.sStateId = oEvent.getParameter("selectedItem").getKey();
             // Load the districts data based on the selected state
-            this.loadData("./assets/model/districts_" + this.sStateId + ".json", "districts");
+            this.loadData("./assets/model/branches/districts/districts_" + this.sStateId + ".json", "districts");
 
             // Clear blocks
             this.getView().getModel("blocks").setData([]);
@@ -81,7 +81,7 @@ sap.ui.define([
         onDistrictChange: function (oEvent) {
             var sDistrictId = oEvent.getParameter("selectedItem").getKey();
             // Load the blocks data based on the selected district
-            this.loadData("./assets/model/blocks_" + this.sStateId + ".json", "blocks", sDistrictId);
+            this.loadData("./assets/model/branches/blocks/blocks_" + this.sStateId + ".json", "blocks", sDistrictId);
         },
 
         onNavBack: function () {
@@ -107,10 +107,25 @@ sap.ui.define([
             var isValid = this.onValidateInputs();
             if (isValid) {
                 var oView = this.getView();
-                var sCountry = oView.byId("idCountry").getSelectedItem().getText();
+                var sBranch = '';
+                var sCountry = oView.byId("idCountrySelect").getSelectedItem().getText();
+                sBranch = sCountry;
                 var sState = oView.byId("idState").getSelectedItem().getText();
-                var sDistrict = oView.byId("idDistrict").getSelectedItem().getText();
-                var sBLock = oView.byId("idBlock").getSelectedItem().getText();
+                sBranch = sBranch + '-' + sState;
+                var sDistrict = oView.byId("idDistrict").getSelectedItem();
+                if (sDistrict) {
+                    var sDistrict = oView.byId("idDistrict").getSelectedItem().getText();
+                    sBranch = sBranch + '-' + sDistrict;
+                }else{
+                    sDistrict = '';
+                }
+                var sBLock = oView.byId("idBlock").getSelectedItem();
+                if (sBLock) {
+                    var sBLock = oView.byId("idBlock").getSelectedItem().getText();
+                    sBranch = sBranch + '-' + sBLock;
+                }else{
+                    sBLock = '';
+                }
                 var sOfficeType = oView.byId("idOffice").getSelectedKey();
                 var obj = {
                     country: sCountry,
@@ -118,7 +133,7 @@ sap.ui.define([
                     district: sDistrict,
                     block: sBLock,
                     officeType: sOfficeType,
-                    branch: sCountry + '-' + sState + '-' + sDistrict + '-' + sBLock
+                    branch: sBranch
                 };
                 var oFModel = this.getView().getModel("fbModel").getData();
                 var oFirestore = oFModel.oFirestore;
@@ -128,6 +143,28 @@ sap.ui.define([
                     branches: oFirestore.FieldValue.arrayUnion(obj)
                 }).then(() => {
                     sap.m.MessageToast.show("Client Branch Added Successfully");
+                    // Query the Employees collection for documents where 'role' is 'Admin'
+                    db.collection(sFullDomain).doc('Master Data').collection("Employees")
+                        .where("role", "==", "Admin")
+                        .get()
+                        .then(function (querySnapshot) {
+                            querySnapshot.forEach(function (doc) {
+                                // For each document, update the 'branches' field
+                                db.collection(sFullDomain).doc('Master Data').collection("Employees").doc(doc.id).update({
+                                    branches: oFirestore.FieldValue.arrayUnion(obj) // Add "New Branch" to the branches array
+                                })
+                                    .then(function () {
+                                        console.log("Branches updated successfully for Admin with ID:", doc.id);
+                                    })
+                                    .catch(function (error) {
+                                        console.error("Error updating branches: ", error);
+                                    });
+                            });
+                        })
+                        .catch(function (error) {
+                            console.error("Error querying documents: ", error);
+                        });
+
                 }).catch(error => {
                     sap.m.MessageToast.show("Error Creating Branch: " + error.message);
                 });
@@ -139,9 +176,9 @@ sap.ui.define([
             var oView = this.getView();
             // Get all input fields in the view
             var dropdown = [
+                oView.byId("idCountrySelect"),
                 oView.byId("idState"),
-                oView.byId("idDistrict"),
-                oView.byId("idBlock"),
+                oView.byId("idOffice")
             ];
             // Iterate over all input fields
             dropdown.forEach(function (input) {
@@ -162,7 +199,7 @@ sap.ui.define([
         onReset: function () {
             var that = this;
             var oView = this.getView();
-            oView.byId("idCountry").setSelectedKey("");
+            oView.byId("idCountrySelect").setSelectedKey("");
             oView.byId("idState").setSelectedKey("");
             oView.byId("idDistrict").setSelectedKey("");
             oView.byId("idBlock").setSelectedKey("");

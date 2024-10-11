@@ -1,0 +1,142 @@
+<mvc:View
+    controllerName="ESGAdmin.ESGAdmin.controller.ActionLogs"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    displayBlock="true"
+    xmlns:l="sap.ui.layout"
+    xmlns:form="sap.ui.layout.form"
+    xmlns="sap.m"
+>
+    <Page
+        id="page"
+        title="Action Logs"
+        titleAlignment="Center"
+    >
+        <customHeader>
+            <OverflowToolbar>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />
+                <Image
+                    src="./assets/ESG Kosh.png"
+                    class="sapUiMediumMargin"
+                    width="60px"
+                    press="onHomePress"
+                />
+                <ToolbarSpacer />
+                <Title text="Action Logs" />
+                <ToolbarSpacer />
+                <HBox alignItems="Center">
+                    <Button
+                        icon="sap-icon://bell"
+                        tooltip="Notifications"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </HBox>
+            </OverflowToolbar>
+        </customHeader>
+        <content>
+            <!-- Filters for Action Logs -->
+            <VBox class="sapUiSmallMargin">
+                <!-- Filter Inputs -->
+                <HBox>
+                    <VBox>
+                        <!-- Action Performed Filter (Create, Update, Delete) -->
+                        <Label text="Action Performed" />
+                        <Select
+                            id="actionPerformedFilter"
+                            change="onFilterChange"
+                        >
+                            <items>
+                                <core:Item
+                                    key="Create"
+                                    text="Create"
+                                />
+                                <core:Item
+                                    key="Update"
+                                    text="Update"
+                                />
+                                <core:Item
+                                    key="Delete"
+                                    text="Delete"
+                                />
+                            </items>
+                        </Select>
+                    </VBox>
+                    <VBox class="sapUiSmallMarginBegin">
+                        <!-- Date and Time Range Filter -->
+                        <Label text="Changed On (From)" />
+                        <DatePicker
+                            id="fromDateFilter"
+                            change="onFilterChange"
+                        />
+                    </VBox>
+                    <VBox class="sapUiSmallMarginBegin">
+                        <Label text="Changed On (To)" />
+                        <DatePicker
+                            id="toDateFilter"
+                            change="onFilterChange"
+                        />
+                    </VBox>
+                    <VBox class="sapUiSmallMarginBegin">
+                        <!-- Action Performed On (Free Text Search) -->
+                        <Label text="Action Performed On" />
+                        <Input
+                            id="actionPerformedOnFilter"
+                            placeholder="Enter search text"
+                            liveChange="onFilterChange"
+                        />
+                    </VBox>
+                </HBox>
+            </VBox>
+            <!-- Action Logs Table -->
+            <Table
+                id="actionLogsTable"
+                items="{logs>/results}"
+            >
+                <columns>
+                    <Column>
+                        <Text text="Action Performed" />
+                    </Column>
+                    <Column>
+                        <Text text="Action Performed On" />
+                    </Column>
+                    <Column>
+                        <Text text="Changed By" />
+                    </Column>
+                    <Column>
+                        <Text text="Changed On" />
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem>
+                        <Text text="{logs>actionPerformed}" />
+                        <Text text="{logs>actionPerformedOn}" />
+                        <Text text="{logs>changedBy}" />
+                        <Text text="{logs>changedOn}" />
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </content>
+        <footer>
+            <OverflowToolbar>
+            <Button
+                    text="Previous"
+                    press="onPrevious"
+                />
+                <ToolbarSpacer />
+                <Button
+                    text="Next"
+                    press="onNext"
+                />
+            </OverflowToolbar>
+        </footer>
+    </Page>
+</mvc:View>

@@ -1,0 +1,17 @@
+<core:FragmentDefinition
+    xmlns="sap.m"
+    xmlns:core="sap.ui.core"
+>
+    <Popover
+        id="myPopover"
+        placement="Bottom"
+        title="Setting"
+    >
+        <Button
+            icon="sap-icon://private"
+            text="Change Password"
+            press="onOpenPasswordChangeDialog"
+            type="Transparent"
+        />
+    </Popover>
+</core:FragmentDefinition>

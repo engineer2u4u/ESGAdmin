@@ -1,0 +1,44 @@
+{
+    "Lakshadweep District": [
+        {
+            "id": "Agatti",
+            "name": "Agatti"
+        },
+        {
+            "id": "Amini",
+            "name": "Amini"
+        },
+        {
+            "id": "Andrott",
+            "name": "Andrott"
+        },
+        {
+            "id": "Bitra",
+            "name": "Bitra"
+        },
+        {
+            "id": "Chetlat",
+            "name": "Chetlat"
+        },
+        {
+            "id": "Kadmat",
+            "name": "Kadmat"
+        },
+        {
+            "id": "Kalpeni",
+            "name": "Kalpeni"
+        },
+        {
+            "id": "Kavaratti",
+            "name": "Kavaratti"
+        },
+        {
+            "id": "Kiltan",
+            "name": "Kiltan"
+        },
+        {
+            "id": "Minicoy",
+            "name": "Minicoy"
+        }
+    ]
+}

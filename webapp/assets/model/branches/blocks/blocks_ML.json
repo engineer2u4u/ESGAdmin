@@ -1,0 +1,246 @@
+{
+    "Eastern West Khasi Hills": [
+        {
+            "id": "Mairang",
+            "name": "Mairang"
+        },
+        {
+            "id": "Mawthadraishan",
+            "name": "Mawthadraishan"
+        }
+    ],
+    "East Garo Hills": [
+        {
+            "id": "Dambo Rongjeng",
+            "name": "Dambo Rongjeng"
+        },
+        {
+            "id": "Samanda",
+            "name": "Samanda"
+        },
+        {
+            "id": "Songsak",
+            "name": "Songsak"
+        }
+    ],
+    "East Jaintia Hills": [
+        {
+            "id": "Lumshnong",
+            "name": "Lumshnong"
+        },
+        {
+            "id": "Saipung",
+            "name": "Saipung"
+        },
+        {
+            "id": "Wapung",
+            "name": "Wapung"
+        }
+    ],
+    "East Khasi Hills": [
+        {
+            "id": "Khadarshnong-Laitkroh",
+            "name": "Khadarshnong-Laitkroh"
+        },
+        {
+            "id": "Mawkynrew",
+            "name": "Mawkynrew"
+        },
+        {
+            "id": "Mawlai",
+            "name": "Mawlai"
+        },
+        {
+            "id": "Mawpat",
+            "name": "Mawpat"
+        },
+        {
+            "id": "Mawphlang",
+            "name": "Mawphlang"
+        },
+        {
+            "id": "Mawryngkneng",
+            "name": "Mawryngkneng"
+        },
+        {
+            "id": "Mawsynram",
+            "name": "Mawsynram"
+        },
+        {
+            "id": "Mylliem",
+            "name": "Mylliem"
+        },
+        {
+            "id": "Pynursla",
+            "name": "Pynursla"
+        },
+        {
+            "id": "Shella Bholaganj",
+            "name": "Shella Bholaganj"
+        },
+        {
+            "id": "Sohiong",
+            "name": "Sohiong"
+        }
+    ],
+    "North Garo Hills": [
+        {
+            "id": "Adokgre",
+            "name": "Adokgre"
+        },
+        {
+            "id": "Bajengdoba",
+            "name": "Bajengdoba"
+        },
+        {
+            "id": "Kharkutta",
+            "name": "Kharkutta"
+        },
+        {
+            "id": "Resubelpara",
+            "name": "Resubelpara"
+        }
+    ],
+    "Ri Bhoi": [
+        {
+            "id": "Bhoirymbong",
+            "name": "Bhoirymbong"
+        },
+        {
+            "id": "Jirang",
+            "name": "Jirang"
+        },
+        {
+            "id": "Umling",
+            "name": "Umling"
+        },
+        {
+            "id": "Umsning",
+            "name": "Umsning"
+        }
+    ],
+    "South Garo Hills": [
+        {
+            "id": "Baghmara",
+            "name": "Baghmara"
+        },
+        {
+            "id": "Chokpot",
+            "name": "Chokpot"
+        },
+        {
+            "id": "Gasuapara",
+            "name": "Gasuapara"
+        },
+        {
+            "id": "Rongara",
+            "name": "Rongara"
+        },
+        {
+            "id": "Siju",
+            "name": "Siju"
+        }
+    ],
+    "South West Garo Hills": [
+        {
+            "id": "Betasing",
+            "name": "Betasing"
+        },
+        {
+            "id": "Purakhasia",
+            "name": "Purakhasia"
+        },
+        {
+            "id": "Rerapara",
+            "name": "Rerapara"
+        },
+        {
+            "id": "Zikzak",
+            "name": "Zikzak"
+        }
+    ],
+    "South West Khasi Hills": [
+        {
+            "id": "Mawkyrwat",
+            "name": "Mawkyrwat"
+        },
+        {
+            "id": "Ranikor",
+            "name": "Ranikor"
+        }
+    ],
+    "West Garo Hills": [
+        {
+            "id": "Batabari",
+            "name": "Batabari"
+        },
+        {
+            "id": "Dadenggiri",
+            "name": "Dadenggiri"
+        },
+        {
+            "id": "Dalu",
+            "name": "Dalu"
+        },
+        {
+            "id": "Demdema",
+            "name": "Demdema"
+        },
+        {
+            "id": "Gambegre",
+            "name": "Gambegre"
+        },
+        {
+            "id": "Rongram",
+            "name": "Rongram"
+        },
+        {
+            "id": "Salsella",
+            "name": "Salsella"
+        },
+        {
+            "id": "Tikrikilla",
+            "name": "Tikrikilla"
+        }
+    ],
+    "West Jaintia Hills": [
+        {
+            "id": "Amlarem",
+            "name": "Amlarem"
+        },
+        {
+            "id": "Laskein",
+            "name": "Laskein"
+        },
+        {
+            "id": "Namdong",
+            "name": "Namdong"
+        },
+        {
+            "id": "Thadlaskein",
+            "name": "Thadlaskein"
+        }
+    ],
+    "West Khasi Hills": [
+        {
+            "id": "Mawshynrut",
+            "name": "Mawshynrut"
+        },
+        {
+            "id": "Nongstoin",
+            "name": "Nongstoin"
+        },
+        {
+            "id": "Rambrai",
+            "name": "Rambrai"
+        },
+        {
+            "id": "Ri-Muliang",
+            "name": "Ri-Muliang"
+        },
+        {
+            "id": "Shallang",
+            "name": "Shallang"
+        }
+    ]
+}

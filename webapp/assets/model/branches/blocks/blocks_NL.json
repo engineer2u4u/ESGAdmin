@@ -1,0 +1,326 @@
+{
+    "Dimapur": [
+        {
+            "id": "Aghunaqa",
+            "name": "Aghunaqa"
+        },
+        {
+            "id": "Chumukedima",
+            "name": "Chumukedima"
+        },
+        {
+            "id": "Dhansiripar",
+            "name": "Dhansiripar"
+        },
+        {
+            "id": "Kuhuboto",
+            "name": "Kuhuboto"
+        },
+        {
+            "id": "Medziphema",
+            "name": "Medziphema"
+        },
+        {
+            "id": "Niuland",
+            "name": "Niuland"
+        }
+    ],
+    "Kiphire": [
+        {
+            "id": "Khonsa",
+            "name": "Khonsa"
+        },
+        {
+            "id": "Kiphire",
+            "name": "Kiphire"
+        },
+        {
+            "id": "Longmatra",
+            "name": "Longmatra"
+        },
+        {
+            "id": "Pungro",
+            "name": "Pungro"
+        },
+        {
+            "id": "Sitimi",
+            "name": "Sitimi"
+        }
+    ],
+    "Kohima": [
+        {
+            "id": "Botsa",
+            "name": "Botsa"
+        },
+        {
+            "id": "Chiephobozou",
+            "name": "Chiephobozou"
+        },
+        {
+            "id": "Jakhama",
+            "name": "Jakhama"
+        },
+        {
+            "id": "Kohima",
+            "name": "Kohima"
+        },
+        {
+            "id": "Sechu Zubza",
+            "name": "Sechu Zubza"
+        }
+    ],
+    "Longleng": [
+        {
+            "id": "Longleng",
+            "name": "Longleng"
+        },
+        {
+            "id": "Sakshi",
+            "name": "Sakshi"
+        },
+        {
+            "id": "Tamlu",
+            "name": "Tamlu"
+        }
+    ],
+    "Mokokchung": [
+        {
+            "id": "Changtongya",
+            "name": "Changtongya"
+        },
+        {
+            "id": "Chuchuyimlang",
+            "name": "Chuchuyimlang"
+        },
+        {
+            "id": "Kubolong",
+            "name": "Kubolong"
+        },
+        {
+            "id": "Longchem",
+            "name": "Longchem"
+        },
+        {
+            "id": "Mangkolemba",
+            "name": "Mangkolemba"
+        },
+        {
+            "id": "Ongpangkong(North)",
+            "name": "Ongpangkong(North)"
+        },
+        {
+            "id": "Ongpangkong(South)",
+            "name": "Ongpangkong(South)"
+        },
+        {
+            "id": "Tsurangkong",
+            "name": "Tsurangkong"
+        },
+        {
+            "id": "Tuli",
+            "name": "Tuli"
+        }
+    ],
+    "Mon": [
+        {
+            "id": "Aboi",
+            "name": "Aboi"
+        },
+        {
+            "id": "Angjangyang",
+            "name": "Angjangyang"
+        },
+        {
+            "id": "Chen",
+            "name": "Chen"
+        },
+        {
+            "id": "Mon",
+            "name": "Mon"
+        },
+        {
+            "id": "Phomching",
+            "name": "Phomching"
+        },
+        {
+            "id": "Tizit",
+            "name": "Tizit"
+        },
+        {
+            "id": "Tobu",
+            "name": "Tobu"
+        },
+        {
+            "id": "Wakching",
+            "name": "Wakching"
+        }
+    ],
+    "Noklak": [
+        {
+            "id": "Noklak",
+            "name": "Noklak"
+        },
+        {
+            "id": "Panso",
+            "name": "Panso"
+        },
+        {
+            "id": "Thonoknyu",
+            "name": "Thonoknyu"
+        }
+    ],
+    "Peren": [
+        {
+            "id": "Athibung",
+            "name": "Athibung"
+        },
+        {
+            "id": "Jalukie",
+            "name": "Jalukie"
+        },
+        {
+            "id": "Peren",
+            "name": "Peren"
+        },
+        {
+            "id": "Tenning",
+            "name": "Tenning"
+        }
+    ],
+    "Phek": [
+        {
+            "id": "Chetheba",
+            "name": "Chetheba"
+        },
+        {
+            "id": "Chizami",
+            "name": "Chizami"
+        },
+        {
+            "id": "Kikruma",
+            "name": "Kikruma"
+        },
+        {
+            "id": "Meluri",
+            "name": "Meluri"
+        },
+        {
+            "id": "Pfutsero",
+            "name": "Pfutsero"
+        },
+        {
+            "id": "Phek",
+            "name": "Phek"
+        },
+        {
+            "id": "Sekruzu",
+            "name": "Sekruzu"
+        },
+        {
+            "id": "Weziho",
+            "name": "Weziho"
+        }
+    ],
+    "Shamator": [
+        {
+            "id": "Chessore",
+            "name": "Chessore"
+        },
+        {
+            "id": "Shamator",
+            "name": "Shamator"
+        }
+    ],
+    "Tseminyu": [
+        {
+            "id": "Chunlikha",
+            "name": "Chunlikha"
+        },
+        {
+            "id": "Tseminyu",
+            "name": "Tseminyu"
+        }
+    ],
+    "Tuensang": [
+        {
+            "id": "Chare",
+            "name": "Chare"
+        },
+        {
+            "id": "Longkhim",
+            "name": "Longkhim"
+        },
+        {
+            "id": "Noksen",
+            "name": "Noksen"
+        },
+        {
+            "id": "Sangsangyu",
+            "name": "Sangsangyu"
+        }
+    ],
+    "Wokha": [
+        {
+            "id": "Bhandari",
+            "name": "Bhandari"
+        },
+        {
+            "id": "Changpang",
+            "name": "Changpang"
+        },
+        {
+            "id": "Chukitong",
+            "name": "Chukitong"
+        },
+        {
+            "id": "Ralan",
+            "name": "Ralan"
+        },
+        {
+            "id": "Sanis",
+            "name": "Sanis"
+        },
+        {
+            "id": "Wokha",
+            "name": "Wokha"
+        },
+        {
+            "id": "Wozhuro-Ralan",
+            "name": "Wozhuro-Ralan"
+        }
+    ],
+    "Zunheboto": [
+        {
+            "id": "Akuhaito",
+            "name": "Akuhaito"
+        },
+        {
+            "id": "Akuluto",
+            "name": "Akuluto"
+        },
+        {
+            "id": "Ghathashi",
+            "name": "Ghathashi"
+        },
+        {
+            "id": "Satakha",
+            "name": "Satakha"
+        },
+        {
+            "id": "Satoi",
+            "name": "Satoi"
+        },
+        {
+            "id": "Suruhoto",
+            "name": "Suruhoto"
+        },
+        {
+            "id": "Tokiye",
+            "name": "Tokiye"
+        },
+        {
+            "id": "Zunheboto",
+            "name": "Zunheboto"
+        }
+    ]
+}

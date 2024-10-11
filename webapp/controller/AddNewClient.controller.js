@@ -57,10 +57,10 @@ sap.ui.define(
                     oView.byId("idNumEmployees"),
                 ];
                 // Iterate over all input fields
-                inputs.forEach(function(input) {
-                        // If input is not empty, reset ValueState to None
-                        input.setValueState("None");
-                        input.setValue("");
+                inputs.forEach(function (input) {
+                    // If input is not empty, reset ValueState to None
+                    input.setValueState("None");
+                    input.setValue("");
                 });
             },
 
@@ -83,6 +83,13 @@ sap.ui.define(
                 var sNumEmployees = oView.byId("idNumEmployees").getValue();
                 var sRenewableEnergy = oView.byId("idRenewableEnergy").getSelectedKey();
                 var sReportingType = oView.byId("idReportingType").getSelectedKey();
+                var aReportingType = [];
+                if (sReportingType == 'Both') {
+                    aReportingType.push('BRSR');
+                    aReportingType.push('GRI');
+                } else {
+                    aReportingType.push(sReportingType);
+                }
                 // Perform form validation
                 if (!isValid) {
                     return;
@@ -98,7 +105,8 @@ sap.ui.define(
                     numEmployees: sNumEmployees,
                     renewableEnergy: sRenewableEnergy,
                     status: 'Active',
-                    domain: sFullDomain,
+                    reportingType: aReportingType,
+                    domain: sFullDomain
                 };
                 var oFModel = this.getView().getModel("fbModel").getData();
                 var oFirestore = oFModel.oFirestore;
@@ -119,7 +127,7 @@ sap.ui.define(
                         var secondaryApp = oFModel.secondaryApp;
                         secondaryApp.auth().createUserWithEmailAndPassword(username, password)
                             .then((userCredential) => {
-                             //   User successfully created
+                                //   User successfully created
                                 secondaryApp.auth().signOut();
                                 const user = userCredential.user;
                                 var db = firebase.firestore();
@@ -131,11 +139,7 @@ sap.ui.define(
                                     role: 'Admin',
                                     email: sAdminEmail,
                                     phone: iAdminPhone,
-                                    country: sCountry,
-                                    state: 'All',
-                                    district: 'All',
-                                    block: 'All',
-                                    officeType: 'All'
+                                    branches: []
                                 }).then(() => {
                                     sap.m.MessageToast.show("Client Credentials Created Successfully");
                                 }).catch(error => {
@@ -164,7 +168,7 @@ sap.ui.define(
                         // Send Email and show message
                         // that.getOwnerComponent().getModel("oAppConfig").setProperty("/currentNav", "AddNewClient");
                         sap.m.MessageToast.show("Email with credentials of the user: " + username + " sent to the email ID: " + sAdminEmail);
-                        oRouter.navTo("ReportingSheets",{currentNav: "AddNewClient", domain: sFullDomain});
+                        oRouter.navTo("ReportingSheets", { currentNav: "AddNewClient", domain: sFullDomain });
                     })
                     .catch((error) => {
                         console.error("Error adding document: ", error);
@@ -182,7 +186,7 @@ sap.ui.define(
                 oInput.setValue(sCleanValue);
             },
 
-            onValidateInputs: function() {
+            onValidateInputs: function () {
                 var isValid = true;
                 var oView = this.getView();
                 // Get all input fields in the view
@@ -194,9 +198,9 @@ sap.ui.define(
                     oView.byId("domainInput"),
                     oView.byId("idNumEmployees"),
                 ];
-            
+
                 // Iterate over all input fields
-                inputs.forEach(function(input) {
+                inputs.forEach(function (input) {
                     if (!input.getValue()) {
                         // If input is empty, set ValueState to Error
                         input.setValueState("Error");
@@ -207,7 +211,18 @@ sap.ui.define(
                         input.setValueState("None");
                     }
                 });
-            
+                // Validate Email
+                var pattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+                var validEmail = pattern.test(oView.byId("idAdminEmail").getValue());
+                if (!validEmail) {
+                    oView.byId("idAdminEmail").setValueState("Error");
+                    oView.byId("idAdminEmail").setValueStateText("Enter a valid email ID");
+                    isValid = false;
+                } else {
+                    // If input is not empty, reset ValueState to None
+                    oView.byId("idAdminEmail").setValueState("None");
+                }
+
                 return isValid; // Return whether all inputs are valid
             }
 

@@ -1,0 +1,2726 @@
+{
+    "Alluri Sitharama Raju": [
+        {
+            "id": "Addateegala",
+            "name": "Addateegala"
+        },
+        {
+            "id": "Ananthagiri",
+            "name": "Ananthagiri"
+        },
+        {
+            "id": "Araku Valley",
+            "name": "Araku Valley"
+        },
+        {
+            "id": "Chintapalle",
+            "name": "Chintapalle"
+        },
+        {
+            "id": "Chintoor",
+            "name": "Chintoor"
+        },
+        {
+            "id": "Devipatnam",
+            "name": "Devipatnam"
+        },
+        {
+            "id": "Dumbriguda",
+            "name": "Dumbriguda"
+        },
+        {
+            "id": "Gangavaram",
+            "name": "Gangavaram"
+        },
+        {
+            "id": "G.Madugula",
+            "name": "G.Madugula"
+        },
+        {
+            "id": "Gudem Kotha Veedhi",
+            "name": "Gudem Kotha Veedhi"
+        },
+        {
+            "id": "Hukumpeta",
+            "name": "Hukumpeta"
+        },
+        {
+            "id": "Koyyuru",
+            "name": "Koyyuru"
+        },
+        {
+            "id": "Kunavaram",
+            "name": "Kunavaram"
+        },
+        {
+            "id": "Maredumilli",
+            "name": "Maredumilli"
+        },
+        {
+            "id": "Munchingi Puttu",
+            "name": "Munchingi Puttu"
+        },
+        {
+            "id": "Nellipaka",
+            "name": "Nellipaka"
+        },
+        {
+            "id": "Paderu",
+            "name": "Paderu"
+        },
+        {
+            "id": "Peda Bayalu",
+            "name": "Peda Bayalu"
+        },
+        {
+            "id": "Rajavommangi",
+            "name": "Rajavommangi"
+        },
+        {
+            "id": "Rampachodavaram",
+            "name": "Rampachodavaram"
+        },
+        {
+            "id": "Vararamachandrapuram",
+            "name": "Vararamachandrapuram"
+        },
+        {
+            "id": "Y. Ramavaram",
+            "name": "Y. Ramavaram"
+        }
+    ],
+    "Anakapalli": [
+        {
+            "id": "Achutapuram",
+            "name": "Achutapuram"
+        },
+        {
+            "id": "Anakapalle",
+            "name": "Anakapalle"
+        },
+        {
+            "id": "Butchayyapeta",
+            "name": "Butchayyapeta"
+        },
+        {
+            "id": "Cheedikada",
+            "name": "Cheedikada"
+        },
+        {
+            "id": "Chodavaram",
+            "name": "Chodavaram"
+        },
+        {
+            "id": "Devarapalle",
+            "name": "Devarapalle"
+        },
+        {
+            "id": "Golugonda",
+            "name": "Golugonda"
+        },
+        {
+            "id": "Kasimkota",
+            "name": "Kasimkota"
+        },
+        {
+            "id": "K.Kotapadu",
+            "name": "K.Kotapadu"
+        },
+        {
+            "id": "Kotauratla",
+            "name": "Kotauratla"
+        },
+        {
+            "id": "Madugula",
+            "name": "Madugula"
+        },
+        {
+            "id": "Makavarapalem",
+            "name": "Makavarapalem"
+        },
+        {
+            "id": "Munagapaka",
+            "name": "Munagapaka"
+        },
+        {
+            "id": "Nakkapalle",
+            "name": "Nakkapalle"
+        },
+        {
+            "id": "Narsipatnam",
+            "name": "Narsipatnam"
+        },
+        {
+            "id": "Nathavaram",
+            "name": "Nathavaram"
+        },
+        {
+            "id": "Paravada",
+            "name": "Paravada"
+        },
+        {
+            "id": "Payakaraopeta",
+            "name": "Payakaraopeta"
+        },
+        {
+            "id": "Rambilli",
+            "name": "Rambilli"
+        },
+        {
+            "id": "Ravikamatham",
+            "name": "Ravikamatham"
+        },
+        {
+            "id": "Rolugunta",
+            "name": "Rolugunta"
+        },
+        {
+            "id": "Sabbavaram",
+            "name": "Sabbavaram"
+        },
+        {
+            "id": "S.Rayavaram",
+            "name": "S.Rayavaram"
+        },
+        {
+            "id": "Yelamanchili",
+            "name": "Yelamanchili"
+        }
+    ],
+    "Ananthapuramu": [
+        {
+            "id": "Anantapur",
+            "name": "Anantapur"
+        },
+        {
+            "id": "Atmakur",
+            "name": "Atmakur"
+        },
+        {
+            "id": "Beluguppa",
+            "name": "Beluguppa"
+        },
+        {
+            "id": "Bommanahal",
+            "name": "Bommanahal"
+        },
+        {
+            "id": "Brahmasamudram",
+            "name": "Brahmasamudram"
+        },
+        {
+            "id": "Bukkarayasamudram",
+            "name": "Bukkarayasamudram"
+        },
+        {
+            "id": "D.Hirehal",
+            "name": "D.Hirehal"
+        },
+        {
+            "id": "Garladinne",
+            "name": "Garladinne"
+        },
+        {
+            "id": "Gooty",
+            "name": "Gooty"
+        },
+        {
+            "id": "Gummagatta",
+            "name": "Gummagatta"
+        },
+        {
+            "id": "Guntakal",
+            "name": "Guntakal"
+        },
+        {
+            "id": "Kalyandrug",
+            "name": "Kalyandrug"
+        },
+        {
+            "id": "Kambadur",
+            "name": "Kambadur"
+        },
+        {
+            "id": "Kanekal",
+            "name": "Kanekal"
+        },
+        {
+            "id": "Kudair",
+            "name": "Kudair"
+        },
+        {
+            "id": "Kundurpi",
+            "name": "Kundurpi"
+        },
+        {
+            "id": "Narpala",
+            "name": "Narpala"
+        },
+        {
+            "id": "Pamidi",
+            "name": "Pamidi"
+        },
+        {
+            "id": "Peddapappur",
+            "name": "Peddapappur"
+        },
+        {
+            "id": "Peddavadugur",
+            "name": "Peddavadugur"
+        },
+        {
+            "id": "Putlur",
+            "name": "Putlur"
+        },
+        {
+            "id": "Raptadu",
+            "name": "Raptadu"
+        },
+        {
+            "id": "Rayadurg",
+            "name": "Rayadurg"
+        },
+        {
+            "id": "Settur",
+            "name": "Settur"
+        },
+        {
+            "id": "Singanamala",
+            "name": "Singanamala"
+        },
+        {
+            "id": "Tadipatri",
+            "name": "Tadipatri"
+        },
+        {
+            "id": "Uravakonda",
+            "name": "Uravakonda"
+        },
+        {
+            "id": "Vajrakarur",
+            "name": "Vajrakarur"
+        },
+        {
+            "id": "Vidapanakal",
+            "name": "Vidapanakal"
+        },
+        {
+            "id": "Yadiki",
+            "name": "Yadiki"
+        },
+        {
+            "id": "Yellanur",
+            "name": "Yellanur"
+        }
+    ],
+    "Annamayya": [
+        {
+            "id": "B.Kothakota",
+            "name": "B.Kothakota"
+        },
+        {
+            "id": "Chinnamandem",
+            "name": "Chinnamandem"
+        },
+        {
+            "id": "Chitvel",
+            "name": "Chitvel"
+        },
+        {
+            "id": "Galiveedu",
+            "name": "Galiveedu"
+        },
+        {
+            "id": "Gurramkonda",
+            "name": "Gurramkonda"
+        },
+        {
+            "id": "Kalakada",
+            "name": "Kalakada"
+        },
+        {
+            "id": "Kalikiri",
+            "name": "Kalikiri"
+        },
+        {
+            "id": "Kambhamvaripalle",
+            "name": "Kambhamvaripalle"
+        },
+        {
+            "id": "Kodur",
+            "name": "Kodur"
+        },
+        {
+            "id": "Kurabalakota",
+            "name": "Kurabalakota"
+        },
+        {
+            "id": "Lakkireddipalle",
+            "name": "Lakkireddipalle"
+        },
+        {
+            "id": "Madanapalle",
+            "name": "Madanapalle"
+        },
+        {
+            "id": "Mulakalacheruvu",
+            "name": "Mulakalacheruvu"
+        },
+        {
+            "id": "Nandalur",
+            "name": "Nandalur"
+        },
+        {
+            "id": "Nimmanapalle",
+            "name": "Nimmanapalle"
+        },
+        {
+            "id": "Obulavaripalle",
+            "name": "Obulavaripalle"
+        },
+        {
+            "id": "Peddamandyam",
+            "name": "Peddamandyam"
+        },
+        {
+            "id": "Peddathippasamudram",
+            "name": "Peddathippasamudram"
+        },
+        {
+            "id": "Penagalur",
+            "name": "Penagalur"
+        },
+        {
+            "id": "Piler",
+            "name": "Piler"
+        },
+        {
+            "id": "Pullampeta",
+            "name": "Pullampeta"
+        },
+        {
+            "id": "Rajampet",
+            "name": "Rajampet"
+        },
+        {
+            "id": "Ramapuram",
+            "name": "Ramapuram"
+        },
+        {
+            "id": "Ramasamudram",
+            "name": "Ramasamudram"
+        },
+        {
+            "id": "Rayachoty",
+            "name": "Rayachoty"
+        },
+        {
+            "id": "Sambepalle",
+            "name": "Sambepalle"
+        },
+        {
+            "id": "Thamballapalle",
+            "name": "Thamballapalle"
+        },
+        {
+            "id": "T.Sundupalle",
+            "name": "T.Sundupalle"
+        },
+        {
+            "id": "Valmikipuram",
+            "name": "Valmikipuram"
+        },
+        {
+            "id": "Veeraballi",
+            "name": "Veeraballi"
+        }
+    ],
+    "Bapatla": [
+        {
+            "id": "Addanki",
+            "name": "Addanki"
+        },
+        {
+            "id": "Amruthalur",
+            "name": "Amruthalur"
+        },
+        {
+            "id": "Ballikurava",
+            "name": "Ballikurava"
+        },
+        {
+            "id": "Bapatla",
+            "name": "Bapatla"
+        },
+        {
+            "id": "Bhattiprolu",
+            "name": "Bhattiprolu"
+        },
+        {
+            "id": "Cherukupalle",
+            "name": "Cherukupalle"
+        },
+        {
+            "id": "Chinaganjam",
+            "name": "Chinaganjam"
+        },
+        {
+            "id": "Chirala",
+            "name": "Chirala"
+        },
+        {
+            "id": "Inkollu",
+            "name": "Inkollu"
+        },
+        {
+            "id": "Janakavaram Ponguluru",
+            "name": "Janakavaram Ponguluru"
+        },
+        {
+            "id": "Karamchedu",
+            "name": "Karamchedu"
+        },
+        {
+            "id": "Karlapalem",
+            "name": "Karlapalem"
+        },
+        {
+            "id": "Kollur",
+            "name": "Kollur"
+        },
+        {
+            "id": "Korisapadu",
+            "name": "Korisapadu"
+        },
+        {
+            "id": "Martur",
+            "name": "Martur"
+        },
+        {
+            "id": "Nagaram",
+            "name": "Nagaram"
+        },
+        {
+            "id": "Nizampatnam",
+            "name": "Nizampatnam"
+        },
+        {
+            "id": "Parchur",
+            "name": "Parchur"
+        },
+        {
+            "id": "Pittalavanipalem",
+            "name": "Pittalavanipalem"
+        },
+        {
+            "id": "Repalle",
+            "name": "Repalle"
+        },
+        {
+            "id": "Santhamaguluru",
+            "name": "Santhamaguluru"
+        },
+        {
+            "id": "Tsundur",
+            "name": "Tsundur"
+        },
+        {
+            "id": "Vemuru",
+            "name": "Vemuru"
+        },
+        {
+            "id": "Vetapalem",
+            "name": "Vetapalem"
+        },
+        {
+            "id": "Yddana Pudi",
+            "name": "Yddana Pudi"
+        }
+    ],
+    "Chittoor": [
+        {
+            "id": "Baireddipalle",
+            "name": "Baireddipalle"
+        },
+        {
+            "id": "Bangarupalem",
+            "name": "Bangarupalem"
+        },
+        {
+            "id": "Chittoor",
+            "name": "Chittoor"
+        },
+        {
+            "id": "Chowdepalle",
+            "name": "Chowdepalle"
+        },
+        {
+            "id": "Gangadhara Nellore",
+            "name": "Gangadhara Nellore"
+        },
+        {
+            "id": "Gangavaram",
+            "name": "Gangavaram"
+        },
+        {
+            "id": "Gudipala",
+            "name": "Gudipala"
+        },
+        {
+            "id": "Gudupalle",
+            "name": "Gudupalle"
+        },
+        {
+            "id": "Irala",
+            "name": "Irala"
+        },
+        {
+            "id": "Karvetinagar",
+            "name": "Karvetinagar"
+        },
+        {
+            "id": "Kuppam",
+            "name": "Kuppam"
+        },
+        {
+            "id": "Nagari",
+            "name": "Nagari"
+        },
+        {
+            "id": "Nindra",
+            "name": "Nindra"
+        },
+        {
+            "id": "Palamaner",
+            "name": "Palamaner"
+        },
+        {
+            "id": "Palasamudram",
+            "name": "Palasamudram"
+        },
+        {
+            "id": "Peddapanjani",
+            "name": "Peddapanjani"
+        },
+        {
+            "id": "Penumuru",
+            "name": "Penumuru"
+        },
+        {
+            "id": "Pulicherla H/O Reddivaripalle",
+            "name": "Pulicherla H/O Reddivaripalle"
+        },
+        {
+            "id": "Punganur",
+            "name": "Punganur"
+        },
+        {
+            "id": "Puthalapattu",
+            "name": "Puthalapattu"
+        },
+        {
+            "id": "Ramakuppam",
+            "name": "Ramakuppam"
+        },
+        {
+            "id": "Rompicherla",
+            "name": "Rompicherla"
+        },
+        {
+            "id": "Santhipuram Ho Arimuthanapalle",
+            "name": "Santhipuram Ho Arimuthanapalle"
+        },
+        {
+            "id": "Sodam",
+            "name": "Sodam"
+        },
+        {
+            "id": "Somala",
+            "name": "Somala"
+        },
+        {
+            "id": "Srirangarajapuram",
+            "name": "Srirangarajapuram"
+        },
+        {
+            "id": "Thavanampalle",
+            "name": "Thavanampalle"
+        },
+        {
+            "id": "Vedurukuppam",
+            "name": "Vedurukuppam"
+        },
+        {
+            "id": "Venkatagirikota",
+            "name": "Venkatagirikota"
+        },
+        {
+            "id": "Vijayapuram",
+            "name": "Vijayapuram"
+        },
+        {
+            "id": "Yadamari",
+            "name": "Yadamari"
+        }
+    ],
+    "Dr. B.R. Ambedkar Konaseema": [
+        {
+            "id": "Ainavilli",
+            "name": "Ainavilli"
+        },
+        {
+            "id": "Alamuru",
+            "name": "Alamuru"
+        },
+        {
+            "id": "Allavaram",
+            "name": "Allavaram"
+        },
+        {
+            "id": "Amalapuram",
+            "name": "Amalapuram"
+        },
+        {
+            "id": "Ambajipeta",
+            "name": "Ambajipeta"
+        },
+        {
+            "id": "Atreyapuram",
+            "name": "Atreyapuram"
+        },
+        {
+            "id": "I. Polavaram",
+            "name": "I. Polavaram"
+        },
+        {
+            "id": "Kapileswarapuram",
+            "name": "Kapileswarapuram"
+        },
+        {
+            "id": "Katrenikona",
+            "name": "Katrenikona"
+        },
+        {
+            "id": "Kothapeta",
+            "name": "Kothapeta"
+        },
+        {
+            "id": "Malikipuram",
+            "name": "Malikipuram"
+        },
+        {
+            "id": "Mamidikuduru",
+            "name": "Mamidikuduru"
+        },
+        {
+            "id": "Mandapeta",
+            "name": "Mandapeta"
+        },
+        {
+            "id": "Mummidivaram",
+            "name": "Mummidivaram"
+        },
+        {
+            "id": "Pamarru",
+            "name": "Pamarru"
+        },
+        {
+            "id": "P.Gannavaram",
+            "name": "P.Gannavaram"
+        },
+        {
+            "id": "Ramachandrapuram",
+            "name": "Ramachandrapuram"
+        },
+        {
+            "id": "Ravulapalem",
+            "name": "Ravulapalem"
+        },
+        {
+            "id": "Rayavaram",
+            "name": "Rayavaram"
+        },
+        {
+            "id": "Razole",
+            "name": "Razole"
+        },
+        {
+            "id": "Sakhinetipalle",
+            "name": "Sakhinetipalle"
+        },
+        {
+            "id": "Uppalaguptam",
+            "name": "Uppalaguptam"
+        }
+    ],
+    "East Godavari": [
+        {
+            "id": "Anaparthy",
+            "name": "Anaparthy"
+        },
+        {
+            "id": "Biccavolu",
+            "name": "Biccavolu"
+        },
+        {
+            "id": "Chagallu",
+            "name": "Chagallu"
+        },
+        {
+            "id": "Devarapalle",
+            "name": "Devarapalle"
+        },
+        {
+            "id": "Gokavaram",
+            "name": "Gokavaram"
+        },
+        {
+            "id": "Gopalapuram",
+            "name": "Gopalapuram"
+        },
+        {
+            "id": "Kadiam",
+            "name": "Kadiam"
+        },
+        {
+            "id": "Korukonda",
+            "name": "Korukonda"
+        },
+        {
+            "id": "Kovvur",
+            "name": "Kovvur"
+        },
+        {
+            "id": "Nallajerla",
+            "name": "Nallajerla"
+        },
+        {
+            "id": "Nidadavole",
+            "name": "Nidadavole"
+        },
+        {
+            "id": "Peravali",
+            "name": "Peravali"
+        },
+        {
+            "id": "Rajahmundry Rural",
+            "name": "Rajahmundry Rural"
+        },
+        {
+            "id": "Rajahmundry Urban",
+            "name": "Rajahmundry Urban"
+        },
+        {
+            "id": "Rajanagaram",
+            "name": "Rajanagaram"
+        },
+        {
+            "id": "Rangampeta",
+            "name": "Rangampeta"
+        },
+        {
+            "id": "Seethanagaram",
+            "name": "Seethanagaram"
+        },
+        {
+            "id": "Thallapudi",
+            "name": "Thallapudi"
+        },
+        {
+            "id": "Undrajavaram",
+            "name": "Undrajavaram"
+        }
+    ],
+    "Eluru": [
+        {
+            "id": "Agiripalli",
+            "name": "Agiripalli"
+        },
+        {
+            "id": "Bhimadole",
+            "name": "Bhimadole"
+        },
+        {
+            "id": "Buttayagudem",
+            "name": "Buttayagudem"
+        },
+        {
+            "id": "Chatrai",
+            "name": "Chatrai"
+        },
+        {
+            "id": "Chintalapudi",
+            "name": "Chintalapudi"
+        },
+        {
+            "id": "Denduluru",
+            "name": "Denduluru"
+        },
+        {
+            "id": "Dwarakatirumala",
+            "name": "Dwarakatirumala"
+        },
+        {
+            "id": "Eluru",
+            "name": "Eluru"
+        },
+        {
+            "id": "Jangareddigudem",
+            "name": "Jangareddigudem"
+        },
+        {
+            "id": "Jeelugumilli",
+            "name": "Jeelugumilli"
+        },
+        {
+            "id": "Kaikalur",
+            "name": "Kaikalur"
+        },
+        {
+            "id": "Kalidindi",
+            "name": "Kalidindi"
+        },
+        {
+            "id": "Kamavarapukota",
+            "name": "Kamavarapukota"
+        },
+        {
+            "id": "Koyyalagudem",
+            "name": "Koyyalagudem"
+        },
+        {
+            "id": "Kukkunur",
+            "name": "Kukkunur"
+        },
+        {
+            "id": "Lingapalem",
+            "name": "Lingapalem"
+        },
+        {
+            "id": "Mandavalli",
+            "name": "Mandavalli"
+        },
+        {
+            "id": "Mudinepalle",
+            "name": "Mudinepalle"
+        },
+        {
+            "id": "Musunuru",
+            "name": "Musunuru"
+        },
+        {
+            "id": "Nidamarru",
+            "name": "Nidamarru"
+        },
+        {
+            "id": "Nuzvid",
+            "name": "Nuzvid"
+        },
+        {
+            "id": "Pedapadu",
+            "name": "Pedapadu"
+        },
+        {
+            "id": "Pedavegi",
+            "name": "Pedavegi"
+        },
+        {
+            "id": "Polavaram",
+            "name": "Polavaram"
+        },
+        {
+            "id": "T.Narasapuram",
+            "name": "T.Narasapuram"
+        },
+        {
+            "id": "Unguturu",
+            "name": "Unguturu"
+        },
+        {
+            "id": "Velairpad",
+            "name": "Velairpad"
+        }
+    ],
+    "Guntur": [
+        {
+            "id": "Chebrole",
+            "name": "Chebrole"
+        },
+        {
+            "id": "Duggirala",
+            "name": "Duggirala"
+        },
+        {
+            "id": "Guntur",
+            "name": "Guntur"
+        },
+        {
+            "id": "Kakumanu",
+            "name": "Kakumanu"
+        },
+        {
+            "id": "Kollipara",
+            "name": "Kollipara"
+        },
+        {
+            "id": "Mangalagiri",
+            "name": "Mangalagiri"
+        },
+        {
+            "id": "Medikonduru",
+            "name": "Medikonduru"
+        },
+        {
+            "id": "Pedakakani",
+            "name": "Pedakakani"
+        },
+        {
+            "id": "Pedanandipadu",
+            "name": "Pedanandipadu"
+        },
+        {
+            "id": "Phirangipuram",
+            "name": "Phirangipuram"
+        },
+        {
+            "id": "Ponnur",
+            "name": "Ponnur"
+        },
+        {
+            "id": "Prathipadu",
+            "name": "Prathipadu"
+        },
+        {
+            "id": "Tadepalle",
+            "name": "Tadepalle"
+        },
+        {
+            "id": "Tadikonda",
+            "name": "Tadikonda"
+        },
+        {
+            "id": "Tenali",
+            "name": "Tenali"
+        },
+        {
+            "id": "Thullur",
+            "name": "Thullur"
+        },
+        {
+            "id": "Vatticherukuru",
+            "name": "Vatticherukuru"
+        }
+    ],
+    "Kakinada": [
+        {
+            "id": "Gandepalle",
+            "name": "Gandepalle"
+        },
+        {
+            "id": "Gollaprolu",
+            "name": "Gollaprolu"
+        },
+        {
+            "id": "Jaggampeta",
+            "name": "Jaggampeta"
+        },
+        {
+            "id": "Kajuluru",
+            "name": "Kajuluru"
+        },
+        {
+            "id": "Kakinada Rural",
+            "name": "Kakinada Rural"
+        },
+        {
+            "id": "Kakinada Urban",
+            "name": "Kakinada Urban"
+        },
+        {
+            "id": "Karapa",
+            "name": "Karapa"
+        },
+        {
+            "id": "Kirlampudi",
+            "name": "Kirlampudi"
+        },
+        {
+            "id": "Kotananduru",
+            "name": "Kotananduru"
+        },
+        {
+            "id": "Pedapudi",
+            "name": "Pedapudi"
+        },
+        {
+            "id": "Peddapuram",
+            "name": "Peddapuram"
+        },
+        {
+            "id": "Pithapuram",
+            "name": "Pithapuram"
+        },
+        {
+            "id": "Prathipadu",
+            "name": "Prathipadu"
+        },
+        {
+            "id": "Routhulapudi",
+            "name": "Routhulapudi"
+        },
+        {
+            "id": "Samalkota",
+            "name": "Samalkota"
+        },
+        {
+            "id": "Sankhavaram",
+            "name": "Sankhavaram"
+        },
+        {
+            "id": "Thallarevu",
+            "name": "Thallarevu"
+        },
+        {
+            "id": "Thondangi",
+            "name": "Thondangi"
+        },
+        {
+            "id": "Tuni",
+            "name": "Tuni"
+        },
+        {
+            "id": "U.Kothapalle",
+            "name": "U.Kothapalle"
+        },
+        {
+            "id": "Yeleswaram",
+            "name": "Yeleswaram"
+        }
+    ],
+    "Krishna": [
+        {
+            "id": "Avanigadda",
+            "name": "Avanigadda"
+        },
+        {
+            "id": "Bantumilli",
+            "name": "Bantumilli"
+        },
+        {
+            "id": "Bapulapadu",
+            "name": "Bapulapadu"
+        },
+        {
+            "id": "Challapalli",
+            "name": "Challapalli"
+        },
+        {
+            "id": "Gannavaram",
+            "name": "Gannavaram"
+        },
+        {
+            "id": "Ghantasala",
+            "name": "Ghantasala"
+        },
+        {
+            "id": "Gudivada",
+            "name": "Gudivada"
+        },
+        {
+            "id": "Gudlavalleru",
+            "name": "Gudlavalleru"
+        },
+        {
+            "id": "Guduru",
+            "name": "Guduru"
+        },
+        {
+            "id": "Kankipadu",
+            "name": "Kankipadu"
+        },
+        {
+            "id": "Koduru",
+            "name": "Koduru"
+        },
+        {
+            "id": "Kruttivennu",
+            "name": "Kruttivennu"
+        },
+        {
+            "id": "Machilipatnam",
+            "name": "Machilipatnam"
+        },
+        {
+            "id": "Mopidevi",
+            "name": "Mopidevi"
+        },
+        {
+            "id": "Movva",
+            "name": "Movva"
+        },
+        {
+            "id": "Nagayalanka",
+            "name": "Nagayalanka"
+        },
+        {
+            "id": "Nandivada",
+            "name": "Nandivada"
+        },
+        {
+            "id": "Pamarru",
+            "name": "Pamarru"
+        },
+        {
+            "id": "Pamidimukkala",
+            "name": "Pamidimukkala"
+        },
+        {
+            "id": "Pedana",
+            "name": "Pedana"
+        },
+        {
+            "id": "Pedaparupudi",
+            "name": "Pedaparupudi"
+        },
+        {
+            "id": "Penamaluru",
+            "name": "Penamaluru"
+        },
+        {
+            "id": "Thotlavalluru",
+            "name": "Thotlavalluru"
+        },
+        {
+            "id": "Unguturu",
+            "name": "Unguturu"
+        },
+        {
+            "id": "Vuyyuru",
+            "name": "Vuyyuru"
+        }
+    ],
+    "Kurnool": [
+        {
+            "id": "Adoni",
+            "name": "Adoni"
+        },
+        {
+            "id": "Alur",
+            "name": "Alur"
+        },
+        {
+            "id": "Aspari",
+            "name": "Aspari"
+        },
+        {
+            "id": "C.Belagal",
+            "name": "C.Belagal"
+        },
+        {
+            "id": "Chippagiri",
+            "name": "Chippagiri"
+        },
+        {
+            "id": "Devanakonda",
+            "name": "Devanakonda"
+        },
+        {
+            "id": "Gonegandla",
+            "name": "Gonegandla"
+        },
+        {
+            "id": "Gudur",
+            "name": "Gudur"
+        },
+        {
+            "id": "Halaharvi",
+            "name": "Halaharvi"
+        },
+        {
+            "id": "Holagunda",
+            "name": "Holagunda"
+        },
+        {
+            "id": "Kallur",
+            "name": "Kallur"
+        },
+        {
+            "id": "Kodumur",
+            "name": "Kodumur"
+        },
+        {
+            "id": "Kosigi",
+            "name": "Kosigi"
+        },
+        {
+            "id": "Kowthalam",
+            "name": "Kowthalam"
+        },
+        {
+            "id": "Krishnagiri",
+            "name": "Krishnagiri"
+        },
+        {
+            "id": "Kurnool",
+            "name": "Kurnool"
+        },
+        {
+            "id": "Maddikera (East)",
+            "name": "Maddikera (East)"
+        },
+        {
+            "id": "Mantralayam",
+            "name": "Mantralayam"
+        },
+        {
+            "id": "Nandavaram",
+            "name": "Nandavaram"
+        },
+        {
+            "id": "Orvakal",
+            "name": "Orvakal"
+        },
+        {
+            "id": "Pattikonda",
+            "name": "Pattikonda"
+        },
+        {
+            "id": "Peddakadabur",
+            "name": "Peddakadabur"
+        },
+        {
+            "id": "Tuggali",
+            "name": "Tuggali"
+        },
+        {
+            "id": "Veldurthi",
+            "name": "Veldurthi"
+        },
+        {
+            "id": "Yemmiganur",
+            "name": "Yemmiganur"
+        }
+    ],
+    "Nandyal": [
+        {
+            "id": "Allagadda",
+            "name": "Allagadda"
+        },
+        {
+            "id": "Atmakur",
+            "name": "Atmakur"
+        },
+        {
+            "id": "Banaganapalle",
+            "name": "Banaganapalle"
+        },
+        {
+            "id": "Bandi Atmakur",
+            "name": "Bandi Atmakur"
+        },
+        {
+            "id": "Bethamcherla",
+            "name": "Bethamcherla"
+        },
+        {
+            "id": "Chagalamarri",
+            "name": "Chagalamarri"
+        },
+        {
+            "id": "Dhone Alias Dronachalam",
+            "name": "Dhone Alias Dronachalam"
+        },
+        {
+            "id": "Dornipadu",
+            "name": "Dornipadu"
+        },
+        {
+            "id": "Gadivemula",
+            "name": "Gadivemula"
+        },
+        {
+            "id": "Gospadu",
+            "name": "Gospadu"
+        },
+        {
+            "id": "Jupadu Bungalow",
+            "name": "Jupadu Bungalow"
+        },
+        {
+            "id": "Koilakuntla",
+            "name": "Koilakuntla"
+        },
+        {
+            "id": "Kolimigundla",
+            "name": "Kolimigundla"
+        },
+        {
+            "id": "Kothapalle",
+            "name": "Kothapalle"
+        },
+        {
+            "id": "Mahanandi",
+            "name": "Mahanandi"
+        },
+        {
+            "id": "Midthur",
+            "name": "Midthur"
+        },
+        {
+            "id": "Nandikotkur",
+            "name": "Nandikotkur"
+        },
+        {
+            "id": "Nandyal",
+            "name": "Nandyal"
+        },
+        {
+            "id": "Owk",
+            "name": "Owk"
+        },
+        {
+            "id": "Pagidyala",
+            "name": "Pagidyala"
+        },
+        {
+            "id": "Pamulapadu",
+            "name": "Pamulapadu"
+        },
+        {
+            "id": "Panyam",
+            "name": "Panyam"
+        },
+        {
+            "id": "Peapully",
+            "name": "Peapully"
+        },
+        {
+            "id": "Rudravaram",
+            "name": "Rudravaram"
+        },
+        {
+            "id": "Sanjamala",
+            "name": "Sanjamala"
+        },
+        {
+            "id": "Sirivel",
+            "name": "Sirivel"
+        },
+        {
+            "id": "Srisailam",
+            "name": "Srisailam"
+        },
+        {
+            "id": "Uyyalawada",
+            "name": "Uyyalawada"
+        },
+        {
+            "id": "Velugodu",
+            "name": "Velugodu"
+        }
+    ],
+    "Ntr": [
+        {
+            "id": "A.Konduru",
+            "name": "A.Konduru"
+        },
+        {
+            "id": "Chandarlapadu",
+            "name": "Chandarlapadu"
+        },
+        {
+            "id": "Gampalagudem",
+            "name": "Gampalagudem"
+        },
+        {
+            "id": "G.Konduru",
+            "name": "G.Konduru"
+        },
+        {
+            "id": "Ibrahimpatnam",
+            "name": "Ibrahimpatnam"
+        },
+        {
+            "id": "Jaggayyapeta",
+            "name": "Jaggayyapeta"
+        },
+        {
+            "id": "Kanchikacherla",
+            "name": "Kanchikacherla"
+        },
+        {
+            "id": "Mylavaram",
+            "name": "Mylavaram"
+        },
+        {
+            "id": "Nandigama",
+            "name": "Nandigama"
+        },
+        {
+            "id": "Penuganchiprolu",
+            "name": "Penuganchiprolu"
+        },
+        {
+            "id": "Reddigudem",
+            "name": "Reddigudem"
+        },
+        {
+            "id": "Tiruvuru",
+            "name": "Tiruvuru"
+        },
+        {
+            "id": "Vatsavai",
+            "name": "Vatsavai"
+        },
+        {
+            "id": "Veerullapadu",
+            "name": "Veerullapadu"
+        },
+        {
+            "id": "Vijayawada Rural",
+            "name": "Vijayawada Rural"
+        },
+        {
+            "id": "Vijayawada Urban",
+            "name": "Vijayawada Urban"
+        },
+        {
+            "id": "Vissannapet",
+            "name": "Vissannapet"
+        }
+    ],
+    "Palnadu": [
+        {
+            "id": "Amaravathi",
+            "name": "Amaravathi"
+        },
+        {
+            "id": "Atchempet",
+            "name": "Atchempet"
+        },
+        {
+            "id": "Bellamkonda",
+            "name": "Bellamkonda"
+        },
+        {
+            "id": "Bollapalle",
+            "name": "Bollapalle"
+        },
+        {
+            "id": "Chilakaluripet",
+            "name": "Chilakaluripet"
+        },
+        {
+            "id": "Dachepalle",
+            "name": "Dachepalle"
+        },
+        {
+            "id": "Durgi",
+            "name": "Durgi"
+        },
+        {
+            "id": "Edlapadu",
+            "name": "Edlapadu"
+        },
+        {
+            "id": "Gurazala",
+            "name": "Gurazala"
+        },
+        {
+            "id": "Ipur",
+            "name": "Ipur"
+        },
+        {
+            "id": "Karempudi",
+            "name": "Karempudi"
+        },
+        {
+            "id": "Krosuru",
+            "name": "Krosuru"
+        },
+        {
+            "id": "Machavaram",
+            "name": "Machavaram"
+        },
+        {
+            "id": "Macherla",
+            "name": "Macherla"
+        },
+        {
+            "id": "Muppalla",
+            "name": "Muppalla"
+        },
+        {
+            "id": "Nadendla",
+            "name": "Nadendla"
+        },
+        {
+            "id": "Narasaraopeta",
+            "name": "Narasaraopeta"
+        },
+        {
+            "id": "Nekarikallu",
+            "name": "Nekarikallu"
+        },
+        {
+            "id": "Nuzendla",
+            "name": "Nuzendla"
+        },
+        {
+            "id": "Pedakurapadu",
+            "name": "Pedakurapadu"
+        },
+        {
+            "id": "Piduguralla",
+            "name": "Piduguralla"
+        },
+        {
+            "id": "Rajupalem",
+            "name": "Rajupalem"
+        },
+        {
+            "id": "Rentachintala",
+            "name": "Rentachintala"
+        },
+        {
+            "id": "Rompicherla",
+            "name": "Rompicherla"
+        },
+        {
+            "id": "Sattenapalle",
+            "name": "Sattenapalle"
+        },
+        {
+            "id": "Savalyapuram",
+            "name": "Savalyapuram"
+        },
+        {
+            "id": "Veldurthy",
+            "name": "Veldurthy"
+        },
+        {
+            "id": "Vinukonda",
+            "name": "Vinukonda"
+        }
+    ],
+    "Parvathipuram Manyam": [
+        {
+            "id": "Balijipeta",
+            "name": "Balijipeta"
+        },
+        {
+            "id": "Bhamini",
+            "name": "Bhamini"
+        },
+        {
+            "id": "Garugubilli",
+            "name": "Garugubilli"
+        },
+        {
+            "id": "Gummalakshmipuram",
+            "name": "Gummalakshmipuram"
+        },
+        {
+            "id": "Jiyyammavalasa",
+            "name": "Jiyyammavalasa"
+        },
+        {
+            "id": "Komarada",
+            "name": "Komarada"
+        },
+        {
+            "id": "Kurupam",
+            "name": "Kurupam"
+        },
+        {
+            "id": "Makkuva",
+            "name": "Makkuva"
+        },
+        {
+            "id": "Pachipenta",
+            "name": "Pachipenta"
+        },
+        {
+            "id": "Palakonda",
+            "name": "Palakonda"
+        },
+        {
+            "id": "Parvathipuram",
+            "name": "Parvathipuram"
+        },
+        {
+            "id": "Salur",
+            "name": "Salur"
+        },
+        {
+            "id": "Seethampeta",
+            "name": "Seethampeta"
+        },
+        {
+            "id": "Seethanagaram",
+            "name": "Seethanagaram"
+        },
+        {
+            "id": "Veeraghattam",
+            "name": "Veeraghattam"
+        }
+    ],
+    "Prakasam": [
+        {
+            "id": "Ardhaveedu",
+            "name": "Ardhaveedu"
+        },
+        {
+            "id": "Bestavaripeta",
+            "name": "Bestavaripeta"
+        },
+        {
+            "id": "Chandra Sekhara Puram",
+            "name": "Chandra Sekhara Puram"
+        },
+        {
+            "id": "Chimakurthi",
+            "name": "Chimakurthi"
+        },
+        {
+            "id": "Cumbum",
+            "name": "Cumbum"
+        },
+        {
+            "id": "Darsi",
+            "name": "Darsi"
+        },
+        {
+            "id": "Donakonda",
+            "name": "Donakonda"
+        },
+        {
+            "id": "Dornala",
+            "name": "Dornala"
+        },
+        {
+            "id": "Giddaluru",
+            "name": "Giddaluru"
+        },
+        {
+            "id": "Hanumanthuni Padu",
+            "name": "Hanumanthuni Padu"
+        },
+        {
+            "id": "Kanigiri",
+            "name": "Kanigiri"
+        },
+        {
+            "id": "Komarolu",
+            "name": "Komarolu"
+        },
+        {
+            "id": "Konakanamittla",
+            "name": "Konakanamittla"
+        },
+        {
+            "id": "Kondapi",
+            "name": "Kondapi"
+        },
+        {
+            "id": "Kotha Patnam",
+            "name": "Kotha Patnam"
+        },
+        {
+            "id": "Kurichedu",
+            "name": "Kurichedu"
+        },
+        {
+            "id": "Maddipadu",
+            "name": "Maddipadu"
+        },
+        {
+            "id": "Markapur",
+            "name": "Markapur"
+        },
+        {
+            "id": "Marripudi",
+            "name": "Marripudi"
+        },
+        {
+            "id": "Mundlamuru",
+            "name": "Mundlamuru"
+        },
+        {
+            "id": "Naguluppala Padu",
+            "name": "Naguluppala Padu"
+        },
+        {
+            "id": "Ongole",
+            "name": "Ongole"
+        },
+        {
+            "id": "Pamur",
+            "name": "Pamur"
+        },
+        {
+            "id": "Peda Araveedu",
+            "name": "Peda Araveedu"
+        },
+        {
+            "id": "Pedacherlo Palle",
+            "name": "Pedacherlo Palle"
+        },
+        {
+            "id": "Podili",
+            "name": "Podili"
+        },
+        {
+            "id": "Ponnaluru",
+            "name": "Ponnaluru"
+        },
+        {
+            "id": "Pullalacheruvu",
+            "name": "Pullalacheruvu"
+        },
+        {
+            "id": "Racherla",
+            "name": "Racherla"
+        },
+        {
+            "id": "Santhanuthala Padu",
+            "name": "Santhanuthala Padu"
+        },
+        {
+            "id": "Singarayakonda",
+            "name": "Singarayakonda"
+        },
+        {
+            "id": "Tallur",
+            "name": "Tallur"
+        },
+        {
+            "id": "Tangutur",
+            "name": "Tangutur"
+        },
+        {
+            "id": "Tarlupadu",
+            "name": "Tarlupadu"
+        },
+        {
+            "id": "Tripuranthakam",
+            "name": "Tripuranthakam"
+        },
+        {
+            "id": "Veligandla",
+            "name": "Veligandla"
+        },
+        {
+            "id": "Yerragondapalem",
+            "name": "Yerragondapalem"
+        },
+        {
+            "id": "Zarugumilli",
+            "name": "Zarugumilli"
+        }
+    ],
+    "Srikakulam": [
+        {
+            "id": "Amadalavalasa",
+            "name": "Amadalavalasa"
+        },
+        {
+            "id": "Burja",
+            "name": "Burja"
+        },
+        {
+            "id": "Etcherla",
+            "name": "Etcherla"
+        },
+        {
+            "id": "Ganguvarisigadam",
+            "name": "Ganguvarisigadam"
+        },
+        {
+            "id": "Gara",
+            "name": "Gara"
+        },
+        {
+            "id": "Hiramandalam",
+            "name": "Hiramandalam"
+        },
+        {
+            "id": "Ichapuram",
+            "name": "Ichapuram"
+        },
+        {
+            "id": "Jalumuru",
+            "name": "Jalumuru"
+        },
+        {
+            "id": "Kanchili",
+            "name": "Kanchili"
+        },
+        {
+            "id": "Kaviti",
+            "name": "Kaviti"
+        },
+        {
+            "id": "Kotabommili",
+            "name": "Kotabommili"
+        },
+        {
+            "id": "Kotturu",
+            "name": "Kotturu"
+        },
+        {
+            "id": "Laveru",
+            "name": "Laveru"
+        },
+        {
+            "id": "L.N Peta",
+            "name": "L.N Peta"
+        },
+        {
+            "id": "Mandasa",
+            "name": "Mandasa"
+        },
+        {
+            "id": "Meliaputti",
+            "name": "Meliaputti"
+        },
+        {
+            "id": "Nandigam",
+            "name": "Nandigam"
+        },
+        {
+            "id": "Narasannapeta",
+            "name": "Narasannapeta"
+        },
+        {
+            "id": "Palasa",
+            "name": "Palasa"
+        },
+        {
+            "id": "Pathapatnam",
+            "name": "Pathapatnam"
+        },
+        {
+            "id": "Polaki",
+            "name": "Polaki"
+        },
+        {
+            "id": "Ponduru",
+            "name": "Ponduru"
+        },
+        {
+            "id": "Ranastalam",
+            "name": "Ranastalam"
+        },
+        {
+            "id": "Santhabommali",
+            "name": "Santhabommali"
+        },
+        {
+            "id": "Saravakota",
+            "name": "Saravakota"
+        },
+        {
+            "id": "Sarubujjili",
+            "name": "Sarubujjili"
+        },
+        {
+            "id": "Sompeta",
+            "name": "Sompeta"
+        },
+        {
+            "id": "Srikakulam",
+            "name": "Srikakulam"
+        },
+        {
+            "id": "Tekkali",
+            "name": "Tekkali"
+        },
+        {
+            "id": "Vajrapukotturu",
+            "name": "Vajrapukotturu"
+        }
+    ],
+    "Sri Potti Sriramulu Nellore": [
+        {
+            "id": "Allur",
+            "name": "Allur"
+        },
+        {
+            "id": "Ananthasagaram",
+            "name": "Ananthasagaram"
+        },
+        {
+            "id": "Anumasamudrampeta",
+            "name": "Anumasamudrampeta"
+        },
+        {
+            "id": "Atmakur",
+            "name": "Atmakur"
+        },
+        {
+            "id": "Bogole",
+            "name": "Bogole"
+        },
+        {
+            "id": "Butchireddipalem",
+            "name": "Butchireddipalem"
+        },
+        {
+            "id": "Chejerla",
+            "name": "Chejerla"
+        },
+        {
+            "id": "Dagadarthi",
+            "name": "Dagadarthi"
+        },
+        {
+            "id": "Duttalur",
+            "name": "Duttalur"
+        },
+        {
+            "id": "Gudluru",
+            "name": "Gudluru"
+        },
+        {
+            "id": "Indukurpet",
+            "name": "Indukurpet"
+        },
+        {
+            "id": "Jaladanki",
+            "name": "Jaladanki"
+        },
+        {
+            "id": "Kaligiri",
+            "name": "Kaligiri"
+        },
+        {
+            "id": "Kaluvoya",
+            "name": "Kaluvoya"
+        },
+        {
+            "id": "Kandukur",
+            "name": "Kandukur"
+        },
+        {
+            "id": "Kavali",
+            "name": "Kavali"
+        },
+        {
+            "id": "Kodavalur",
+            "name": "Kodavalur"
+        },
+        {
+            "id": "Kondapuram",
+            "name": "Kondapuram"
+        },
+        {
+            "id": "Kovur",
+            "name": "Kovur"
+        },
+        {
+            "id": "Lingasamudram",
+            "name": "Lingasamudram"
+        },
+        {
+            "id": "Manubolu",
+            "name": "Manubolu"
+        },
+        {
+            "id": "Marripadu",
+            "name": "Marripadu"
+        },
+        {
+            "id": "Muthukur",
+            "name": "Muthukur"
+        },
+        {
+            "id": "Nellore Rural",
+            "name": "Nellore Rural"
+        },
+        {
+            "id": "Podalakur",
+            "name": "Podalakur"
+        },
+        {
+            "id": "Rapur",
+            "name": "Rapur"
+        },
+        {
+            "id": "Sangam",
+            "name": "Sangam"
+        },
+        {
+            "id": "Seetharamapuram",
+            "name": "Seetharamapuram"
+        },
+        {
+            "id": "Sydapuram",
+            "name": "Sydapuram"
+        },
+        {
+            "id": "Thotapalligudur",
+            "name": "Thotapalligudur"
+        },
+        {
+            "id": "Udayagiri",
+            "name": "Udayagiri"
+        },
+        {
+            "id": "Ulavapadu",
+            "name": "Ulavapadu"
+        },
+        {
+            "id": "Varikuntapadu",
+            "name": "Varikuntapadu"
+        },
+        {
+            "id": "Venkatachalam",
+            "name": "Venkatachalam"
+        },
+        {
+            "id": "Vidavalur",
+            "name": "Vidavalur"
+        },
+        {
+            "id": "Vinjamur",
+            "name": "Vinjamur"
+        },
+        {
+            "id": "Voletivari Palem",
+            "name": "Voletivari Palem"
+        }
+    ],
+    "Sri Sathya Sai": [
+        {
+            "id": "Agali",
+            "name": "Agali"
+        },
+        {
+            "id": "Amadagur",
+            "name": "Amadagur"
+        },
+        {
+            "id": "Amarapuram",
+            "name": "Amarapuram"
+        },
+        {
+            "id": "Bathalapalle",
+            "name": "Bathalapalle"
+        },
+        {
+            "id": "Bukkapatnam",
+            "name": "Bukkapatnam"
+        },
+        {
+            "id": "Chennekothapalle",
+            "name": "Chennekothapalle"
+        },
+        {
+            "id": "Chilamathur",
+            "name": "Chilamathur"
+        },
+        {
+            "id": "Dharmavaram",
+            "name": "Dharmavaram"
+        },
+        {
+            "id": "Gandlapenta",
+            "name": "Gandlapenta"
+        },
+        {
+            "id": "Gorantla",
+            "name": "Gorantla"
+        },
+        {
+            "id": "Gudibanda",
+            "name": "Gudibanda"
+        },
+        {
+            "id": "Hindupur",
+            "name": "Hindupur"
+        },
+        {
+            "id": "Kadiri",
+            "name": "Kadiri"
+        },
+        {
+            "id": "Kanaganapalle",
+            "name": "Kanaganapalle"
+        },
+        {
+            "id": "Kothacheruvu",
+            "name": "Kothacheruvu"
+        },
+        {
+            "id": "Lepakshi",
+            "name": "Lepakshi"
+        },
+        {
+            "id": "Madakasira",
+            "name": "Madakasira"
+        },
+        {
+            "id": "Mudigubba",
+            "name": "Mudigubba"
+        },
+        {
+            "id": "Nallacheruvu",
+            "name": "Nallacheruvu"
+        },
+        {
+            "id": "Nallamada",
+            "name": "Nallamada"
+        },
+        {
+            "id": "Nambulapulikunta",
+            "name": "Nambulapulikunta"
+        },
+        {
+            "id": "Obuladevarecheruvu",
+            "name": "Obuladevarecheruvu"
+        },
+        {
+            "id": "Parigi",
+            "name": "Parigi"
+        },
+        {
+            "id": "Penukonda",
+            "name": "Penukonda"
+        },
+        {
+            "id": "Puttaparthi",
+            "name": "Puttaparthi"
+        },
+        {
+            "id": "Ramagiri",
+            "name": "Ramagiri"
+        },
+        {
+            "id": "Roddam",
+            "name": "Roddam"
+        },
+        {
+            "id": "Rolla",
+            "name": "Rolla"
+        },
+        {
+            "id": "Somandepalle",
+            "name": "Somandepalle"
+        },
+        {
+            "id": "Tadimarri",
+            "name": "Tadimarri"
+        },
+        {
+            "id": "Talupula",
+            "name": "Talupula"
+        },
+        {
+            "id": "Tanakal",
+            "name": "Tanakal"
+        }
+    ],
+    "Tirupati": [
+        {
+            "id": "Balayapalle",
+            "name": "Balayapalle"
+        },
+        {
+            "id": "Buchinadidu Khandriga",
+            "name": "Buchinadidu Khandriga"
+        },
+        {
+            "id": "Chandragiri",
+            "name": "Chandragiri"
+        },
+        {
+            "id": "Chillakur",
+            "name": "Chillakur"
+        },
+        {
+            "id": "Chinnagottigallu",
+            "name": "Chinnagottigallu"
+        },
+        {
+            "id": "Chittamur",
+            "name": "Chittamur"
+        },
+        {
+            "id": "Dakkili",
+            "name": "Dakkili"
+        },
+        {
+            "id": "Doravarisatram",
+            "name": "Doravarisatram"
+        },
+        {
+            "id": "Gudur",
+            "name": "Gudur"
+        },
+        {
+            "id": "Kota",
+            "name": "Kota"
+        },
+        {
+            "id": "K.V.B.Puram",
+            "name": "K.V.B.Puram"
+        },
+        {
+            "id": "Nagalapuram",
+            "name": "Nagalapuram"
+        },
+        {
+            "id": "Naidupeta",
+            "name": "Naidupeta"
+        },
+        {
+            "id": "Narayanavanam",
+            "name": "Narayanavanam"
+        },
+        {
+            "id": "Ozili",
+            "name": "Ozili"
+        },
+        {
+            "id": "Pakala",
+            "name": "Pakala"
+        },
+        {
+            "id": "Pellakur",
+            "name": "Pellakur"
+        },
+        {
+            "id": "Pitchatur",
+            "name": "Pitchatur"
+        },
+        {
+            "id": "Puttur",
+            "name": "Puttur"
+        },
+        {
+            "id": "Ramachandrapuram",
+            "name": "Ramachandrapuram"
+        },
+        {
+            "id": "Renigunta",
+            "name": "Renigunta"
+        },
+        {
+            "id": "Satyavedu",
+            "name": "Satyavedu"
+        },
+        {
+            "id": "Srikalahasti",
+            "name": "Srikalahasti"
+        },
+        {
+            "id": "Sullurpeta",
+            "name": "Sullurpeta"
+        },
+        {
+            "id": "Tada",
+            "name": "Tada"
+        },
+        {
+            "id": "Thottambedu",
+            "name": "Thottambedu"
+        },
+        {
+            "id": "Tirupati (Rural)",
+            "name": "Tirupati (Rural)"
+        },
+        {
+            "id": "Vadamalapeta",
+            "name": "Vadamalapeta"
+        },
+        {
+            "id": "Vakadu",
+            "name": "Vakadu"
+        },
+        {
+            "id": "Varadaiahpalem",
+            "name": "Varadaiahpalem"
+        },
+        {
+            "id": "Venkatagiri",
+            "name": "Venkatagiri"
+        },
+        {
+            "id": "Yerpedu",
+            "name": "Yerpedu"
+        },
+        {
+            "id": "Yerravaripalem",
+            "name": "Yerravaripalem"
+        }
+    ],
+    "Visakhapatnam": [
+        {
+            "id": "Anandapuram",
+            "name": "Anandapuram"
+        },
+        {
+            "id": "Bheemunipatnam",
+            "name": "Bheemunipatnam"
+        },
+        {
+            "id": "Gajuwaka",
+            "name": "Gajuwaka"
+        },
+        {
+            "id": "Padmanabham",
+            "name": "Padmanabham"
+        },
+        {
+            "id": "Pedagantyada",
+            "name": "Pedagantyada"
+        },
+        {
+            "id": "Pendurthi",
+            "name": "Pendurthi"
+        },
+        {
+            "id": "Visakhapatnam(Rural)",
+            "name": "Visakhapatnam(Rural)"
+        }
+    ],
+    "Vizianagaram": [
+        {
+            "id": "Badangi",
+            "name": "Badangi"
+        },
+        {
+            "id": "Bhoghapuram",
+            "name": "Bhoghapuram"
+        },
+        {
+            "id": "Bobbili",
+            "name": "Bobbili"
+        },
+        {
+            "id": "Bondapalle",
+            "name": "Bondapalle"
+        },
+        {
+            "id": "Cheepurupalle",
+            "name": "Cheepurupalle"
+        },
+        {
+            "id": "Dattirajeru",
+            "name": "Dattirajeru"
+        },
+        {
+            "id": "Denkada",
+            "name": "Denkada"
+        },
+        {
+            "id": "Gajapathinagaram",
+            "name": "Gajapathinagaram"
+        },
+        {
+            "id": "Gantyada",
+            "name": "Gantyada"
+        },
+        {
+            "id": "Garividi",
+            "name": "Garividi"
+        },
+        {
+            "id": "Gurla",
+            "name": "Gurla"
+        },
+        {
+            "id": "Jami",
+            "name": "Jami"
+        },
+        {
+            "id": "Kothavalasa",
+            "name": "Kothavalasa"
+        },
+        {
+            "id": "Lakkavarapukota",
+            "name": "Lakkavarapukota"
+        },
+        {
+            "id": "Mentada",
+            "name": "Mentada"
+        },
+        {
+            "id": "Merakamudidam",
+            "name": "Merakamudidam"
+        },
+        {
+            "id": "Nellimarla",
+            "name": "Nellimarla"
+        },
+        {
+            "id": "Pusapatirega",
+            "name": "Pusapatirega"
+        },
+        {
+            "id": "Rajam",
+            "name": "Rajam"
+        },
+        {
+            "id": "Ramabhadrapuram",
+            "name": "Ramabhadrapuram"
+        },
+        {
+            "id": "Regidi Amadalavalasa",
+            "name": "Regidi Amadalavalasa"
+        },
+        {
+            "id": "Santhakavati",
+            "name": "Santhakavati"
+        },
+        {
+            "id": "Srungavarapukota",
+            "name": "Srungavarapukota"
+        },
+        {
+            "id": "Therlam",
+            "name": "Therlam"
+        },
+        {
+            "id": "Vangara",
+            "name": "Vangara"
+        },
+        {
+            "id": "Vepada",
+            "name": "Vepada"
+        },
+        {
+            "id": "Vizianagaram",
+            "name": "Vizianagaram"
+        }
+    ],
+    "West Godavari": [
+        {
+            "id": "Achanta",
+            "name": "Achanta"
+        },
+        {
+            "id": "Akividu",
+            "name": "Akividu"
+        },
+        {
+            "id": "Attili",
+            "name": "Attili"
+        },
+        {
+            "id": "Bhimavaram",
+            "name": "Bhimavaram"
+        },
+        {
+            "id": "Elamanchili",
+            "name": "Elamanchili"
+        },
+        {
+            "id": "Ganapavaram",
+            "name": "Ganapavaram"
+        },
+        {
+            "id": "Iragavaram",
+            "name": "Iragavaram"
+        },
+        {
+            "id": "Kalla",
+            "name": "Kalla"
+        },
+        {
+            "id": "Mogalthur",
+            "name": "Mogalthur"
+        },
+        {
+            "id": "Narsapur",
+            "name": "Narsapur"
+        },
+        {
+            "id": "Palacole",
+            "name": "Palacole"
+        },
+        {
+            "id": "Palakoderu",
+            "name": "Palakoderu"
+        },
+        {
+            "id": "Pentapadu",
+            "name": "Pentapadu"
+        },
+        {
+            "id": "Penugonda",
+            "name": "Penugonda"
+        },
+        {
+            "id": "Penumantra",
+            "name": "Penumantra"
+        },
+        {
+            "id": "Poduru",
+            "name": "Poduru"
+        },
+        {
+            "id": "Tadepalligudem",
+            "name": "Tadepalligudem"
+        },
+        {
+            "id": "Tanuku",
+            "name": "Tanuku"
+        },
+        {
+            "id": "Undi",
+            "name": "Undi"
+        },
+        {
+            "id": "Veeravasaram",
+            "name": "Veeravasaram"
+        }
+    ],
+    "Y.S.R.": [
+        {
+            "id": "Atlur",
+            "name": "Atlur"
+        },
+        {
+            "id": "Badvel",
+            "name": "Badvel"
+        },
+        {
+            "id": "B.Kodur",
+            "name": "B.Kodur"
+        },
+        {
+            "id": "Brahmamgarimatham.",
+            "name": "Brahmamgarimatham."
+        },
+        {
+            "id": "Chakrayapet",
+            "name": "Chakrayapet"
+        },
+        {
+            "id": "Chapadu",
+            "name": "Chapadu"
+        },
+        {
+            "id": "Chennur",
+            "name": "Chennur"
+        },
+        {
+            "id": "Chintakomma Dinne",
+            "name": "Chintakomma Dinne"
+        },
+        {
+            "id": "Duvvur",
+            "name": "Duvvur"
+        },
+        {
+            "id": "Gopavaram",
+            "name": "Gopavaram"
+        },
+        {
+            "id": "Jammalamadugu",
+            "name": "Jammalamadugu"
+        },
+        {
+            "id": "Kadapa",
+            "name": "Kadapa"
+        },
+        {
+            "id": "Kalasapadu",
+            "name": "Kalasapadu"
+        },
+        {
+            "id": "Kamalapuram",
+            "name": "Kamalapuram"
+        },
+        {
+            "id": "Khajipet",
+            "name": "Khajipet"
+        },
+        {
+            "id": "Kondapuram",
+            "name": "Kondapuram"
+        },
+        {
+            "id": "Lingala",
+            "name": "Lingala"
+        },
+        {
+            "id": "Muddanur",
+            "name": "Muddanur"
+        },
+        {
+            "id": "Mydukur",
+            "name": "Mydukur"
+        },
+        {
+            "id": "Mylavaram",
+            "name": "Mylavaram"
+        },
+        {
+            "id": "Peddamudium",
+            "name": "Peddamudium"
+        },
+        {
+            "id": "Pendlimarri",
+            "name": "Pendlimarri"
+        },
+        {
+            "id": "Porumamilla",
+            "name": "Porumamilla"
+        },
+        {
+            "id": "Proddatur",
+            "name": "Proddatur"
+        },
+        {
+            "id": "Pulivendla",
+            "name": "Pulivendla"
+        },
+        {
+            "id": "Rajupalem",
+            "name": "Rajupalem"
+        },
+        {
+            "id": "Sidhout",
+            "name": "Sidhout"
+        },
+        {
+            "id": "Simhadripuram",
+            "name": "Simhadripuram"
+        },
+        {
+            "id": "Sri Avadutha Kasinayana",
+            "name": "Sri Avadutha Kasinayana"
+        },
+        {
+            "id": "Thondur",
+            "name": "Thondur"
+        },
+        {
+            "id": "Vallur",
+            "name": "Vallur"
+        },
+        {
+            "id": "Veerapanayani Palle",
+            "name": "Veerapanayani Palle"
+        },
+        {
+            "id": "Vempalle",
+            "name": "Vempalle"
+        },
+        {
+            "id": "Vemula",
+            "name": "Vemula"
+        },
+        {
+            "id": "Vontimitta",
+            "name": "Vontimitta"
+        },
+        {
+            "id": "Yerraguntla",
+            "name": "Yerraguntla"
+        }
+    ]
+}

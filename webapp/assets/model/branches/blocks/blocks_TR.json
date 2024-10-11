@@ -1,0 +1,250 @@
+{
+    "Dhalai": [
+        {
+            "id": "Ambassa",
+            "name": "Ambassa"
+        },
+        {
+            "id": "Chawmanu",
+            "name": "Chawmanu"
+        },
+        {
+            "id": "Dumburnagar",
+            "name": "Dumburnagar"
+        },
+        {
+            "id": "Durgachowmuhani",
+            "name": "Durgachowmuhani"
+        },
+        {
+            "id": "Ganganagar",
+            "name": "Ganganagar"
+        },
+        {
+            "id": "Manu",
+            "name": "Manu"
+        },
+        {
+            "id": "Raishyabari",
+            "name": "Raishyabari"
+        },
+        {
+            "id": "Salema",
+            "name": "Salema"
+        }
+    ],
+    "Gomati": [
+        {
+            "id": "Amarpur",
+            "name": "Amarpur"
+        },
+        {
+            "id": "Kakraban",
+            "name": "Kakraban"
+        },
+        {
+            "id": "Karbook",
+            "name": "Karbook"
+        },
+        {
+            "id": "Killa",
+            "name": "Killa"
+        },
+        {
+            "id": "Matabari",
+            "name": "Matabari"
+        },
+        {
+            "id": "Ompi",
+            "name": "Ompi"
+        },
+        {
+            "id": "Silachari",
+            "name": "Silachari"
+        },
+        {
+            "id": "Tepania",
+            "name": "Tepania"
+        }
+    ],
+    "Khowai": [
+        {
+            "id": "Kalyanpur",
+            "name": "Kalyanpur"
+        },
+        {
+            "id": "Khowai",
+            "name": "Khowai"
+        },
+        {
+            "id": "Mungiakami",
+            "name": "Mungiakami"
+        },
+        {
+            "id": "Padmabil",
+            "name": "Padmabil"
+        },
+        {
+            "id": "Teliamura",
+            "name": "Teliamura"
+        },
+        {
+            "id": "Tulashikhar",
+            "name": "Tulashikhar"
+        }
+    ],
+    "North Tripura": [
+        {
+            "id": "Damcherra",
+            "name": "Damcherra"
+        },
+        {
+            "id": "Dasda",
+            "name": "Dasda"
+        },
+        {
+            "id": "Jampui Hills",
+            "name": "Jampui Hills"
+        },
+        {
+            "id": "Jubarajnagar",
+            "name": "Jubarajnagar"
+        },
+        {
+            "id": "Kadamtala",
+            "name": "Kadamtala"
+        },
+        {
+            "id": "Kalacherra",
+            "name": "Kalacherra"
+        },
+        {
+            "id": "Laljuri",
+            "name": "Laljuri"
+        },
+        {
+            "id": "Panisagar",
+            "name": "Panisagar"
+        }
+    ],
+    "Sepahijala": [
+        {
+            "id": "Bishalgarh",
+            "name": "Bishalgarh"
+        },
+        {
+            "id": "Boxanagar",
+            "name": "Boxanagar"
+        },
+        {
+            "id": "Charilam",
+            "name": "Charilam"
+        },
+        {
+            "id": "Jampuijala",
+            "name": "Jampuijala"
+        },
+        {
+            "id": "Kathalia",
+            "name": "Kathalia"
+        },
+        {
+            "id": "Mohanbhog",
+            "name": "Mohanbhog"
+        },
+        {
+            "id": "Nalchar",
+            "name": "Nalchar"
+        }
+    ],
+    "South Tripura": [
+        {
+            "id": "Bharat Chandra Nagar",
+            "name": "Bharat Chandra Nagar"
+        },
+        {
+            "id": "Bokafa",
+            "name": "Bokafa"
+        },
+        {
+            "id": "Hrishyamukh",
+            "name": "Hrishyamukh"
+        },
+        {
+            "id": "Jolaibari",
+            "name": "Jolaibari"
+        },
+        {
+            "id": "Poangbari",
+            "name": "Poangbari"
+        },
+        {
+            "id": "Rajnagar",
+            "name": "Rajnagar"
+        },
+        {
+            "id": "Rupaichari",
+            "name": "Rupaichari"
+        },
+        {
+            "id": "Satchand",
+            "name": "Satchand"
+        }
+    ],
+    "Unakoti": [
+        {
+            "id": "Chandipur",
+            "name": "Chandipur"
+        },
+        {
+            "id": "Gournagar",
+            "name": "Gournagar"
+        },
+        {
+            "id": "Kumarghat",
+            "name": "Kumarghat"
+        },
+        {
+            "id": "Pecharthal",
+            "name": "Pecharthal"
+        }
+    ],
+    "West Tripura": [
+        {
+            "id": "Bamutia",
+            "name": "Bamutia"
+        },
+        {
+            "id": "Belbari",
+            "name": "Belbari"
+        },
+        {
+            "id": "Dukli",
+            "name": "Dukli"
+        },
+        {
+            "id": "Hezamara",
+            "name": "Hezamara"
+        },
+        {
+            "id": "Jirania",
+            "name": "Jirania"
+        },
+        {
+            "id": "Lefunga",
+            "name": "Lefunga"
+        },
+        {
+            "id": "Mandwai",
+            "name": "Mandwai"
+        },
+        {
+            "id": "Mohanpur",
+            "name": "Mohanpur"
+        },
+        {
+            "id": "Old Agartala",
+            "name": "Old Agartala"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "Gangtok": [
+        {
+            "id": "Khamdong",
+            "name": "Khamdong"
+        },
+        {
+            "id": "Martam",
+            "name": "Martam"
+        },
+        {
+            "id": "Nandok",
+            "name": "Nandok"
+        },
+        {
+            "id": "Rakdong Tintek",
+            "name": "Rakdong Tintek"
+        },
+        {
+            "id": "Ranka",
+            "name": "Ranka"
+        }
+    ],
+    "Gyalshing": [
+        {
+            "id": "Arithang Chongrang",
+            "name": "Arithang Chongrang"
+        },
+        {
+            "id": "Dentam",
+            "name": "Dentam"
+        },
+        {
+            "id": "Gyalshing",
+            "name": "Gyalshing"
+        },
+        {
+            "id": "Hee Martam",
+            "name": "Hee Martam"
+        },
+        {
+            "id": "Yuksom",
+            "name": "Yuksom"
+        }
+    ],
+    "Mangan": [
+        {
+            "id": "Chungthang",
+            "name": "Chungthang"
+        },
+        {
+            "id": "Kabi Tingda",
+            "name": "Kabi Tingda"
+        },
+        {
+            "id": "Mangan",
+            "name": "Mangan"
+        },
+        {
+            "id": "Passingdang",
+            "name": "Passingdang"
+        }
+    ],
+    "Namchi": [
+        {
+            "id": "Jorethang",
+            "name": "Jorethang"
+        },
+        {
+            "id": "Namchi",
+            "name": "Namchi"
+        },
+        {
+            "id": "Namthang",
+            "name": "Namthang"
+        },
+        {
+            "id": "Ravangla",
+            "name": "Ravangla"
+        },
+        {
+            "id": "Sumbuk",
+            "name": "Sumbuk"
+        },
+        {
+            "id": "Temi",
+            "name": "Temi"
+        },
+        {
+            "id": "Wok",
+            "name": "Wok"
+        },
+        {
+            "id": "Yangang",
+            "name": "Yangang"
+        }
+    ],
+    "Pakyong": [
+        {
+            "id": "Duga",
+            "name": "Duga"
+        },
+        {
+            "id": "Namcheybong",
+            "name": "Namcheybong"
+        },
+        {
+            "id": "Pakyong",
+            "name": "Pakyong"
+        },
+        {
+            "id": "Parkha",
+            "name": "Parkha"
+        },
+        {
+            "id": "Reghu",
+            "name": "Reghu"
+        },
+        {
+            "id": "Rhenock",
+            "name": "Rhenock"
+        }
+    ],
+    "Soreng": [
+        {
+            "id": "Baiguney",
+            "name": "Baiguney"
+        },
+        {
+            "id": "Chumbong Chakung",
+            "name": "Chumbong Chakung"
+        },
+        {
+            "id": "Daramdin",
+            "name": "Daramdin"
+        },
+        {
+            "id": "Kaluk",
+            "name": "Kaluk"
+        },
+        {
+            "id": "Mangalbarey",
+            "name": "Mangalbarey"
+        },
+        {
+            "id": "Soreng",
+            "name": "Soreng"
+        }
+    ]
+}

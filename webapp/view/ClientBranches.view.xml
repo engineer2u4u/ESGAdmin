@@ -43,9 +43,10 @@
                         <Label text="Country" />
                         <Select
                             width="200px"
-                            id="idCountry"
+                            id="idCountrySelect"
                             items="{country>/results}"
                             change="onCountryChange"
+                            forceSelection="false"
                         >
                             <core:Item
                                 key="{country>id}"
@@ -61,6 +62,7 @@
                             id="idState"
                             items="{states>/results}"
                             change="onStateChange"
+                            forceSelection="false"
                         >
                             <core:Item
                                 key="{states>id}"
@@ -76,6 +78,7 @@
                             id="idDistrict"
                             items="{districts>/results}"
                             change="onDistrictChange"
+                            forceSelection="false"
                         >
                             <core:Item
                                 key="{districts>id}"
@@ -90,6 +93,7 @@
                             width="200px"
                             id="idBlock"
                             items="{blocks>/results}"
+                            forceSelection="false"
                         >
                             <core:Item
                                 key="{blocks>id}"
@@ -102,7 +106,7 @@
                 <HBox width="70%">
                     <VBox>
                         <Label text="Type of Office" />
-                        <Select id="idOffice">
+                        <Select id="idOffice" forceSelection="false">
                             <core:Item
                                 key="Corporate Office"
                                 text="Corporate Office"
@@ -172,9 +176,9 @@
                             <Column>
                                 <Text text="Office Type" />
                             </Column>
-                            <Column>
+                            <!-- <Column>
                                 <Text text="Operation" />
-                            </Column>
+                            </Column> -->
                         </columns>
                         <items>
                             <ColumnListItem>
@@ -184,7 +188,7 @@
                                     <Text text="{orgData>district}" />
                                     <Text text="{orgData>block}" />
                                     <Text text="{orgData>officeType}" />
-                                    <Button icon="sap-icon://delete" />
+                                    <!-- <Button icon="sap-icon://delete" /> -->
                                 </cells>
                             </ColumnListItem>
                         </items>

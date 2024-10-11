@@ -1,0 +1,130 @@
+{
+    "Kargil": [
+        {
+            "id": "Barsoo",
+            "name": "Barsoo"
+        },
+        {
+            "id": "Bhimbat",
+            "name": "Bhimbat"
+        },
+        {
+            "id": "Drass",
+            "name": "Drass"
+        },
+        {
+            "id": "Gm Pora (Trespone)",
+            "name": "Gm Pora (Trespone)"
+        },
+        {
+            "id": "Kargil",
+            "name": "Kargil"
+        },
+        {
+            "id": "Karsha",
+            "name": "Karsha"
+        },
+        {
+            "id": "Lotsum",
+            "name": "Lotsum"
+        },
+        {
+            "id": "Lungnak",
+            "name": "Lungnak"
+        },
+        {
+            "id": "Pashkum",
+            "name": "Pashkum"
+        },
+        {
+            "id": "Sankoo",
+            "name": "Sankoo"
+        },
+        {
+            "id": "Shaker Chaktan",
+            "name": "Shaker Chaktan"
+        },
+        {
+            "id": "Shargol",
+            "name": "Shargol"
+        },
+        {
+            "id": "Soudh",
+            "name": "Soudh"
+        },
+        {
+            "id": "Taisuru",
+            "name": "Taisuru"
+        },
+        {
+            "id": "Zansker",
+            "name": "Zansker"
+        }
+    ],
+    "Leh Ladakh": [
+        {
+            "id": "Chuchot",
+            "name": "Chuchot"
+        },
+        {
+            "id": "Deskit",
+            "name": "Deskit"
+        },
+        {
+            "id": "Durbuk",
+            "name": "Durbuk"
+        },
+        {
+            "id": "Khaltsi",
+            "name": "Khaltsi"
+        },
+        {
+            "id": "Kharu",
+            "name": "Kharu"
+        },
+        {
+            "id": "Leh",
+            "name": "Leh"
+        },
+        {
+            "id": "Nimoo",
+            "name": "Nimoo"
+        },
+        {
+            "id": "Nyoma",
+            "name": "Nyoma"
+        },
+        {
+            "id": "Panamic",
+            "name": "Panamic"
+        },
+        {
+            "id": "Rong",
+            "name": "Rong"
+        },
+        {
+            "id": "Rupsho",
+            "name": "Rupsho"
+        },
+        {
+            "id": "Saspol",
+            "name": "Saspol"
+        },
+        {
+            "id": "Singay Lalok Wanla",
+            "name": "Singay Lalok Wanla"
+        },
+        {
+            "id": "Sukerbachan",
+            "name": "Sukerbachan"
+        },
+        {
+            "id": "Thiksay",
+            "name": "Thiksay"
+        },
+        {
+            "id": "Turtuk",
+            "name": "Turtuk"
+        }
+    ]
+}

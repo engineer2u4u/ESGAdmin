@@ -1,0 +1,44 @@
+{
+    "Nicobars": [
+        {
+            "id": "Campbell Bay",
+            "name": "Campbell Bay"
+        },
+        {
+            "id": "Car Nicobar",
+            "name": "Car Nicobar"
+        },
+        {
+            "id": "Nancowrie",
+            "name": "Nancowrie"
+        }
+    ],
+    "North And Middle Andaman": [
+        {
+            "id": "Diglipur",
+            "name": "Diglipur"
+        },
+        {
+            "id": "Mayabunder",
+            "name": "Mayabunder"
+        },
+        {
+            "id": "Rangat",
+            "name": "Rangat"
+        }
+    ],
+    "South Andamans": [
+        {
+            "id": "Ferrargunj",
+            "name": "Ferrargunj"
+        },
+        {
+            "id": "Little Andaman",
+            "name": "Little Andaman"
+        },
+        {
+            "id": "Prothrapur",
+            "name": "Prothrapur"
+        }
+    ]
+}

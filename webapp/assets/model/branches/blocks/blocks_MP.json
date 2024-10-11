@@ -1,0 +1,1364 @@
+{
+    "Agar-Malwa": [
+        {
+            "id": "Agar",
+            "name": "Agar"
+        },
+        {
+            "id": "Barod",
+            "name": "Barod"
+        },
+        {
+            "id": "Nalkheda",
+            "name": "Nalkheda"
+        },
+        {
+            "id": "Susner",
+            "name": "Susner"
+        }
+    ],
+    "Alirajpur": [
+        {
+            "id": "Alirajpur",
+            "name": "Alirajpur"
+        },
+        {
+            "id": "Bhabra",
+            "name": "Bhabra"
+        },
+        {
+            "id": "Jobat",
+            "name": "Jobat"
+        },
+        {
+            "id": "Katthiwada",
+            "name": "Katthiwada"
+        },
+        {
+            "id": "Sondwa",
+            "name": "Sondwa"
+        },
+        {
+            "id": "Udaigarh",
+            "name": "Udaigarh"
+        }
+    ],
+    "Anuppur": [
+        {
+            "id": "Anuppur",
+            "name": "Anuppur"
+        },
+        {
+            "id": "Jaithari",
+            "name": "Jaithari"
+        },
+        {
+            "id": "Kotma",
+            "name": "Kotma"
+        },
+        {
+            "id": "Pushprajgarh",
+            "name": "Pushprajgarh"
+        }
+    ],
+    "Ashoknagar": [
+        {
+            "id": "Ashoknagar",
+            "name": "Ashoknagar"
+        },
+        {
+            "id": "Chanderi",
+            "name": "Chanderi"
+        },
+        {
+            "id": "Isagarh",
+            "name": "Isagarh"
+        },
+        {
+            "id": "Mungaoli",
+            "name": "Mungaoli"
+        }
+    ],
+    "Balaghat": [
+        {
+            "id": "Baihar",
+            "name": "Baihar"
+        },
+        {
+            "id": "Balaghat",
+            "name": "Balaghat"
+        },
+        {
+            "id": "Birsa",
+            "name": "Birsa"
+        },
+        {
+            "id": "Katangi",
+            "name": "Katangi"
+        },
+        {
+            "id": "Khairlanji",
+            "name": "Khairlanji"
+        },
+        {
+            "id": "Kirnapur",
+            "name": "Kirnapur"
+        },
+        {
+            "id": "Lalbarra",
+            "name": "Lalbarra"
+        },
+        {
+            "id": "Lanji",
+            "name": "Lanji"
+        },
+        {
+            "id": "Paraswada",
+            "name": "Paraswada"
+        },
+        {
+            "id": "Waraseoni",
+            "name": "Waraseoni"
+        }
+    ],
+    "Barwani": [
+        {
+            "id": "Barwani",
+            "name": "Barwani"
+        },
+        {
+            "id": "Newali",
+            "name": "Newali"
+        },
+        {
+            "id": "Pansemal",
+            "name": "Pansemal"
+        },
+        {
+            "id": "Pati",
+            "name": "Pati"
+        },
+        {
+            "id": "Rajpur",
+            "name": "Rajpur"
+        },
+        {
+            "id": "Sendhawa",
+            "name": "Sendhawa"
+        },
+        {
+            "id": "Thikri",
+            "name": "Thikri"
+        }
+    ],
+    "Betul": [
+        {
+            "id": "Amla",
+            "name": "Amla"
+        },
+        {
+            "id": "Athner",
+            "name": "Athner"
+        },
+        {
+            "id": "Betul",
+            "name": "Betul"
+        },
+        {
+            "id": "Bhainsdehi",
+            "name": "Bhainsdehi"
+        },
+        {
+            "id": "Bhimpur",
+            "name": "Bhimpur"
+        },
+        {
+            "id": "Chicholi",
+            "name": "Chicholi"
+        },
+        {
+            "id": "Ghoradongri",
+            "name": "Ghoradongri"
+        },
+        {
+            "id": "Multai",
+            "name": "Multai"
+        },
+        {
+            "id": "Prabhat Pattan",
+            "name": "Prabhat Pattan"
+        },
+        {
+            "id": "Shahpur",
+            "name": "Shahpur"
+        }
+    ],
+    "Bhind": [
+        {
+            "id": "Ater",
+            "name": "Ater"
+        },
+        {
+            "id": "Bhind",
+            "name": "Bhind"
+        },
+        {
+            "id": "Gohad",
+            "name": "Gohad"
+        },
+        {
+            "id": "Lahar",
+            "name": "Lahar"
+        },
+        {
+            "id": "Mehgaon",
+            "name": "Mehgaon"
+        },
+        {
+            "id": "Raon",
+            "name": "Raon"
+        }
+    ],
+    "Bhopal": [
+        {
+            "id": "Berasia",
+            "name": "Berasia"
+        },
+        {
+            "id": "Phanda",
+            "name": "Phanda"
+        }
+    ],
+    "Burhanpur": [
+        {
+            "id": "Burhanpur",
+            "name": "Burhanpur"
+        },
+        {
+            "id": "Khaknar",
+            "name": "Khaknar"
+        }
+    ],
+    "Chhatarpur": [
+        {
+            "id": "Bada Malehara",
+            "name": "Bada Malehara"
+        },
+        {
+            "id": "Barigarh",
+            "name": "Barigarh"
+        },
+        {
+            "id": "Bijawar",
+            "name": "Bijawar"
+        },
+        {
+            "id": "Buxwaha",
+            "name": "Buxwaha"
+        },
+        {
+            "id": "Chhatarpur",
+            "name": "Chhatarpur"
+        },
+        {
+            "id": "Lavkush Nagar",
+            "name": "Lavkush Nagar"
+        },
+        {
+            "id": "Nowgong",
+            "name": "Nowgong"
+        },
+        {
+            "id": "Rajnagar",
+            "name": "Rajnagar"
+        }
+    ],
+    "Chhindwara": [
+        {
+            "id": "Amarwara",
+            "name": "Amarwara"
+        },
+        {
+            "id": "Bichhua",
+            "name": "Bichhua"
+        },
+        {
+            "id": "Chaurai",
+            "name": "Chaurai"
+        },
+        {
+            "id": "Chhindwara",
+            "name": "Chhindwara"
+        },
+        {
+            "id": "Harrai",
+            "name": "Harrai"
+        },
+        {
+            "id": "Jamai",
+            "name": "Jamai"
+        },
+        {
+            "id": "Mohkhed",
+            "name": "Mohkhed"
+        },
+        {
+            "id": "Parasia",
+            "name": "Parasia"
+        },
+        {
+            "id": "Tamia",
+            "name": "Tamia"
+        }
+    ],
+    "Damoh": [
+        {
+            "id": "Batiyagarh",
+            "name": "Batiyagarh"
+        },
+        {
+            "id": "Damoh",
+            "name": "Damoh"
+        },
+        {
+            "id": "Hatta",
+            "name": "Hatta"
+        },
+        {
+            "id": "Jabera",
+            "name": "Jabera"
+        },
+        {
+            "id": "Patera",
+            "name": "Patera"
+        },
+        {
+            "id": "Pathariya",
+            "name": "Pathariya"
+        },
+        {
+            "id": "Tendukheda",
+            "name": "Tendukheda"
+        }
+    ],
+    "Datia": [
+        {
+            "id": "Bhander",
+            "name": "Bhander"
+        },
+        {
+            "id": "Datia",
+            "name": "Datia"
+        },
+        {
+            "id": "Seondha",
+            "name": "Seondha"
+        }
+    ],
+    "Dewas": [
+        {
+            "id": "Bagli",
+            "name": "Bagli"
+        },
+        {
+            "id": "Dewas",
+            "name": "Dewas"
+        },
+        {
+            "id": "Kannod",
+            "name": "Kannod"
+        },
+        {
+            "id": "Khategaon",
+            "name": "Khategaon"
+        },
+        {
+            "id": "Sonkatch",
+            "name": "Sonkatch"
+        },
+        {
+            "id": "Tonk Khurd",
+            "name": "Tonk Khurd"
+        }
+    ],
+    "Dhar": [
+        {
+            "id": "Badnawar",
+            "name": "Badnawar"
+        },
+        {
+            "id": "Bagh",
+            "name": "Bagh"
+        },
+        {
+            "id": "Dahi",
+            "name": "Dahi"
+        },
+        {
+            "id": "Dhar",
+            "name": "Dhar"
+        },
+        {
+            "id": "Dharampuri",
+            "name": "Dharampuri"
+        },
+        {
+            "id": "Gandhwani",
+            "name": "Gandhwani"
+        },
+        {
+            "id": "Kukshi",
+            "name": "Kukshi"
+        },
+        {
+            "id": "Manawar",
+            "name": "Manawar"
+        },
+        {
+            "id": "Nalchha",
+            "name": "Nalchha"
+        },
+        {
+            "id": "Nisarpur",
+            "name": "Nisarpur"
+        },
+        {
+            "id": "Sardarpur",
+            "name": "Sardarpur"
+        },
+        {
+            "id": "Tirla",
+            "name": "Tirla"
+        },
+        {
+            "id": "Umarban",
+            "name": "Umarban"
+        }
+    ],
+    "Dindori": [
+        {
+            "id": "Amarpur",
+            "name": "Amarpur"
+        },
+        {
+            "id": "Bajag",
+            "name": "Bajag"
+        },
+        {
+            "id": "Dindori",
+            "name": "Dindori"
+        },
+        {
+            "id": "Karanjiya",
+            "name": "Karanjiya"
+        },
+        {
+            "id": "Mehandwani",
+            "name": "Mehandwani"
+        },
+        {
+            "id": "Samnapur",
+            "name": "Samnapur"
+        },
+        {
+            "id": "Shahpura",
+            "name": "Shahpura"
+        }
+    ],
+    "Guna": [
+        {
+            "id": "Aron",
+            "name": "Aron"
+        },
+        {
+            "id": "Bamori",
+            "name": "Bamori"
+        },
+        {
+            "id": "Chanchoda",
+            "name": "Chanchoda"
+        },
+        {
+            "id": "Guna",
+            "name": "Guna"
+        },
+        {
+            "id": "Raghogarh",
+            "name": "Raghogarh"
+        }
+    ],
+    "Gwalior": [
+        {
+            "id": "Bhitarwar",
+            "name": "Bhitarwar"
+        },
+        {
+            "id": "Dabra",
+            "name": "Dabra"
+        },
+        {
+            "id": "Ghatigaon",
+            "name": "Ghatigaon"
+        },
+        {
+            "id": "Morar",
+            "name": "Morar"
+        }
+    ],
+    "Harda": [
+        {
+            "id": "Harda",
+            "name": "Harda"
+        },
+        {
+            "id": "Khirkiya",
+            "name": "Khirkiya"
+        },
+        {
+            "id": "Timarni",
+            "name": "Timarni"
+        }
+    ],
+    "Indore": [
+        {
+            "id": "Depalpur",
+            "name": "Depalpur"
+        },
+        {
+            "id": "Indore",
+            "name": "Indore"
+        },
+        {
+            "id": "Mhow",
+            "name": "Mhow"
+        },
+        {
+            "id": "Sanwer",
+            "name": "Sanwer"
+        }
+    ],
+    "Jabalpur": [
+        {
+            "id": "Jabalpur",
+            "name": "Jabalpur"
+        },
+        {
+            "id": "Kundam",
+            "name": "Kundam"
+        },
+        {
+            "id": "Majhouli",
+            "name": "Majhouli"
+        },
+        {
+            "id": "Panagar",
+            "name": "Panagar"
+        },
+        {
+            "id": "Patan",
+            "name": "Patan"
+        },
+        {
+            "id": "Shahpura",
+            "name": "Shahpura"
+        },
+        {
+            "id": "Sihora",
+            "name": "Sihora"
+        }
+    ],
+    "Jhabua": [
+        {
+            "id": "Jhabua",
+            "name": "Jhabua"
+        },
+        {
+            "id": "Meghnagar",
+            "name": "Meghnagar"
+        },
+        {
+            "id": "Petlawad",
+            "name": "Petlawad"
+        },
+        {
+            "id": "Rama",
+            "name": "Rama"
+        },
+        {
+            "id": "Ranapur",
+            "name": "Ranapur"
+        },
+        {
+            "id": "Thandla",
+            "name": "Thandla"
+        }
+    ],
+    "Katni": [
+        {
+            "id": "Badwara",
+            "name": "Badwara"
+        },
+        {
+            "id": "Bahoriband",
+            "name": "Bahoriband"
+        },
+        {
+            "id": "Dheemerkheda",
+            "name": "Dheemerkheda"
+        },
+        {
+            "id": "Katni",
+            "name": "Katni"
+        },
+        {
+            "id": "Rithi",
+            "name": "Rithi"
+        },
+        {
+            "id": "Vijayraghavgarh",
+            "name": "Vijayraghavgarh"
+        }
+    ],
+    "Khandwa (East Nimar)": [
+        {
+            "id": "Baladi",
+            "name": "Baladi"
+        },
+        {
+            "id": "Chhaigaon Makhan",
+            "name": "Chhaigaon Makhan"
+        },
+        {
+            "id": "Harsud",
+            "name": "Harsud"
+        },
+        {
+            "id": "Khalwa",
+            "name": "Khalwa"
+        },
+        {
+            "id": "Khandwa",
+            "name": "Khandwa"
+        },
+        {
+            "id": "Pandhana",
+            "name": "Pandhana"
+        },
+        {
+            "id": "Punasa",
+            "name": "Punasa"
+        }
+    ],
+    "Khargone (West Nimar)": [
+        {
+            "id": "Barwah",
+            "name": "Barwah"
+        },
+        {
+            "id": "Bhagvanpura",
+            "name": "Bhagvanpura"
+        },
+        {
+            "id": "Bhikangaon",
+            "name": "Bhikangaon"
+        },
+        {
+            "id": "Gogawan",
+            "name": "Gogawan"
+        },
+        {
+            "id": "Kasrawad",
+            "name": "Kasrawad"
+        },
+        {
+            "id": "Khargone",
+            "name": "Khargone"
+        },
+        {
+            "id": "Maheshwar",
+            "name": "Maheshwar"
+        },
+        {
+            "id": "Segaon",
+            "name": "Segaon"
+        },
+        {
+            "id": "Ziranya",
+            "name": "Ziranya"
+        }
+    ],
+    "Maihar": [
+        {
+            "id": "Amarpatan",
+            "name": "Amarpatan"
+        },
+        {
+            "id": "Maihar",
+            "name": "Maihar"
+        },
+        {
+            "id": "Ramnagar",
+            "name": "Ramnagar"
+        }
+    ],
+    "Mandla": [
+        {
+            "id": "Bichhiya",
+            "name": "Bichhiya"
+        },
+        {
+            "id": "Bijadandi",
+            "name": "Bijadandi"
+        },
+        {
+            "id": "Ghughri",
+            "name": "Ghughri"
+        },
+        {
+            "id": "Mandla",
+            "name": "Mandla"
+        },
+        {
+            "id": "Mawai",
+            "name": "Mawai"
+        },
+        {
+            "id": "Mohgaon",
+            "name": "Mohgaon"
+        },
+        {
+            "id": "Nainpur",
+            "name": "Nainpur"
+        },
+        {
+            "id": "Narayanganj",
+            "name": "Narayanganj"
+        },
+        {
+            "id": "Niwas",
+            "name": "Niwas"
+        }
+    ],
+    "Mandsaur": [
+        {
+            "id": "Bhanpura",
+            "name": "Bhanpura"
+        },
+        {
+            "id": "Garoth",
+            "name": "Garoth"
+        },
+        {
+            "id": "Malhargarh",
+            "name": "Malhargarh"
+        },
+        {
+            "id": "Mandsaur",
+            "name": "Mandsaur"
+        },
+        {
+            "id": "Sitamau",
+            "name": "Sitamau"
+        }
+    ],
+    "MAUGANJ": [
+        {
+            "id": "Hanumana",
+            "name": "Hanumana"
+        },
+        {
+            "id": "Mauganj",
+            "name": "Mauganj"
+        },
+        {
+            "id": "Naigarhi",
+            "name": "Naigarhi"
+        }
+    ],
+    "Morena": [
+        {
+            "id": "Ambah",
+            "name": "Ambah"
+        },
+        {
+            "id": "Joura",
+            "name": "Joura"
+        },
+        {
+            "id": "Kailaras",
+            "name": "Kailaras"
+        },
+        {
+            "id": "Morena",
+            "name": "Morena"
+        },
+        {
+            "id": "Pahadgarh",
+            "name": "Pahadgarh"
+        },
+        {
+            "id": "Porsa",
+            "name": "Porsa"
+        },
+        {
+            "id": "Sabalgarh",
+            "name": "Sabalgarh"
+        }
+    ],
+    "Narmadapuram": [
+        {
+            "id": "Bankhedi",
+            "name": "Bankhedi"
+        },
+        {
+            "id": "Kesla",
+            "name": "Kesla"
+        },
+        {
+            "id": "Makhan Nagar",
+            "name": "Makhan Nagar"
+        },
+        {
+            "id": "Narmadapuram",
+            "name": "Narmadapuram"
+        },
+        {
+            "id": "Pipariya",
+            "name": "Pipariya"
+        },
+        {
+            "id": "Seoni Malwa",
+            "name": "Seoni Malwa"
+        },
+        {
+            "id": "Sohagpur",
+            "name": "Sohagpur"
+        }
+    ],
+    "Narsimhapur": [
+        {
+            "id": "Babai Chichali",
+            "name": "Babai Chichali"
+        },
+        {
+            "id": "Chawarpatha",
+            "name": "Chawarpatha"
+        },
+        {
+            "id": "Gotegaon",
+            "name": "Gotegaon"
+        },
+        {
+            "id": "Kareli",
+            "name": "Kareli"
+        },
+        {
+            "id": "Narsimhapur",
+            "name": "Narsimhapur"
+        },
+        {
+            "id": "Sainkheda",
+            "name": "Sainkheda"
+        }
+    ],
+    "Neemuch": [
+        {
+            "id": "Jawad",
+            "name": "Jawad"
+        },
+        {
+            "id": "Manasa",
+            "name": "Manasa"
+        },
+        {
+            "id": "Neemuch",
+            "name": "Neemuch"
+        }
+    ],
+    "Niwari": [
+        {
+            "id": "Niwari",
+            "name": "Niwari"
+        },
+        {
+            "id": "Prithvipur",
+            "name": "Prithvipur"
+        }
+    ],
+    "Pandhurna": [
+        {
+            "id": "Pandhurna",
+            "name": "Pandhurna"
+        },
+        {
+            "id": "Sausar",
+            "name": "Sausar"
+        }
+    ],
+    "Panna": [
+        {
+            "id": "Ajaigarh",
+            "name": "Ajaigarh"
+        },
+        {
+            "id": "Gunour",
+            "name": "Gunour"
+        },
+        {
+            "id": "Panna",
+            "name": "Panna"
+        },
+        {
+            "id": "Pawai",
+            "name": "Pawai"
+        },
+        {
+            "id": "Shahnagar",
+            "name": "Shahnagar"
+        }
+    ],
+    "Raisen": [
+        {
+            "id": "Badi",
+            "name": "Badi"
+        },
+        {
+            "id": "Begamganj",
+            "name": "Begamganj"
+        },
+        {
+            "id": "Gairatganj",
+            "name": "Gairatganj"
+        },
+        {
+            "id": "Obaidallaganj",
+            "name": "Obaidallaganj"
+        },
+        {
+            "id": "Sanchi",
+            "name": "Sanchi"
+        },
+        {
+            "id": "Silwani",
+            "name": "Silwani"
+        },
+        {
+            "id": "Udaipura",
+            "name": "Udaipura"
+        }
+    ],
+    "Rajgarh": [
+        {
+            "id": "Biaora",
+            "name": "Biaora"
+        },
+        {
+            "id": "Khilchipur",
+            "name": "Khilchipur"
+        },
+        {
+            "id": "Narsinghgarh",
+            "name": "Narsinghgarh"
+        },
+        {
+            "id": "Rajgarh",
+            "name": "Rajgarh"
+        },
+        {
+            "id": "Sarangpur",
+            "name": "Sarangpur"
+        },
+        {
+            "id": "Zirapur",
+            "name": "Zirapur"
+        }
+    ],
+    "Ratlam": [
+        {
+            "id": "Alot",
+            "name": "Alot"
+        },
+        {
+            "id": "Bajna",
+            "name": "Bajna"
+        },
+        {
+            "id": "Jaora",
+            "name": "Jaora"
+        },
+        {
+            "id": "Piploda",
+            "name": "Piploda"
+        },
+        {
+            "id": "Ratlam",
+            "name": "Ratlam"
+        },
+        {
+            "id": "Sailana",
+            "name": "Sailana"
+        }
+    ],
+    "Rewa": [
+        {
+            "id": "Gangev",
+            "name": "Gangev"
+        },
+        {
+            "id": "Jawa",
+            "name": "Jawa"
+        },
+        {
+            "id": "Raipur Karchuliyan",
+            "name": "Raipur Karchuliyan"
+        },
+        {
+            "id": "Rewa",
+            "name": "Rewa"
+        },
+        {
+            "id": "Sirmour",
+            "name": "Sirmour"
+        },
+        {
+            "id": "Teonthar",
+            "name": "Teonthar"
+        }
+    ],
+    "Sagar": [
+        {
+            "id": "Banda",
+            "name": "Banda"
+        },
+        {
+            "id": "Bina",
+            "name": "Bina"
+        },
+        {
+            "id": "Deori",
+            "name": "Deori"
+        },
+        {
+            "id": "Jaisinagar",
+            "name": "Jaisinagar"
+        },
+        {
+            "id": "Kesli",
+            "name": "Kesli"
+        },
+        {
+            "id": "Khurai",
+            "name": "Khurai"
+        },
+        {
+            "id": "Malthone",
+            "name": "Malthone"
+        },
+        {
+            "id": "Rahatgarh",
+            "name": "Rahatgarh"
+        },
+        {
+            "id": "Rehli",
+            "name": "Rehli"
+        },
+        {
+            "id": "Sagar",
+            "name": "Sagar"
+        },
+        {
+            "id": "Shahgarh",
+            "name": "Shahgarh"
+        }
+    ],
+    "Satna": [
+        {
+            "id": "Majhgawan",
+            "name": "Majhgawan"
+        },
+        {
+            "id": "Nagod",
+            "name": "Nagod"
+        },
+        {
+            "id": "Rampur Baghelan",
+            "name": "Rampur Baghelan"
+        },
+        {
+            "id": "Sohawal",
+            "name": "Sohawal"
+        },
+        {
+            "id": "Unchahara",
+            "name": "Unchahara"
+        }
+    ],
+    "Sehore": [
+        {
+            "id": "Ashta",
+            "name": "Ashta"
+        },
+        {
+            "id": "Budni",
+            "name": "Budni"
+        },
+        {
+            "id": "Ichhawar",
+            "name": "Ichhawar"
+        },
+        {
+            "id": "Nasrullaganj",
+            "name": "Nasrullaganj"
+        },
+        {
+            "id": "Sehore",
+            "name": "Sehore"
+        }
+    ],
+    "Seoni": [
+        {
+            "id": "Barghat",
+            "name": "Barghat"
+        },
+        {
+            "id": "Chhapara",
+            "name": "Chhapara"
+        },
+        {
+            "id": "Dhanaura",
+            "name": "Dhanaura"
+        },
+        {
+            "id": "Kahnapas(Ghansaur)",
+            "name": "Kahnapas(Ghansaur)"
+        },
+        {
+            "id": "Keolari",
+            "name": "Keolari"
+        },
+        {
+            "id": "Kurai",
+            "name": "Kurai"
+        },
+        {
+            "id": "Lakhnadon",
+            "name": "Lakhnadon"
+        },
+        {
+            "id": "Seoni",
+            "name": "Seoni"
+        }
+    ],
+    "Shahdol": [
+        {
+            "id": "Beohari",
+            "name": "Beohari"
+        },
+        {
+            "id": "Burhar",
+            "name": "Burhar"
+        },
+        {
+            "id": "Gohparu",
+            "name": "Gohparu"
+        },
+        {
+            "id": "Jaisinghnagar",
+            "name": "Jaisinghnagar"
+        },
+        {
+            "id": "Sohagpur",
+            "name": "Sohagpur"
+        }
+    ],
+    "Shajapur": [
+        {
+            "id": "Kalapipal",
+            "name": "Kalapipal"
+        },
+        {
+            "id": "Moman Badodia",
+            "name": "Moman Badodia"
+        },
+        {
+            "id": "Shajapur",
+            "name": "Shajapur"
+        },
+        {
+            "id": "Shujalpur",
+            "name": "Shujalpur"
+        }
+    ],
+    "Sheopur": [
+        {
+            "id": "Karahal",
+            "name": "Karahal"
+        },
+        {
+            "id": "Sheopur",
+            "name": "Sheopur"
+        },
+        {
+            "id": "Vijaypur",
+            "name": "Vijaypur"
+        }
+    ],
+    "Shivpuri": [
+        {
+            "id": "Badarwas",
+            "name": "Badarwas"
+        },
+        {
+            "id": "Karera",
+            "name": "Karera"
+        },
+        {
+            "id": "Khaniadhana",
+            "name": "Khaniadhana"
+        },
+        {
+            "id": "Kolaras",
+            "name": "Kolaras"
+        },
+        {
+            "id": "Narwar",
+            "name": "Narwar"
+        },
+        {
+            "id": "Pichhore",
+            "name": "Pichhore"
+        },
+        {
+            "id": "Pohri",
+            "name": "Pohri"
+        },
+        {
+            "id": "Shivpuri",
+            "name": "Shivpuri"
+        }
+    ],
+    "Sidhi": [
+        {
+            "id": "Kusmi",
+            "name": "Kusmi"
+        },
+        {
+            "id": "Majhauli",
+            "name": "Majhauli"
+        },
+        {
+            "id": "Rampur Naikin",
+            "name": "Rampur Naikin"
+        },
+        {
+            "id": "Sidhi",
+            "name": "Sidhi"
+        },
+        {
+            "id": "Sihawal",
+            "name": "Sihawal"
+        }
+    ],
+    "Singrauli": [
+        {
+            "id": "Baidhan",
+            "name": "Baidhan"
+        },
+        {
+            "id": "Chitrangi",
+            "name": "Chitrangi"
+        },
+        {
+            "id": "Devsar",
+            "name": "Devsar"
+        }
+    ],
+    "Tikamgarh": [
+        {
+            "id": "Baldeogarh",
+            "name": "Baldeogarh"
+        },
+        {
+            "id": "Jatara",
+            "name": "Jatara"
+        },
+        {
+            "id": "Palera",
+            "name": "Palera"
+        },
+        {
+            "id": "Tikamgarh",
+            "name": "Tikamgarh"
+        }
+    ],
+    "Ujjain": [
+        {
+            "id": "Badnagar",
+            "name": "Badnagar"
+        },
+        {
+            "id": "Ghatiya",
+            "name": "Ghatiya"
+        },
+        {
+            "id": "Khacharod",
+            "name": "Khacharod"
+        },
+        {
+            "id": "Mahidpur",
+            "name": "Mahidpur"
+        },
+        {
+            "id": "Tarana",
+            "name": "Tarana"
+        },
+        {
+            "id": "Ujjain",
+            "name": "Ujjain"
+        }
+    ],
+    "Umaria": [
+        {
+            "id": "Karkeli",
+            "name": "Karkeli"
+        },
+        {
+            "id": "Manpur",
+            "name": "Manpur"
+        },
+        {
+            "id": "Pali",
+            "name": "Pali"
+        }
+    ],
+    "Vidisha": [
+        {
+            "id": "Basoda",
+            "name": "Basoda"
+        },
+        {
+            "id": "Gyaraspur",
+            "name": "Gyaraspur"
+        },
+        {
+            "id": "Kurwai",
+            "name": "Kurwai"
+        },
+        {
+            "id": "Lateri",
+            "name": "Lateri"
+        },
+        {
+            "id": "Nateran",
+            "name": "Nateran"
+        },
+        {
+            "id": "Sironj",
+            "name": "Sironj"
+        },
+        {
+            "id": "Vidisha",
+            "name": "Vidisha"
+        }
+    ]
+}

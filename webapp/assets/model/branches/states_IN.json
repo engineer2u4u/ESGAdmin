@@ -4,8 +4,9 @@
     { "id": "AR", "name": "Arunachal Pradesh" },
     { "id": "AS", "name": "Assam" },
     { "id": "BR", "name": "Bihar" },
-    { "id": "CH", "name": "Chandigarh" },
-    { "id": "CT", "name": "Chhattisgarh" },
+    { "id": "CG", "name": "Chandigarh" },
+    { "id": "CH", "name": "Chhattisgarh" },
+    { "id": "DN", "name": "The Dadra And Nagar Haveli And Daman And Diu" },
     { "id": "DL", "name": "Delhi" },
     { "id": "GA", "name": "Goa" },
     { "id": "GJ", "name": "Gujarat" },
@@ -29,9 +30,9 @@
     { "id": "RJ", "name": "Rajasthan" },
     { "id": "SK", "name": "Sikkim" },
     { "id": "TN", "name": "Tamil Nadu" },
-    { "id": "TG", "name": "Telangana" },
+    { "id": "TS", "name": "Telangana" },
     { "id": "TR", "name": "Tripura" },
     { "id": "UP", "name": "Uttar Pradesh" },
-    { "id": "UT", "name": "Uttarakhand" },
+    { "id": "UK", "name": "Uttarakhand" },
     { "id": "WB", "name": "West Bengal" }
 ]

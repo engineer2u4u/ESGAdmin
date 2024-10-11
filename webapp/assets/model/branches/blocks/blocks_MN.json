@@ -1,0 +1,314 @@
+{
+    "Bishnupur": [
+        {
+            "id": "Bishnupur",
+            "name": "Bishnupur"
+        },
+        {
+            "id": "Moirang",
+            "name": "Moirang"
+        },
+        {
+            "id": "Nambol",
+            "name": "Nambol"
+        }
+    ],
+    "Chandel": [
+        {
+            "id": "Chakpikarong",
+            "name": "Chakpikarong"
+        },
+        {
+            "id": "Chandel",
+            "name": "Chandel"
+        },
+        {
+            "id": "Khangbarol",
+            "name": "Khangbarol"
+        },
+        {
+            "id": "Khengjoy",
+            "name": "Khengjoy"
+        }
+    ],
+    "Churachandpur": [
+        {
+            "id": "Henglep",
+            "name": "Henglep"
+        },
+        {
+            "id": "Kangvai",
+            "name": "Kangvai"
+        },
+        {
+            "id": "Lamka",
+            "name": "Lamka"
+        },
+        {
+            "id": "Lamka South",
+            "name": "Lamka South"
+        },
+        {
+            "id": "Lanva",
+            "name": "Lanva"
+        },
+        {
+            "id": "Mualnuam",
+            "name": "Mualnuam"
+        },
+        {
+            "id": "Saikot",
+            "name": "Saikot"
+        },
+        {
+            "id": "Samulamlan",
+            "name": "Samulamlan"
+        },
+        {
+            "id": "Sangaikot",
+            "name": "Sangaikot"
+        },
+        {
+            "id": "Singngat",
+            "name": "Singngat"
+        },
+        {
+            "id": "Suangdoh",
+            "name": "Suangdoh"
+        },
+        {
+            "id": "Tuibong",
+            "name": "Tuibong"
+        }
+    ],
+    "Imphal East": [
+        {
+            "id": "Heingang CD Block",
+            "name": "Heingang CD Block"
+        },
+        {
+            "id": "Keirao CD Block",
+            "name": "Keirao CD Block"
+        },
+        {
+            "id": "Kshetrigao CD Block",
+            "name": "Kshetrigao CD Block"
+        },
+        {
+            "id": "Sawombung CD Block",
+            "name": "Sawombung CD Block"
+        }
+    ],
+    "Imphal West": [
+        {
+            "id": "Haorangsabal",
+            "name": "Haorangsabal"
+        },
+        {
+            "id": "Hiyangthang",
+            "name": "Hiyangthang"
+        },
+        {
+            "id": "Patsoi",
+            "name": "Patsoi"
+        },
+        {
+            "id": "Wangoi",
+            "name": "Wangoi"
+        }
+    ],
+    "Jiribam": [
+        {
+            "id": "Borobekra CD Block",
+            "name": "Borobekra CD Block"
+        },
+        {
+            "id": "Jiribam C D Block",
+            "name": "Jiribam C D Block"
+        }
+    ],
+    "Kakching": [
+        {
+            "id": "Kakching",
+            "name": "Kakching"
+        },
+        {
+            "id": "Langmeidong",
+            "name": "Langmeidong"
+        }
+    ],
+    "Kamjong": [
+        {
+            "id": "Kamjong",
+            "name": "Kamjong"
+        },
+        {
+            "id": "Kasom Khullen",
+            "name": "Kasom Khullen"
+        },
+        {
+            "id": "Phungyar",
+            "name": "Phungyar"
+        },
+        {
+            "id": "Sahamphung Td Block",
+            "name": "Sahamphung Td Block"
+        }
+    ],
+    "Kangpokpi": [
+        {
+            "id": "Bungte Chiru",
+            "name": "Bungte Chiru"
+        },
+        {
+            "id": "Champhai",
+            "name": "Champhai"
+        },
+        {
+            "id": "Island",
+            "name": "Island"
+        },
+        {
+            "id": "Kangchup Geljang",
+            "name": "Kangchup Geljang"
+        },
+        {
+            "id": "Kangpokpi",
+            "name": "Kangpokpi"
+        },
+        {
+            "id": "Lhungtin",
+            "name": "Lhungtin"
+        },
+        {
+            "id": "Saikul",
+            "name": "Saikul"
+        },
+        {
+            "id": "Saitu Gamphazol",
+            "name": "Saitu Gamphazol"
+        },
+        {
+            "id": "T Vaichong",
+            "name": "T Vaichong"
+        }
+    ],
+    "Noney": [
+        {
+            "id": "Haochong",
+            "name": "Haochong"
+        },
+        {
+            "id": "Khoupum",
+            "name": "Khoupum"
+        },
+        {
+            "id": "Longmai",
+            "name": "Longmai"
+        },
+        {
+            "id": "Nungba",
+            "name": "Nungba"
+        }
+    ],
+    "Pherzawl": [
+        {
+            "id": "Thanlon",
+            "name": "Thanlon"
+        },
+        {
+            "id": "Tipaimukh",
+            "name": "Tipaimukh"
+        },
+        {
+            "id": "Vangai Range",
+            "name": "Vangai Range"
+        }
+    ],
+    "Senapati": [
+        {
+            "id": "Paomata",
+            "name": "Paomata"
+        },
+        {
+            "id": "Phaibung Khullen",
+            "name": "Phaibung Khullen"
+        },
+        {
+            "id": "Purul",
+            "name": "Purul"
+        },
+        {
+            "id": "Song Song",
+            "name": "Song Song"
+        },
+        {
+            "id": "Tadubi",
+            "name": "Tadubi"
+        },
+        {
+            "id": "Willong",
+            "name": "Willong"
+        }
+    ],
+    "Tamenglong": [
+        {
+            "id": "Tamei",
+            "name": "Tamei"
+        },
+        {
+            "id": "Tamenglong",
+            "name": "Tamenglong"
+        },
+        {
+            "id": "Tousem",
+            "name": "Tousem"
+        }
+    ],
+    "Tengnoupal": [
+        {
+            "id": "Machi",
+            "name": "Machi"
+        },
+        {
+            "id": "Moreh",
+            "name": "Moreh"
+        },
+        {
+            "id": "Tengnoupal",
+            "name": "Tengnoupal"
+        }
+    ],
+    "Thoubal": [
+        {
+            "id": "Lilong CD Block",
+            "name": "Lilong CD Block"
+        },
+        {
+            "id": "Thoubal",
+            "name": "Thoubal"
+        },
+        {
+            "id": "Wangjing CD Block",
+            "name": "Wangjing CD Block"
+        }
+    ],
+    "Ukhrul": [
+        {
+            "id": "Chingai",
+            "name": "Chingai"
+        },
+        {
+            "id": "Jessami Td",
+            "name": "Jessami Td"
+        },
+        {
+            "id": "Lungchong Meiphai",
+            "name": "Lungchong Meiphai"
+        },
+        {
+            "id": "Ukhrul",
+            "name": "Ukhrul"
+        }
+    ]
+}

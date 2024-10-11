@@ -1,0 +1,54 @@
+{
+    "North Goa": [
+        {
+            "id": "Bardez",
+            "name": "Bardez"
+        },
+        {
+            "id": "Bicholim",
+            "name": "Bicholim"
+        },
+        {
+            "id": "Pernem",
+            "name": "Pernem"
+        },
+        {
+            "id": "Satari",
+            "name": "Satari"
+        },
+        {
+            "id": "Tiswadi",
+            "name": "Tiswadi"
+        }
+    ],
+    "South Goa": [
+        {
+            "id": "Canacona",
+            "name": "Canacona"
+        },
+        {
+            "id": "Dharbandora",
+            "name": "Dharbandora"
+        },
+        {
+            "id": "Mormugao",
+            "name": "Mormugao"
+        },
+        {
+            "id": "Ponda",
+            "name": "Ponda"
+        },
+        {
+            "id": "Quepem",
+            "name": "Quepem"
+        },
+        {
+            "id": "Salcete",
+            "name": "Salcete"
+        },
+        {
+            "id": "Sanguem",
+            "name": "Sanguem"
+        }
+    ]
+}

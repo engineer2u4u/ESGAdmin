@@ -79,6 +79,7 @@
                     <Input
                         id="idAdminPhone"
                         placeholder="Enter Admin phone (include country code, ex: +91-9999999999)"
+                        type="Number"
                     />
                     <Label
                         required="true"
@@ -110,57 +111,14 @@
                             text="India"
                         />
                         <core:Item
-                            key="USA"
-                            text="USA"
+                            key="United States"
+                            text="United States"
                         />
                         <core:Item
                             key="UAE"
                             text="UAE"
                         />
                     </Select>
-                    <!-- <Label text="Type of Office" />
-                     <Select
-                        id="idOffice"
-                    >
-                        <core:Item
-                            key="Corporate Office"
-                            text="Corporate Office"
-                        />
-                        <core:Item
-                            key="Factory/Manufacturing Unit"
-                            text="Factory/Manufacturing Unit"
-                        />
-                        <core:Item
-                            key="Warehouse"
-                            text="Warehouse"
-                        />
-                        <core:Item
-                            key="Technical Support Center"
-                            text="Technical Support Center"
-                        />
-                        <core:Item
-                            key="Testing Facility"
-                            text="Testing Facility"
-                        />
-                        <core:Item
-                            key="Service Center"
-                            text="Service Center"
-                        />
-                    </Select> -->
-                    <!-- <Label text="State/Circle/Zone" /> -->
-                    <!-- <Select id="idState"> -->
-                    <!-- State options will be dynamically updated based on the selected country -->
-                    <!-- </Select> -->
-                    <!-- <Label text="Branch/Office" />
-                    <MultiInput
-                        id="branchInput"
-                        type="Text"
-                        placeholder="Enter branches"
-                        showValueHelp="false"
-                        showSuggestion="false"
-                        tokenUpdate="onTokenChange"
-                    /> -->
-
                     <Label
                         required="true"
                         text="Number of employees"

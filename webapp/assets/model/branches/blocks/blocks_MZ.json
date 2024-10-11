@@ -1,0 +1,136 @@
+{
+    "Aizawl": [
+        {
+            "id": "Aibawk",
+            "name": "Aibawk"
+        },
+        {
+            "id": "Darlawn",
+            "name": "Darlawn"
+        },
+        {
+            "id": "Thingsulthliah",
+            "name": "Thingsulthliah"
+        },
+        {
+            "id": "Tlangnuam",
+            "name": "Tlangnuam"
+        }
+    ],
+    "Champhai": [
+        {
+            "id": "Champhai",
+            "name": "Champhai"
+        },
+        {
+            "id": "Khawbung",
+            "name": "Khawbung"
+        }
+    ],
+    "Hnahthial": [
+        {
+            "id": "Hnahthial",
+            "name": "Hnahthial"
+        }
+    ],
+    "Khawzawl": [
+        {
+            "id": "Khawzawl",
+            "name": "Khawzawl"
+        }
+    ],
+    "Kolasib": [
+        {
+            "id": "Bilkhawthlir",
+            "name": "Bilkhawthlir"
+        },
+        {
+            "id": "Thingdawl",
+            "name": "Thingdawl"
+        }
+    ],
+    "Lawngtlai": [
+        {
+            "id": "Bungtlang South",
+            "name": "Bungtlang South"
+        },
+        {
+            "id": "Chawngte",
+            "name": "Chawngte"
+        },
+        {
+            "id": "Lawngtlai",
+            "name": "Lawngtlai"
+        },
+        {
+            "id": "Sangau",
+            "name": "Sangau"
+        }
+    ],
+    "Lunglei": [
+        {
+            "id": "Bunghmun",
+            "name": "Bunghmun"
+        },
+        {
+            "id": "Lunglei",
+            "name": "Lunglei"
+        },
+        {
+            "id": "Lungsen",
+            "name": "Lungsen"
+        },
+        {
+            "id": "Tlabung",
+            "name": "Tlabung"
+        }
+    ],
+    "Mamit": [
+        {
+            "id": "Kawrtethawveng",
+            "name": "Kawrtethawveng"
+        },
+        {
+            "id": "Reiek",
+            "name": "Reiek"
+        },
+        {
+            "id": "West Phaileng",
+            "name": "West Phaileng"
+        },
+        {
+            "id": "Zawlnuam",
+            "name": "Zawlnuam"
+        }
+    ],
+    "Saitual": [
+        {
+            "id": "Ngopa",
+            "name": "Ngopa"
+        },
+        {
+            "id": "Phullen",
+            "name": "Phullen"
+        }
+    ],
+    "Serchhip": [
+        {
+            "id": "East Lungdar",
+            "name": "East Lungdar"
+        },
+        {
+            "id": "Serchhip",
+            "name": "Serchhip"
+        }
+    ],
+    "Siaha": [
+        {
+            "id": "Saiha",
+            "name": "Saiha"
+        },
+        {
+            "id": "Tuipang",
+            "name": "Tuipang"
+        }
+    ]
+}

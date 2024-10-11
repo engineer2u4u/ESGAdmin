@@ -120,6 +120,21 @@
           "name": "ManageFactors",
           "pattern": "ManageFactors",
           "target": "ManageFactors"
+        },
+        {
+          "name": "ActionLogs",
+          "pattern": "ActionLogs",
+          "target": "ActionLogs"
+        },
+        {
+          "name": "Support",
+          "pattern": "Support",
+          "target": "Support"
+        },
+        {
+          "name": "ClientReports",
+          "pattern": "ClientReports",
+          "target": "ClientReports"
         }
       ],
       "targets": {
@@ -167,6 +182,21 @@
           "viewType": "XML",
           "transition": "slide",
           "viewName": "ManageFactors"
+        },
+        "ActionLogs": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "ActionLogs"
+        },
+        "Support": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "Support"
+        },
+        "ClientReports": {
+          "viewType": "XML",
+          "transition": "slide",
+          "viewName": "ClientReports"
         }
       }
     }

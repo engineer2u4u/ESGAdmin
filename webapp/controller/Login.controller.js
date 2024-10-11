@@ -1,6 +1,6 @@
 sap.ui.define(
-    ["../controller/BaseController", "sap/ui/model/json/JSONModel"],
-    function (Controller, JSONModel) {
+    ["../controller/BaseController", "sap/ui/model/json/JSONModel", "sap/m/MessageBox"],
+    function (Controller, JSONModel, MessageBox) {
         "use strict";
 
         return Controller.extend("ESGAdmin.ESGAdmin.controller.Login", {
@@ -48,7 +48,7 @@ sap.ui.define(
                     else {
                         msg = error.toString();
                     }
-                    alert(msg)
+                    MessageBox.error(msg);
                 })
             }
 

@@ -1,0 +1,638 @@
+{
+    "Alappuzha": [
+        {
+            "id": "Ambalappuzha",
+            "name": "Ambalappuzha"
+        },
+        {
+            "id": "Aryad",
+            "name": "Aryad"
+        },
+        {
+            "id": "Bharanicavu",
+            "name": "Bharanicavu"
+        },
+        {
+            "id": "Champakulam",
+            "name": "Champakulam"
+        },
+        {
+            "id": "Chengannur",
+            "name": "Chengannur"
+        },
+        {
+            "id": "Harippad",
+            "name": "Harippad"
+        },
+        {
+            "id": "Kanjikkuzhy",
+            "name": "Kanjikkuzhy"
+        },
+        {
+            "id": "Mavelikkara",
+            "name": "Mavelikkara"
+        },
+        {
+            "id": "Muthukulam",
+            "name": "Muthukulam"
+        },
+        {
+            "id": "Pattanakkad",
+            "name": "Pattanakkad"
+        },
+        {
+            "id": "Thycattussery",
+            "name": "Thycattussery"
+        },
+        {
+            "id": "Veliyanad",
+            "name": "Veliyanad"
+        }
+    ],
+    "Ernakulam": [
+        {
+            "id": "Alangad",
+            "name": "Alangad"
+        },
+        {
+            "id": "Angamali",
+            "name": "Angamali"
+        },
+        {
+            "id": "Edappally",
+            "name": "Edappally"
+        },
+        {
+            "id": "Koovappady",
+            "name": "Koovappady"
+        },
+        {
+            "id": "Kothamangalam",
+            "name": "Kothamangalam"
+        },
+        {
+            "id": "Mulanthuruthy",
+            "name": "Mulanthuruthy"
+        },
+        {
+            "id": "Muvattupuzha",
+            "name": "Muvattupuzha"
+        },
+        {
+            "id": "Palluruthy",
+            "name": "Palluruthy"
+        },
+        {
+            "id": "Pampakuda",
+            "name": "Pampakuda"
+        },
+        {
+            "id": "Parakkadav",
+            "name": "Parakkadav"
+        },
+        {
+            "id": "Paravur",
+            "name": "Paravur"
+        },
+        {
+            "id": "Vadavucode",
+            "name": "Vadavucode"
+        },
+        {
+            "id": "Vazhakkulam",
+            "name": "Vazhakkulam"
+        },
+        {
+            "id": "Vypeen",
+            "name": "Vypeen"
+        }
+    ],
+    "Idukki": [
+        {
+            "id": "Adimaly",
+            "name": "Adimaly"
+        },
+        {
+            "id": "Azhutha",
+            "name": "Azhutha"
+        },
+        {
+            "id": "Devikulam",
+            "name": "Devikulam"
+        },
+        {
+            "id": "Elemdesam",
+            "name": "Elemdesam"
+        },
+        {
+            "id": "Idukki",
+            "name": "Idukki"
+        },
+        {
+            "id": "Kattappana",
+            "name": "Kattappana"
+        },
+        {
+            "id": "Nedumkandom",
+            "name": "Nedumkandom"
+        },
+        {
+            "id": "Thodupuzha",
+            "name": "Thodupuzha"
+        }
+    ],
+    "Kannur": [
+        {
+            "id": "Edakkad",
+            "name": "Edakkad"
+        },
+        {
+            "id": "Irikkur",
+            "name": "Irikkur"
+        },
+        {
+            "id": "Iritty",
+            "name": "Iritty"
+        },
+        {
+            "id": "Kalliasseri",
+            "name": "Kalliasseri"
+        },
+        {
+            "id": "Kannur",
+            "name": "Kannur"
+        },
+        {
+            "id": "Kuthuparamba",
+            "name": "Kuthuparamba"
+        },
+        {
+            "id": "Panoor",
+            "name": "Panoor"
+        },
+        {
+            "id": "Payyannur",
+            "name": "Payyannur"
+        },
+        {
+            "id": "Peravoor",
+            "name": "Peravoor"
+        },
+        {
+            "id": "Taliparamba",
+            "name": "Taliparamba"
+        },
+        {
+            "id": "Thalassery",
+            "name": "Thalassery"
+        }
+    ],
+    "Kasaragod": [
+        {
+            "id": "Kanhangad",
+            "name": "Kanhangad"
+        },
+        {
+            "id": "Karadka",
+            "name": "Karadka"
+        },
+        {
+            "id": "Kasargod",
+            "name": "Kasargod"
+        },
+        {
+            "id": "Manjeshwar",
+            "name": "Manjeshwar"
+        },
+        {
+            "id": "Nileshwar",
+            "name": "Nileshwar"
+        },
+        {
+            "id": "Parappa",
+            "name": "Parappa"
+        }
+    ],
+    "Kollam": [
+        {
+            "id": "Anchal",
+            "name": "Anchal"
+        },
+        {
+            "id": "Chadayamangalam",
+            "name": "Chadayamangalam"
+        },
+        {
+            "id": "Chavara",
+            "name": "Chavara"
+        },
+        {
+            "id": "Chittumala",
+            "name": "Chittumala"
+        },
+        {
+            "id": "Ithikkara",
+            "name": "Ithikkara"
+        },
+        {
+            "id": "Kottarakkara",
+            "name": "Kottarakkara"
+        },
+        {
+            "id": "Mukhathala",
+            "name": "Mukhathala"
+        },
+        {
+            "id": "Oachira",
+            "name": "Oachira"
+        },
+        {
+            "id": "Pathanapuram",
+            "name": "Pathanapuram"
+        },
+        {
+            "id": "Sasthamcottah",
+            "name": "Sasthamcottah"
+        },
+        {
+            "id": "Vettikkavala",
+            "name": "Vettikkavala"
+        }
+    ],
+    "Kottayam": [
+        {
+            "id": "Erattupetta",
+            "name": "Erattupetta"
+        },
+        {
+            "id": "Ettumanoor",
+            "name": "Ettumanoor"
+        },
+        {
+            "id": "Kaduthuruthy",
+            "name": "Kaduthuruthy"
+        },
+        {
+            "id": "Kanjirappally",
+            "name": "Kanjirappally"
+        },
+        {
+            "id": "Lalam",
+            "name": "Lalam"
+        },
+        {
+            "id": "Madappally",
+            "name": "Madappally"
+        },
+        {
+            "id": "Pallom",
+            "name": "Pallom"
+        },
+        {
+            "id": "Pampady",
+            "name": "Pampady"
+        },
+        {
+            "id": "Uzhavoor",
+            "name": "Uzhavoor"
+        },
+        {
+            "id": "Vaikom",
+            "name": "Vaikom"
+        },
+        {
+            "id": "Vazhoor",
+            "name": "Vazhoor"
+        }
+    ],
+    "Kozhikode": [
+        {
+            "id": "Balusseri",
+            "name": "Balusseri"
+        },
+        {
+            "id": "Chelannur",
+            "name": "Chelannur"
+        },
+        {
+            "id": "Koduvally",
+            "name": "Koduvally"
+        },
+        {
+            "id": "Kozhikode",
+            "name": "Kozhikode"
+        },
+        {
+            "id": "Kunnamangalam",
+            "name": "Kunnamangalam"
+        },
+        {
+            "id": "Kunnummal",
+            "name": "Kunnummal"
+        },
+        {
+            "id": "Melday",
+            "name": "Melday"
+        },
+        {
+            "id": "Panthalayani",
+            "name": "Panthalayani"
+        },
+        {
+            "id": "Perambra",
+            "name": "Perambra"
+        },
+        {
+            "id": "Thodannur",
+            "name": "Thodannur"
+        },
+        {
+            "id": "Thuneri",
+            "name": "Thuneri"
+        },
+        {
+            "id": "Vadakara",
+            "name": "Vadakara"
+        }
+    ],
+    "Malappuram": [
+        {
+            "id": "Areakode",
+            "name": "Areakode"
+        },
+        {
+            "id": "Kalikavu",
+            "name": "Kalikavu"
+        },
+        {
+            "id": "Kondotty",
+            "name": "Kondotty"
+        },
+        {
+            "id": "Kuttippuram",
+            "name": "Kuttippuram"
+        },
+        {
+            "id": "Malappuram",
+            "name": "Malappuram"
+        },
+        {
+            "id": "Mankada",
+            "name": "Mankada"
+        },
+        {
+            "id": "Nilambur",
+            "name": "Nilambur"
+        },
+        {
+            "id": "Perinthalmanna",
+            "name": "Perinthalmanna"
+        },
+        {
+            "id": "Perumpadappu",
+            "name": "Perumpadappu"
+        },
+        {
+            "id": "Ponnani",
+            "name": "Ponnani"
+        },
+        {
+            "id": "Tanur",
+            "name": "Tanur"
+        },
+        {
+            "id": "Tirur",
+            "name": "Tirur"
+        },
+        {
+            "id": "Tirurangadi",
+            "name": "Tirurangadi"
+        },
+        {
+            "id": "Vengara",
+            "name": "Vengara"
+        },
+        {
+            "id": "Wandoor",
+            "name": "Wandoor"
+        }
+    ],
+    "Palakkad": [
+        {
+            "id": "Alathur",
+            "name": "Alathur"
+        },
+        {
+            "id": "Attappadi",
+            "name": "Attappadi"
+        },
+        {
+            "id": "Chittur",
+            "name": "Chittur"
+        },
+        {
+            "id": "Kollengode",
+            "name": "Kollengode"
+        },
+        {
+            "id": "Kuzhalmannam",
+            "name": "Kuzhalmannam"
+        },
+        {
+            "id": "Malampuzha",
+            "name": "Malampuzha"
+        },
+        {
+            "id": "Mannarkad",
+            "name": "Mannarkad"
+        },
+        {
+            "id": "Nemmara",
+            "name": "Nemmara"
+        },
+        {
+            "id": "Ottappalam",
+            "name": "Ottappalam"
+        },
+        {
+            "id": "Palakkad",
+            "name": "Palakkad"
+        },
+        {
+            "id": "Pattambi",
+            "name": "Pattambi"
+        },
+        {
+            "id": "Sreekrishnapuram",
+            "name": "Sreekrishnapuram"
+        },
+        {
+            "id": "Trithala",
+            "name": "Trithala"
+        }
+    ],
+    "Pathanamthitta": [
+        {
+            "id": "Elanthoor",
+            "name": "Elanthoor"
+        },
+        {
+            "id": "Koipuram",
+            "name": "Koipuram"
+        },
+        {
+            "id": "Konni",
+            "name": "Konni"
+        },
+        {
+            "id": "Mallappally",
+            "name": "Mallappally"
+        },
+        {
+            "id": "Pandlam",
+            "name": "Pandlam"
+        },
+        {
+            "id": "Parakode",
+            "name": "Parakode"
+        },
+        {
+            "id": "Pulikeezhu",
+            "name": "Pulikeezhu"
+        },
+        {
+            "id": "Ranni",
+            "name": "Ranni"
+        }
+    ],
+    "Thiruvananthapuram": [
+        {
+            "id": "Athiyannoor",
+            "name": "Athiyannoor"
+        },
+        {
+            "id": "Chirayinkeezhu",
+            "name": "Chirayinkeezhu"
+        },
+        {
+            "id": "Kilimanoor",
+            "name": "Kilimanoor"
+        },
+        {
+            "id": "Nedumangad",
+            "name": "Nedumangad"
+        },
+        {
+            "id": "Nemom",
+            "name": "Nemom"
+        },
+        {
+            "id": "Parassala",
+            "name": "Parassala"
+        },
+        {
+            "id": "Perumkadavila",
+            "name": "Perumkadavila"
+        },
+        {
+            "id": "Pothencode",
+            "name": "Pothencode"
+        },
+        {
+            "id": "Vamanapuram",
+            "name": "Vamanapuram"
+        },
+        {
+            "id": "Varkala",
+            "name": "Varkala"
+        },
+        {
+            "id": "Vellanad",
+            "name": "Vellanad"
+        }
+    ],
+    "Thrissur": [
+        {
+            "id": "Anthikkad",
+            "name": "Anthikkad"
+        },
+        {
+            "id": "Chalakkudy",
+            "name": "Chalakkudy"
+        },
+        {
+            "id": "Chavakkad",
+            "name": "Chavakkad"
+        },
+        {
+            "id": "Cherpu",
+            "name": "Cherpu"
+        },
+        {
+            "id": "Chowannur",
+            "name": "Chowannur"
+        },
+        {
+            "id": "Irinjalakkuda",
+            "name": "Irinjalakkuda"
+        },
+        {
+            "id": "Kodakara",
+            "name": "Kodakara"
+        },
+        {
+            "id": "Mala",
+            "name": "Mala"
+        },
+        {
+            "id": "Mathilakam",
+            "name": "Mathilakam"
+        },
+        {
+            "id": "Mullassery",
+            "name": "Mullassery"
+        },
+        {
+            "id": "Ollukkara",
+            "name": "Ollukkara"
+        },
+        {
+            "id": "Pazhayannur",
+            "name": "Pazhayannur"
+        },
+        {
+            "id": "Puzhakkal",
+            "name": "Puzhakkal"
+        },
+        {
+            "id": "Thalikkulam",
+            "name": "Thalikkulam"
+        },
+        {
+            "id": "Vellangallur",
+            "name": "Vellangallur"
+        },
+        {
+            "id": "Wadakkanchery",
+            "name": "Wadakkanchery"
+        }
+    ],
+    "Wayanad": [
+        {
+            "id": "Kalpetta",
+            "name": "Kalpetta"
+        },
+        {
+            "id": "Mananthavady",
+            "name": "Mananthavady"
+        },
+        {
+            "id": "Panamaram",
+            "name": "Panamaram"
+        },
+        {
+            "id": "Sulthan Bathery",
+            "name": "Sulthan Bathery"
+        }
+    ]
+}

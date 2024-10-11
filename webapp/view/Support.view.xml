@@ -1,0 +1,195 @@
+<mvc:View
+    controllerName="ESGAdmin.ESGAdmin.controller.Support"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    displayBlock="true"
+    xmlns="sap.m"
+    xmlns:form="sap.ui.layout.form"
+    xmlns:f="sap.f"
+    xmlns:control="sap.ui.core.Control"
+>
+   <f:FlexibleColumnLayout id="flexibleColumnLayout">
+    <!-- Begin of Master Section -->
+    <f:beginColumnPages>
+        <Page title="Support Incidents">
+         <customHeader>
+            <OverflowToolbar>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />
+                <Image
+                    src="./assets/ESG Kosh.png"
+                    class="sapUiMediumMargin"
+                    width="60px"
+                    press="onHomePress"
+                />
+                <ToolbarSpacer />
+                <Title text="Support Incidents" />
+                <ToolbarSpacer />
+                <HBox alignItems="Center">
+                    <Button
+                        icon="sap-icon://bell"
+                        tooltip="Notifications"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </HBox>
+            </OverflowToolbar>
+        </customHeader>
+            <!-- Filters -->
+            <HBox>
+                <VBox class="sapUiSmallMargin" fitContainer="true">
+                    <!-- Status Filter -->
+                    <Label text="Status" />
+                    <Select id="statusFilter" class="sapUiTinyMarginBottom" change="onFilterChange">
+                        <core:Item key="New" text="New" />
+                        <core:Item key="In Progress" text="In Progress" />
+                        <core:Item key="On Hold" text="On Hold" />
+                        <core:Item key="Resolved3" text="Resolved" />
+                        <core:Item key="Awaiting Info" text="Awaiting Info" />
+                        <core:Item key="Closed" text="Closed" />
+                        <core:Item key="Abandoned" text="Abandoned" />
+                    </Select>
+                </VBox>
+                <VBox class="sapUiSmallMargin" fitContainer="true">
+                    <Label text="Priority" />
+                    <Select id="priorityFilter" class="sapUiTinyMarginBottom" change="onFilterChange">
+                        <core:Item key="Very High" text="Very High" />
+                        <core:Item key="High" text="High" />
+                        <core:Item key="Medium" text="Medium" />
+                        <core:Item key="Low" text="Low" />
+                    </Select>
+                </VBox>
+                <VBox class="sapUiSmallMargin" fitContainer="true">
+                    <!-- Client Filter -->
+                    <Label text="Client" />
+                            <Select
+                                id="organizationSelect"
+                                width="200px"
+                                items="{path: 'orgData>/results'}"
+                                class="sapUiTinyMarginEnd"
+                            >
+                                <core:Item
+                                    key="{orgData>orgID}"
+                                    text="{orgData>orgName}"
+                                />
+                            </Select>
+                </VBox>
+            </HBox>
+
+            <!-- Incidents List -->
+           <Table
+    id="incidentTable"
+    inset="false"
+    growing="true"
+    growingScrollToLoad="true"
+    items="{incidentModel>/incidents}"
+    mode="None"
+    selectionChange="onSelectIncident">
+    <columns>
+        <Column>
+            <Text text="Title" />
+        </Column>
+        <Column>
+            <Text text="Status" />
+        </Column>
+        <Column>
+            <Text text="Client" />
+        </Column>
+        <Column>
+            <Text text="Created Date" />
+        </Column>
+        <Column>
+            <Text text="Priority" />
+        </Column>
+    </columns>
+    <items>
+        <ColumnListItem type="Navigation" press="onSelectIncident">
+            <cells>
+                <Text text="{incidentModel>title}" />
+                <Text text="{incidentModel>status}" />
+                <Text text="{incidentModel>orgName}" />
+                <Text text="{incidentModel>createdDate}" />
+                <Text text="{incidentModel>priority}" />
+            </cells>
+        </ColumnListItem>
+    </items>
+</Table>
+        </Page>
+    </f:beginColumnPages>
+    <!-- Detail Section in Sliding Mode -->
+    <f:midColumnPages>
+        <!-- Detail Section in Sliding Mode -->
+        <Page id="detailPage" title="Incident Details" showNavButton="true" navButtonPress="onNavBack">
+            <content>
+                <form:SimpleForm id="incidentForm" class="sapUiSmallMarginTop" editable="false" layout="ResponsiveGridLayout" labelSpanM="3" columnsM="1">
+                    <Label text="Company" />
+                    <Text text="{incidentModel>orgName}" />
+
+                    <Label text="Title" />
+                    <Text text="{incidentModel>title}" />
+
+                    <Label text="Description" />
+                    <Text text="{incidentModel>description}" />
+
+                    <Label text="Priority" />
+                    <Text text="{incidentModel>priority}" />
+
+                    <Label text="Email" />
+                    <Text text="{incidentModel>email}" />
+
+                    <Label text="Phone" />
+                    <Text text="{incidentModel>phone}" />
+
+                    <!-- Reply Form -->
+                    <Label text="Remarks" />
+                    <TextArea value="{incidentModel>remarks}" id="idRemarks" placeholder="Enter your closing remark" width="100%" />
+
+                    <!-- Status Update -->
+                    <Label text="Change Status" />
+                    <Select id="statusUpdate">
+                        <core:Item key="New" text="New" />
+                        <core:Item key="In Progress" text="In Progress" />
+                        <core:Item key="On Hold" text="On Hold" />
+                        <core:Item key="Resolved" text="Resolved" />
+                        <core:Item key="Awaiting Info" text="Awaiting Info" />
+                        <core:Item key="Closed" text="Closed" />
+                        <core:Item key="Abandoned" text="Abandoned" />
+                    </Select>
+
+                    <!-- Send Attachment -->
+                    <Label text="Add Attachment" />
+                </form:SimpleForm>
+                <VBox>
+        <List
+            id="incidentTimeline"
+            items="{
+                path: 'incidentModel>statusChanges'
+            }"
+            headerText="Status Timeline">
+            <FeedListItem
+            icon="sap-icon://message-success"
+                sender="Status"
+                timestamp="{incidentModel>timestamp}"
+                text="{incidentModel>text}" />
+        </List>
+    </VBox>
+            </content>
+            <footer>
+                <Bar>
+                    <contentRight>
+                        <Button text="Close" press="onCloseDetail" />
+                        <Button text="Update" type="Emphasized" press="onSendReply" />
+                    </contentRight>
+                </Bar>
+            </footer>
+        </Page>
+</f:midColumnPages>
+</f:FlexibleColumnLayout>
+</mvc:View>

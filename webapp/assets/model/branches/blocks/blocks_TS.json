@@ -1,0 +1,2444 @@
+{
+    "Adilabad": [
+        {
+            "id": "Adilabad Rural",
+            "name": "Adilabad Rural"
+        },
+        {
+            "id": "Adilabad Urban",
+            "name": "Adilabad Urban"
+        },
+        {
+            "id": "Bazarhatnoor",
+            "name": "Bazarhatnoor"
+        },
+        {
+            "id": "Bela",
+            "name": "Bela"
+        },
+        {
+            "id": "Bheempur",
+            "name": "Bheempur"
+        },
+        {
+            "id": "Boath",
+            "name": "Boath"
+        },
+        {
+            "id": "Gadiguda",
+            "name": "Gadiguda"
+        },
+        {
+            "id": "Gudihatnur",
+            "name": "Gudihatnur"
+        },
+        {
+            "id": "Ichoda",
+            "name": "Ichoda"
+        },
+        {
+            "id": "Indervelly",
+            "name": "Indervelly"
+        },
+        {
+            "id": "Jainath",
+            "name": "Jainath"
+        },
+        {
+            "id": "Mavala",
+            "name": "Mavala"
+        },
+        {
+            "id": "Narnoor",
+            "name": "Narnoor"
+        },
+        {
+            "id": "Neradigonda",
+            "name": "Neradigonda"
+        },
+        {
+            "id": "Sirikonda",
+            "name": "Sirikonda"
+        },
+        {
+            "id": "Talamadugu",
+            "name": "Talamadugu"
+        },
+        {
+            "id": "Tamsi",
+            "name": "Tamsi"
+        },
+        {
+            "id": "Utnoor",
+            "name": "Utnoor"
+        }
+    ],
+    "Bhadradri Kothagudem": [
+        {
+            "id": "Allapalli",
+            "name": "Allapalli"
+        },
+        {
+            "id": "Annapureddypalli",
+            "name": "Annapureddypalli"
+        },
+        {
+            "id": "Aswapuram",
+            "name": "Aswapuram"
+        },
+        {
+            "id": "Aswaraopeta",
+            "name": "Aswaraopeta"
+        },
+        {
+            "id": "Bhadrachalam",
+            "name": "Bhadrachalam"
+        },
+        {
+            "id": "Burgampahad",
+            "name": "Burgampahad"
+        },
+        {
+            "id": "Chandrugonda",
+            "name": "Chandrugonda"
+        },
+        {
+            "id": "Cherla",
+            "name": "Cherla"
+        },
+        {
+            "id": "Chunchupalli",
+            "name": "Chunchupalli"
+        },
+        {
+            "id": "Dammapeta",
+            "name": "Dammapeta"
+        },
+        {
+            "id": "Dummugudem",
+            "name": "Dummugudem"
+        },
+        {
+            "id": "Gundala",
+            "name": "Gundala"
+        },
+        {
+            "id": "Julurupadu",
+            "name": "Julurupadu"
+        },
+        {
+            "id": "Karakagudem",
+            "name": "Karakagudem"
+        },
+        {
+            "id": "Kothagudem",
+            "name": "Kothagudem"
+        },
+        {
+            "id": "Laxmidevipalli",
+            "name": "Laxmidevipalli"
+        },
+        {
+            "id": "Manugur",
+            "name": "Manugur"
+        },
+        {
+            "id": "Mulakalapally",
+            "name": "Mulakalapally"
+        },
+        {
+            "id": "Palwancha",
+            "name": "Palwancha"
+        },
+        {
+            "id": "Pinapaka",
+            "name": "Pinapaka"
+        },
+        {
+            "id": "Sujathanagar",
+            "name": "Sujathanagar"
+        },
+        {
+            "id": "Tekulapally",
+            "name": "Tekulapally"
+        },
+        {
+            "id": "Yellandu",
+            "name": "Yellandu"
+        }
+    ],
+    "Hanumakonda": [
+        {
+            "id": "Atmakur",
+            "name": "Atmakur"
+        },
+        {
+            "id": "Bheemadevarapalli",
+            "name": "Bheemadevarapalli"
+        },
+        {
+            "id": "Damera",
+            "name": "Damera"
+        },
+        {
+            "id": "Dharmasagar",
+            "name": "Dharmasagar"
+        },
+        {
+            "id": "Elkathurthi",
+            "name": "Elkathurthi"
+        },
+        {
+            "id": "Hanamkonda",
+            "name": "Hanamkonda"
+        },
+        {
+            "id": "Hasanparthy",
+            "name": "Hasanparthy"
+        },
+        {
+            "id": "Inavole",
+            "name": "Inavole"
+        },
+        {
+            "id": "Kamalapur",
+            "name": "Kamalapur"
+        },
+        {
+            "id": "Khazipet",
+            "name": "Khazipet"
+        },
+        {
+            "id": "Nadikuda",
+            "name": "Nadikuda"
+        },
+        {
+            "id": "Parkal",
+            "name": "Parkal"
+        },
+        {
+            "id": "Shayampet",
+            "name": "Shayampet"
+        },
+        {
+            "id": "Velair",
+            "name": "Velair"
+        }
+    ],
+    "Hyderabad": [
+        {
+            "id": "Amberpet",
+            "name": "Amberpet"
+        },
+        {
+            "id": "Ameerpet",
+            "name": "Ameerpet"
+        },
+        {
+            "id": "Asifnagar",
+            "name": "Asifnagar"
+        },
+        {
+            "id": "Bahadurpura",
+            "name": "Bahadurpura"
+        },
+        {
+            "id": "Bandlaguda",
+            "name": "Bandlaguda"
+        },
+        {
+            "id": "Charminar",
+            "name": "Charminar"
+        },
+        {
+            "id": "Golconda",
+            "name": "Golconda"
+        },
+        {
+            "id": "Himayathnagar",
+            "name": "Himayathnagar"
+        },
+        {
+            "id": "Khairthabad",
+            "name": "Khairthabad"
+        },
+        {
+            "id": "Marredpally",
+            "name": "Marredpally"
+        },
+        {
+            "id": "Musheerabad",
+            "name": "Musheerabad"
+        },
+        {
+            "id": "Nampally",
+            "name": "Nampally"
+        },
+        {
+            "id": "Saidabad",
+            "name": "Saidabad"
+        },
+        {
+            "id": "Secunderabad",
+            "name": "Secunderabad"
+        },
+        {
+            "id": "Shaikpet",
+            "name": "Shaikpet"
+        },
+        {
+            "id": "Tirumalagiry",
+            "name": "Tirumalagiry"
+        }
+    ],
+    "Jagitial": [
+        {
+            "id": "Beerpur",
+            "name": "Beerpur"
+        },
+        {
+            "id": "Buggaram",
+            "name": "Buggaram"
+        },
+        {
+            "id": "Dharmapuri",
+            "name": "Dharmapuri"
+        },
+        {
+            "id": "Gollapalli",
+            "name": "Gollapalli"
+        },
+        {
+            "id": "Ibrahimpatnam",
+            "name": "Ibrahimpatnam"
+        },
+        {
+            "id": "Jagitial Rural",
+            "name": "Jagitial Rural"
+        },
+        {
+            "id": "Jagtial",
+            "name": "Jagtial"
+        },
+        {
+            "id": "Kathalapur",
+            "name": "Kathalapur"
+        },
+        {
+            "id": "Kodimial",
+            "name": "Kodimial"
+        },
+        {
+            "id": "Korutla",
+            "name": "Korutla"
+        },
+        {
+            "id": "Mallapur",
+            "name": "Mallapur"
+        },
+        {
+            "id": "Mallial",
+            "name": "Mallial"
+        },
+        {
+            "id": "Medipalli",
+            "name": "Medipalli"
+        },
+        {
+            "id": "Metpalli",
+            "name": "Metpalli"
+        },
+        {
+            "id": "Pegadapalli",
+            "name": "Pegadapalli"
+        },
+        {
+            "id": "Raikal",
+            "name": "Raikal"
+        },
+        {
+            "id": "Sarangapur",
+            "name": "Sarangapur"
+        },
+        {
+            "id": "Velgatoor",
+            "name": "Velgatoor"
+        }
+    ],
+    "Jangoan": [
+        {
+            "id": "Bachannapeta",
+            "name": "Bachannapeta"
+        },
+        {
+            "id": "Chilpur",
+            "name": "Chilpur"
+        },
+        {
+            "id": "Devaruppula",
+            "name": "Devaruppula"
+        },
+        {
+            "id": "Ghanpur(Station)",
+            "name": "Ghanpur(Station)"
+        },
+        {
+            "id": "Jangaon",
+            "name": "Jangaon"
+        },
+        {
+            "id": "Kodakandla",
+            "name": "Kodakandla"
+        },
+        {
+            "id": "Lingalaghanpur",
+            "name": "Lingalaghanpur"
+        },
+        {
+            "id": "Narmetta",
+            "name": "Narmetta"
+        },
+        {
+            "id": "Palakurthi",
+            "name": "Palakurthi"
+        },
+        {
+            "id": "Raghunathpalle",
+            "name": "Raghunathpalle"
+        },
+        {
+            "id": "Tharigoppula",
+            "name": "Tharigoppula"
+        },
+        {
+            "id": "Zaffergadh",
+            "name": "Zaffergadh"
+        }
+    ],
+    "Jayashankar Bhupalapally": [
+        {
+            "id": "Bhupalpalle",
+            "name": "Bhupalpalle"
+        },
+        {
+            "id": "Chityal",
+            "name": "Chityal"
+        },
+        {
+            "id": "Ghanapur (Mulug)",
+            "name": "Ghanapur (Mulug)"
+        },
+        {
+            "id": "Kataram",
+            "name": "Kataram"
+        },
+        {
+            "id": "Mahadevpur",
+            "name": "Mahadevpur"
+        },
+        {
+            "id": "Malhar Rao",
+            "name": "Malhar Rao"
+        },
+        {
+            "id": "Mogullapalle",
+            "name": "Mogullapalle"
+        },
+        {
+            "id": "Mutharam (Mahadevpur)",
+            "name": "Mutharam (Mahadevpur)"
+        },
+        {
+            "id": "Palimela",
+            "name": "Palimela"
+        },
+        {
+            "id": "Regonda",
+            "name": "Regonda"
+        },
+        {
+            "id": "Tekumatla",
+            "name": "Tekumatla"
+        }
+    ],
+    "Jogulamba Gadwal": [
+        {
+            "id": "Alampur",
+            "name": "Alampur"
+        },
+        {
+            "id": "Dharur",
+            "name": "Dharur"
+        },
+        {
+            "id": "Gadwal",
+            "name": "Gadwal"
+        },
+        {
+            "id": "Ghattu",
+            "name": "Ghattu"
+        },
+        {
+            "id": "Ieeja",
+            "name": "Ieeja"
+        },
+        {
+            "id": "Itikyal",
+            "name": "Itikyal"
+        },
+        {
+            "id": "Kaloor Thimmandoddi",
+            "name": "Kaloor Thimmandoddi"
+        },
+        {
+            "id": "Maldakal",
+            "name": "Maldakal"
+        },
+        {
+            "id": "Manopadu",
+            "name": "Manopadu"
+        },
+        {
+            "id": "Rajoli",
+            "name": "Rajoli"
+        },
+        {
+            "id": "Undavelly",
+            "name": "Undavelly"
+        },
+        {
+            "id": "Waddepalle",
+            "name": "Waddepalle"
+        }
+    ],
+    "Kamareddy": [
+        {
+            "id": "Banswada",
+            "name": "Banswada"
+        },
+        {
+            "id": "Bhiknur",
+            "name": "Bhiknur"
+        },
+        {
+            "id": "Bibipet",
+            "name": "Bibipet"
+        },
+        {
+            "id": "Bichkunda",
+            "name": "Bichkunda"
+        },
+        {
+            "id": "Birkoor",
+            "name": "Birkoor"
+        },
+        {
+            "id": "Domakonda",
+            "name": "Domakonda"
+        },
+        {
+            "id": "Gandhari",
+            "name": "Gandhari"
+        },
+        {
+            "id": "Jukkal",
+            "name": "Jukkal"
+        },
+        {
+            "id": "Kamareddy",
+            "name": "Kamareddy"
+        },
+        {
+            "id": "Lingampet",
+            "name": "Lingampet"
+        },
+        {
+            "id": "Machareddy",
+            "name": "Machareddy"
+        },
+        {
+            "id": "Madnur",
+            "name": "Madnur"
+        },
+        {
+            "id": "Nagireddypet",
+            "name": "Nagireddypet"
+        },
+        {
+            "id": "Nasurullabad",
+            "name": "Nasurullabad"
+        },
+        {
+            "id": "Nizamsagar",
+            "name": "Nizamsagar"
+        },
+        {
+            "id": "Pedda Kodapgal",
+            "name": "Pedda Kodapgal"
+        },
+        {
+            "id": "Pitlam",
+            "name": "Pitlam"
+        },
+        {
+            "id": "Rajampet",
+            "name": "Rajampet"
+        },
+        {
+            "id": "Ramareddy",
+            "name": "Ramareddy"
+        },
+        {
+            "id": "Sadasivanagar",
+            "name": "Sadasivanagar"
+        },
+        {
+            "id": "Tadwai",
+            "name": "Tadwai"
+        },
+        {
+            "id": "Yellareddy",
+            "name": "Yellareddy"
+        }
+    ],
+    "Karimnagar": [
+        {
+            "id": "Chigurumamidi",
+            "name": "Chigurumamidi"
+        },
+        {
+            "id": "Choppadandi",
+            "name": "Choppadandi"
+        },
+        {
+            "id": "Ellandakunta",
+            "name": "Ellandakunta"
+        },
+        {
+            "id": "Gangadhara",
+            "name": "Gangadhara"
+        },
+        {
+            "id": "Ganneruvaram",
+            "name": "Ganneruvaram"
+        },
+        {
+            "id": "Huzurabad",
+            "name": "Huzurabad"
+        },
+        {
+            "id": "Jammikunta",
+            "name": "Jammikunta"
+        },
+        {
+            "id": "Karimnagar Rural",
+            "name": "Karimnagar Rural"
+        },
+        {
+            "id": "Karimnagar Rural I",
+            "name": "Karimnagar Rural I"
+        },
+        {
+            "id": "Kothapally",
+            "name": "Kothapally"
+        },
+        {
+            "id": "Manakondur",
+            "name": "Manakondur"
+        },
+        {
+            "id": "Ramadugu",
+            "name": "Ramadugu"
+        },
+        {
+            "id": "Shankarapatnam",
+            "name": "Shankarapatnam"
+        },
+        {
+            "id": "Thimmapur (L.M.D.)",
+            "name": "Thimmapur (L.M.D.)"
+        },
+        {
+            "id": "Veenavanka",
+            "name": "Veenavanka"
+        },
+        {
+            "id": "V. Saidapur",
+            "name": "V. Saidapur"
+        }
+    ],
+    "Khammam": [
+        {
+            "id": "Bonakal",
+            "name": "Bonakal"
+        },
+        {
+            "id": "Chinthakani",
+            "name": "Chinthakani"
+        },
+        {
+            "id": "Enkoor",
+            "name": "Enkoor"
+        },
+        {
+            "id": "Kallur",
+            "name": "Kallur"
+        },
+        {
+            "id": "Kamepally",
+            "name": "Kamepally"
+        },
+        {
+            "id": "Khammam (Rural)",
+            "name": "Khammam (Rural)"
+        },
+        {
+            "id": "Khammam (Urban)",
+            "name": "Khammam (Urban)"
+        },
+        {
+            "id": "Konijerla",
+            "name": "Konijerla"
+        },
+        {
+            "id": "Kusumanchi",
+            "name": "Kusumanchi"
+        },
+        {
+            "id": "Madhira",
+            "name": "Madhira"
+        },
+        {
+            "id": "Mudigonda",
+            "name": "Mudigonda"
+        },
+        {
+            "id": "Nelakondapally",
+            "name": "Nelakondapally"
+        },
+        {
+            "id": "Penubally",
+            "name": "Penubally"
+        },
+        {
+            "id": "Raghunadhapalem",
+            "name": "Raghunadhapalem"
+        },
+        {
+            "id": "Sathupally",
+            "name": "Sathupally"
+        },
+        {
+            "id": "Singareni",
+            "name": "Singareni"
+        },
+        {
+            "id": "Thallada",
+            "name": "Thallada"
+        },
+        {
+            "id": "Thirumalayapalem",
+            "name": "Thirumalayapalem"
+        },
+        {
+            "id": "Vemsoor",
+            "name": "Vemsoor"
+        },
+        {
+            "id": "Wyra",
+            "name": "Wyra"
+        },
+        {
+            "id": "Yerrupalem",
+            "name": "Yerrupalem"
+        }
+    ],
+    "Kumuram Bheem Asifabad": [
+        {
+            "id": "Asifabad",
+            "name": "Asifabad"
+        },
+        {
+            "id": "Bejjur",
+            "name": "Bejjur"
+        },
+        {
+            "id": "Chintalamanepally",
+            "name": "Chintalamanepally"
+        },
+        {
+            "id": "Dahegaon",
+            "name": "Dahegaon"
+        },
+        {
+            "id": "Jainoor",
+            "name": "Jainoor"
+        },
+        {
+            "id": "Kagaznagar",
+            "name": "Kagaznagar"
+        },
+        {
+            "id": "Kerameri",
+            "name": "Kerameri"
+        },
+        {
+            "id": "Kouthala",
+            "name": "Kouthala"
+        },
+        {
+            "id": "Lingapur",
+            "name": "Lingapur"
+        },
+        {
+            "id": "Penchicalpet",
+            "name": "Penchicalpet"
+        },
+        {
+            "id": "Rebbena",
+            "name": "Rebbena"
+        },
+        {
+            "id": "Sirpur (T)",
+            "name": "Sirpur (T)"
+        },
+        {
+            "id": "Sirpur (U)",
+            "name": "Sirpur (U)"
+        },
+        {
+            "id": "Tiryani",
+            "name": "Tiryani"
+        },
+        {
+            "id": "Wankidi",
+            "name": "Wankidi"
+        }
+    ],
+    "Mahabubabad": [
+        {
+            "id": "Bayyaram",
+            "name": "Bayyaram"
+        },
+        {
+            "id": "Chinnagudur",
+            "name": "Chinnagudur"
+        },
+        {
+            "id": "Danthalapalle",
+            "name": "Danthalapalle"
+        },
+        {
+            "id": "Dornakal",
+            "name": "Dornakal"
+        },
+        {
+            "id": "Gangaram",
+            "name": "Gangaram"
+        },
+        {
+            "id": "Garla",
+            "name": "Garla"
+        },
+        {
+            "id": "Gudur",
+            "name": "Gudur"
+        },
+        {
+            "id": "Kesamudram",
+            "name": "Kesamudram"
+        },
+        {
+            "id": "Kothagudem",
+            "name": "Kothagudem"
+        },
+        {
+            "id": "Kuravi",
+            "name": "Kuravi"
+        },
+        {
+            "id": "Mahbubabad",
+            "name": "Mahbubabad"
+        },
+        {
+            "id": "Maripeda",
+            "name": "Maripeda"
+        },
+        {
+            "id": "Nallikudur",
+            "name": "Nallikudur"
+        },
+        {
+            "id": "Narsimhulapet",
+            "name": "Narsimhulapet"
+        },
+        {
+            "id": "Peddavangara",
+            "name": "Peddavangara"
+        },
+        {
+            "id": "Thorrur",
+            "name": "Thorrur"
+        }
+    ],
+    "Mahabubnagar": [
+        {
+            "id": "Addakal",
+            "name": "Addakal"
+        },
+        {
+            "id": "Balanagar",
+            "name": "Balanagar"
+        },
+        {
+            "id": "Bhoothpur",
+            "name": "Bhoothpur"
+        },
+        {
+            "id": "Chinnachintakunta",
+            "name": "Chinnachintakunta"
+        },
+        {
+            "id": "Devarakadara",
+            "name": "Devarakadara"
+        },
+        {
+            "id": "Gandeed",
+            "name": "Gandeed"
+        },
+        {
+            "id": "Hanwada",
+            "name": "Hanwada"
+        },
+        {
+            "id": "Jadcherla",
+            "name": "Jadcherla"
+        },
+        {
+            "id": "Koilkonda",
+            "name": "Koilkonda"
+        },
+        {
+            "id": "Mahabubnagar Urban",
+            "name": "Mahabubnagar Urban"
+        },
+        {
+            "id": "Mahbubnagar Rural",
+            "name": "Mahbubnagar Rural"
+        },
+        {
+            "id": "Midjil",
+            "name": "Midjil"
+        },
+        {
+            "id": "Mohammadabad",
+            "name": "Mohammadabad"
+        },
+        {
+            "id": "Moosapet",
+            "name": "Moosapet"
+        },
+        {
+            "id": "Nawabpet",
+            "name": "Nawabpet"
+        },
+        {
+            "id": "Rajapur",
+            "name": "Rajapur"
+        }
+    ],
+    "Mancherial": [
+        {
+            "id": "Bellampally",
+            "name": "Bellampally"
+        },
+        {
+            "id": "Bheemaram",
+            "name": "Bheemaram"
+        },
+        {
+            "id": "Bheemini",
+            "name": "Bheemini"
+        },
+        {
+            "id": "Chennur",
+            "name": "Chennur"
+        },
+        {
+            "id": "Dandepally",
+            "name": "Dandepally"
+        },
+        {
+            "id": "Hajipur",
+            "name": "Hajipur"
+        },
+        {
+            "id": "Jaipur",
+            "name": "Jaipur"
+        },
+        {
+            "id": "Jannaram",
+            "name": "Jannaram"
+        },
+        {
+            "id": "Kannepally",
+            "name": "Kannepally"
+        },
+        {
+            "id": "Kasipet",
+            "name": "Kasipet"
+        },
+        {
+            "id": "Kotapally",
+            "name": "Kotapally"
+        },
+        {
+            "id": "Luxettipet",
+            "name": "Luxettipet"
+        },
+        {
+            "id": "Mancherial",
+            "name": "Mancherial"
+        },
+        {
+            "id": "Mandamarri",
+            "name": "Mandamarri"
+        },
+        {
+            "id": "Naspur",
+            "name": "Naspur"
+        },
+        {
+            "id": "Nennel",
+            "name": "Nennel"
+        },
+        {
+            "id": "Tandur",
+            "name": "Tandur"
+        },
+        {
+            "id": "Vemanpally",
+            "name": "Vemanpally"
+        }
+    ],
+    "Medak": [
+        {
+            "id": "Alladurg",
+            "name": "Alladurg"
+        },
+        {
+            "id": "Chegunta",
+            "name": "Chegunta"
+        },
+        {
+            "id": "Chilpched",
+            "name": "Chilpched"
+        },
+        {
+            "id": "Havelighanapur",
+            "name": "Havelighanapur"
+        },
+        {
+            "id": "Kowdipalli",
+            "name": "Kowdipalli"
+        },
+        {
+            "id": "Kulcharam",
+            "name": "Kulcharam"
+        },
+        {
+            "id": "Manoharabad",
+            "name": "Manoharabad"
+        },
+        {
+            "id": "Masaipet",
+            "name": "Masaipet"
+        },
+        {
+            "id": "Medak",
+            "name": "Medak"
+        },
+        {
+            "id": "Narsapur",
+            "name": "Narsapur"
+        },
+        {
+            "id": "Narsingi",
+            "name": "Narsingi"
+        },
+        {
+            "id": "Nizampet",
+            "name": "Nizampet"
+        },
+        {
+            "id": "Papannapet",
+            "name": "Papannapet"
+        },
+        {
+            "id": "Ramayampet",
+            "name": "Ramayampet"
+        },
+        {
+            "id": "Regode",
+            "name": "Regode"
+        },
+        {
+            "id": "Shankarampet[A]",
+            "name": "Shankarampet[A]"
+        },
+        {
+            "id": "Shankarampet[R]",
+            "name": "Shankarampet[R]"
+        },
+        {
+            "id": "Shivampet",
+            "name": "Shivampet"
+        },
+        {
+            "id": "Tekmal",
+            "name": "Tekmal"
+        },
+        {
+            "id": "Tupran",
+            "name": "Tupran"
+        },
+        {
+            "id": "Yeldurthy",
+            "name": "Yeldurthy"
+        }
+    ],
+    "Medchal Malkajgiri": [
+        {
+            "id": "Alwal",
+            "name": "Alwal"
+        },
+        {
+            "id": "Bachupally",
+            "name": "Bachupally"
+        },
+        {
+            "id": "Balanagar",
+            "name": "Balanagar"
+        },
+        {
+            "id": "Dundigal Gandimaisamma",
+            "name": "Dundigal Gandimaisamma"
+        },
+        {
+            "id": "Ghatkesar",
+            "name": "Ghatkesar"
+        },
+        {
+            "id": "Kapra",
+            "name": "Kapra"
+        },
+        {
+            "id": "Keesara",
+            "name": "Keesara"
+        },
+        {
+            "id": "Kukatpally",
+            "name": "Kukatpally"
+        },
+        {
+            "id": "Malkajgiri",
+            "name": "Malkajgiri"
+        },
+        {
+            "id": "Medchal",
+            "name": "Medchal"
+        },
+        {
+            "id": "Medipally",
+            "name": "Medipally"
+        },
+        {
+            "id": "Muduchinthalapally",
+            "name": "Muduchinthalapally"
+        },
+        {
+            "id": "Quthbullapur",
+            "name": "Quthbullapur"
+        },
+        {
+            "id": "Shamirpet",
+            "name": "Shamirpet"
+        },
+        {
+            "id": "Uppal",
+            "name": "Uppal"
+        }
+    ],
+    "Mulugu": [
+        {
+            "id": "Eturnagaram",
+            "name": "Eturnagaram"
+        },
+        {
+            "id": "Govindaraopet",
+            "name": "Govindaraopet"
+        },
+        {
+            "id": "Kannaigudem",
+            "name": "Kannaigudem"
+        },
+        {
+            "id": "Mangapet",
+            "name": "Mangapet"
+        },
+        {
+            "id": "Mulug",
+            "name": "Mulug"
+        },
+        {
+            "id": "Tadvai",
+            "name": "Tadvai"
+        },
+        {
+            "id": "Venkatapur",
+            "name": "Venkatapur"
+        },
+        {
+            "id": "Venkatapuram",
+            "name": "Venkatapuram"
+        },
+        {
+            "id": "Wazeed",
+            "name": "Wazeed"
+        }
+    ],
+    "Nagarkurnool": [
+        {
+            "id": "Achampeta",
+            "name": "Achampeta"
+        },
+        {
+            "id": "Amrabad",
+            "name": "Amrabad"
+        },
+        {
+            "id": "Balmoor",
+            "name": "Balmoor"
+        },
+        {
+            "id": "Bijinapalle",
+            "name": "Bijinapalle"
+        },
+        {
+            "id": "Charakonda",
+            "name": "Charakonda"
+        },
+        {
+            "id": "Kalwakurthy",
+            "name": "Kalwakurthy"
+        },
+        {
+            "id": "Kodair",
+            "name": "Kodair"
+        },
+        {
+            "id": "Kollapur",
+            "name": "Kollapur"
+        },
+        {
+            "id": "Lingal",
+            "name": "Lingal"
+        },
+        {
+            "id": "Nagarkurnool",
+            "name": "Nagarkurnool"
+        },
+        {
+            "id": "Padara",
+            "name": "Padara"
+        },
+        {
+            "id": "Peddakothapalle",
+            "name": "Peddakothapalle"
+        },
+        {
+            "id": "Pentlavelli",
+            "name": "Pentlavelli"
+        },
+        {
+            "id": "Tadoor",
+            "name": "Tadoor"
+        },
+        {
+            "id": "Telkapalle",
+            "name": "Telkapalle"
+        },
+        {
+            "id": "Thimmajipeta",
+            "name": "Thimmajipeta"
+        },
+        {
+            "id": "Uppununthala",
+            "name": "Uppununthala"
+        },
+        {
+            "id": "Urkonda",
+            "name": "Urkonda"
+        },
+        {
+            "id": "Vangoor",
+            "name": "Vangoor"
+        },
+        {
+            "id": "Veldanda",
+            "name": "Veldanda"
+        }
+    ],
+    "Nalgonda": [
+        {
+            "id": "Adavidevulapalli",
+            "name": "Adavidevulapalli"
+        },
+        {
+            "id": "Anumula",
+            "name": "Anumula"
+        },
+        {
+            "id": "Chandampet",
+            "name": "Chandampet"
+        },
+        {
+            "id": "Chandur",
+            "name": "Chandur"
+        },
+        {
+            "id": "Chintha Pally",
+            "name": "Chintha Pally"
+        },
+        {
+            "id": "Chityala",
+            "name": "Chityala"
+        },
+        {
+            "id": "Dameracherla",
+            "name": "Dameracherla"
+        },
+        {
+            "id": "Devarakonda",
+            "name": "Devarakonda"
+        },
+        {
+            "id": "Gundlapally (Dindi)",
+            "name": "Gundlapally (Dindi)"
+        },
+        {
+            "id": "Gurrampode",
+            "name": "Gurrampode"
+        },
+        {
+            "id": "Kanagal",
+            "name": "Kanagal"
+        },
+        {
+            "id": "Kattangoor",
+            "name": "Kattangoor"
+        },
+        {
+            "id": "Kethe Pally",
+            "name": "Kethe Pally"
+        },
+        {
+            "id": "Konda Mallepally",
+            "name": "Konda Mallepally"
+        },
+        {
+            "id": "Madugulapally",
+            "name": "Madugulapally"
+        },
+        {
+            "id": "Marriguda",
+            "name": "Marriguda"
+        },
+        {
+            "id": "Miryalaguda",
+            "name": "Miryalaguda"
+        },
+        {
+            "id": "Munugode",
+            "name": "Munugode"
+        },
+        {
+            "id": "Nakrekal",
+            "name": "Nakrekal"
+        },
+        {
+            "id": "Nalgonda",
+            "name": "Nalgonda"
+        },
+        {
+            "id": "Nampally",
+            "name": "Nampally"
+        },
+        {
+            "id": "Narketpally",
+            "name": "Narketpally"
+        },
+        {
+            "id": "Neredugommu",
+            "name": "Neredugommu"
+        },
+        {
+            "id": "Nidamanoor",
+            "name": "Nidamanoor"
+        },
+        {
+            "id": "Pedda Adiserlapally",
+            "name": "Pedda Adiserlapally"
+        },
+        {
+            "id": "Peddavoora",
+            "name": "Peddavoora"
+        },
+        {
+            "id": "Shali Gouraram",
+            "name": "Shali Gouraram"
+        },
+        {
+            "id": "Thipparthi",
+            "name": "Thipparthi"
+        },
+        {
+            "id": "Tirumalagiri Sagar",
+            "name": "Tirumalagiri Sagar"
+        },
+        {
+            "id": "Tripuraram",
+            "name": "Tripuraram"
+        },
+        {
+            "id": "Vemula Pally",
+            "name": "Vemula Pally"
+        }
+    ],
+    "Narayanpet": [
+        {
+            "id": "Damaragidda",
+            "name": "Damaragidda"
+        },
+        {
+            "id": "Dhanwada",
+            "name": "Dhanwada"
+        },
+        {
+            "id": "Kosgi",
+            "name": "Kosgi"
+        },
+        {
+            "id": "Krishna",
+            "name": "Krishna"
+        },
+        {
+            "id": "Maddur",
+            "name": "Maddur"
+        },
+        {
+            "id": "Maganoor",
+            "name": "Maganoor"
+        },
+        {
+            "id": "Makthal",
+            "name": "Makthal"
+        },
+        {
+            "id": "Marikal",
+            "name": "Marikal"
+        },
+        {
+            "id": "Narayanpet",
+            "name": "Narayanpet"
+        },
+        {
+            "id": "Narva",
+            "name": "Narva"
+        },
+        {
+            "id": "Utkoor",
+            "name": "Utkoor"
+        }
+    ],
+    "Nirmal": [
+        {
+            "id": "Basar",
+            "name": "Basar"
+        },
+        {
+            "id": "Bhainsa",
+            "name": "Bhainsa"
+        },
+        {
+            "id": "Dasturabad",
+            "name": "Dasturabad"
+        },
+        {
+            "id": "Dilawarpur",
+            "name": "Dilawarpur"
+        },
+        {
+            "id": "Kaddam (Peddur)",
+            "name": "Kaddam (Peddur)"
+        },
+        {
+            "id": "Khanapur",
+            "name": "Khanapur"
+        },
+        {
+            "id": "Kubeer",
+            "name": "Kubeer"
+        },
+        {
+            "id": "Kuntala",
+            "name": "Kuntala"
+        },
+        {
+            "id": "Laxmanchanda",
+            "name": "Laxmanchanda"
+        },
+        {
+            "id": "Lokeswaram",
+            "name": "Lokeswaram"
+        },
+        {
+            "id": "Mamda",
+            "name": "Mamda"
+        },
+        {
+            "id": "Mudhole",
+            "name": "Mudhole"
+        },
+        {
+            "id": "Narsapur G",
+            "name": "Narsapur G"
+        },
+        {
+            "id": "Nirmal",
+            "name": "Nirmal"
+        },
+        {
+            "id": "Nirmal Rural",
+            "name": "Nirmal Rural"
+        },
+        {
+            "id": "Pembi",
+            "name": "Pembi"
+        },
+        {
+            "id": "Sarangapur",
+            "name": "Sarangapur"
+        },
+        {
+            "id": "Soan",
+            "name": "Soan"
+        },
+        {
+            "id": "Tanur",
+            "name": "Tanur"
+        }
+    ],
+    "Nizamabad": [
+        {
+            "id": "Armur",
+            "name": "Armur"
+        },
+        {
+            "id": "Balkonda",
+            "name": "Balkonda"
+        },
+        {
+            "id": "Bheemgal",
+            "name": "Bheemgal"
+        },
+        {
+            "id": "Bodhan",
+            "name": "Bodhan"
+        },
+        {
+            "id": "Chandur",
+            "name": "Chandur"
+        },
+        {
+            "id": "Dharpalle",
+            "name": "Dharpalle"
+        },
+        {
+            "id": "Dichpalle",
+            "name": "Dichpalle"
+        },
+        {
+            "id": "Indalwai",
+            "name": "Indalwai"
+        },
+        {
+            "id": "Jakranpalle",
+            "name": "Jakranpalle"
+        },
+        {
+            "id": "Kammarapalle",
+            "name": "Kammarapalle"
+        },
+        {
+            "id": "Kotgiri",
+            "name": "Kotgiri"
+        },
+        {
+            "id": "Makloor",
+            "name": "Makloor"
+        },
+        {
+            "id": "Mendora",
+            "name": "Mendora"
+        },
+        {
+            "id": "Mortad",
+            "name": "Mortad"
+        },
+        {
+            "id": "Mosara",
+            "name": "Mosara"
+        },
+        {
+            "id": "Mugpal",
+            "name": "Mugpal"
+        },
+        {
+            "id": "Mupkal",
+            "name": "Mupkal"
+        },
+        {
+            "id": "Nandipet",
+            "name": "Nandipet"
+        },
+        {
+            "id": "Navipet",
+            "name": "Navipet"
+        },
+        {
+            "id": "Nizamabad North",
+            "name": "Nizamabad North"
+        },
+        {
+            "id": "Nizamabad Rural",
+            "name": "Nizamabad Rural"
+        },
+        {
+            "id": "Nizamabad South",
+            "name": "Nizamabad South"
+        },
+        {
+            "id": "Renjal",
+            "name": "Renjal"
+        },
+        {
+            "id": "Rudrur",
+            "name": "Rudrur"
+        },
+        {
+            "id": "Sirkonda",
+            "name": "Sirkonda"
+        },
+        {
+            "id": "Varni",
+            "name": "Varni"
+        },
+        {
+            "id": "Velpur",
+            "name": "Velpur"
+        },
+        {
+            "id": "Yedapalle",
+            "name": "Yedapalle"
+        },
+        {
+            "id": "Yergatla",
+            "name": "Yergatla"
+        }
+    ],
+    "Peddapalli": [
+        {
+            "id": "Anthergaon",
+            "name": "Anthergaon"
+        },
+        {
+            "id": "Dharmaram",
+            "name": "Dharmaram"
+        },
+        {
+            "id": "Eligaid",
+            "name": "Eligaid"
+        },
+        {
+            "id": "Julapalli",
+            "name": "Julapalli"
+        },
+        {
+            "id": "Kamanpur",
+            "name": "Kamanpur"
+        },
+        {
+            "id": "Manthani",
+            "name": "Manthani"
+        },
+        {
+            "id": "Mutharam (Manthani)",
+            "name": "Mutharam (Manthani)"
+        },
+        {
+            "id": "Odela",
+            "name": "Odela"
+        },
+        {
+            "id": "Palakurthy",
+            "name": "Palakurthy"
+        },
+        {
+            "id": "Peddapalli",
+            "name": "Peddapalli"
+        },
+        {
+            "id": "Ramagiri",
+            "name": "Ramagiri"
+        },
+        {
+            "id": "Ramagundam",
+            "name": "Ramagundam"
+        },
+        {
+            "id": "Srirampur",
+            "name": "Srirampur"
+        },
+        {
+            "id": "Sulthanabad",
+            "name": "Sulthanabad"
+        }
+    ],
+    "Rajanna Sircilla": [
+        {
+            "id": "Boinpalli",
+            "name": "Boinpalli"
+        },
+        {
+            "id": "Chandurthi",
+            "name": "Chandurthi"
+        },
+        {
+            "id": "Ellanthakunta",
+            "name": "Ellanthakunta"
+        },
+        {
+            "id": "Gambhiraopet",
+            "name": "Gambhiraopet"
+        },
+        {
+            "id": "Konaraopet",
+            "name": "Konaraopet"
+        },
+        {
+            "id": "Mustabad",
+            "name": "Mustabad"
+        },
+        {
+            "id": "Rudrangi",
+            "name": "Rudrangi"
+        },
+        {
+            "id": "Sircilla",
+            "name": "Sircilla"
+        },
+        {
+            "id": "Thangallapalli",
+            "name": "Thangallapalli"
+        },
+        {
+            "id": "Veernapalli",
+            "name": "Veernapalli"
+        },
+        {
+            "id": "Vemulawada",
+            "name": "Vemulawada"
+        },
+        {
+            "id": "Vemulawada Rural",
+            "name": "Vemulawada Rural"
+        },
+        {
+            "id": "Yellareddipet",
+            "name": "Yellareddipet"
+        }
+    ],
+    "Ranga Reddy": [
+        {
+            "id": "Abdullapurmet",
+            "name": "Abdullapurmet"
+        },
+        {
+            "id": "Amangal",
+            "name": "Amangal"
+        },
+        {
+            "id": "Balapur",
+            "name": "Balapur"
+        },
+        {
+            "id": "Chevella",
+            "name": "Chevella"
+        },
+        {
+            "id": "Farooqnagar",
+            "name": "Farooqnagar"
+        },
+        {
+            "id": "Gandipet",
+            "name": "Gandipet"
+        },
+        {
+            "id": "Hayathnagar",
+            "name": "Hayathnagar"
+        },
+        {
+            "id": "Ibrahimpatnam",
+            "name": "Ibrahimpatnam"
+        },
+        {
+            "id": "Jilled Chowdergudem",
+            "name": "Jilled Chowdergudem"
+        },
+        {
+            "id": "Kadthal",
+            "name": "Kadthal"
+        },
+        {
+            "id": "Kandukur",
+            "name": "Kandukur"
+        },
+        {
+            "id": "Keshampeta",
+            "name": "Keshampeta"
+        },
+        {
+            "id": "Kondurg",
+            "name": "Kondurg"
+        },
+        {
+            "id": "Kothur",
+            "name": "Kothur"
+        },
+        {
+            "id": "Madgul",
+            "name": "Madgul"
+        },
+        {
+            "id": "Maheshwaram",
+            "name": "Maheshwaram"
+        },
+        {
+            "id": "Manchal",
+            "name": "Manchal"
+        },
+        {
+            "id": "Moinabad",
+            "name": "Moinabad"
+        },
+        {
+            "id": "Nandigama",
+            "name": "Nandigama"
+        },
+        {
+            "id": "Rajendranagar",
+            "name": "Rajendranagar"
+        },
+        {
+            "id": "Saroornagar",
+            "name": "Saroornagar"
+        },
+        {
+            "id": "Serilingampally",
+            "name": "Serilingampally"
+        },
+        {
+            "id": "Shabad",
+            "name": "Shabad"
+        },
+        {
+            "id": "Shamshabad",
+            "name": "Shamshabad"
+        },
+        {
+            "id": "Shankarpally",
+            "name": "Shankarpally"
+        },
+        {
+            "id": "Talakondapalle",
+            "name": "Talakondapalle"
+        },
+        {
+            "id": "Yacharam",
+            "name": "Yacharam"
+        }
+    ],
+    "Sangareddy": [
+        {
+            "id": "Ameenpur",
+            "name": "Ameenpur"
+        },
+        {
+            "id": "Andole",
+            "name": "Andole"
+        },
+        {
+            "id": "Chowtakur",
+            "name": "Chowtakur"
+        },
+        {
+            "id": "Gummadidala",
+            "name": "Gummadidala"
+        },
+        {
+            "id": "Hathnoora",
+            "name": "Hathnoora"
+        },
+        {
+            "id": "Jharasangam",
+            "name": "Jharasangam"
+        },
+        {
+            "id": "Jinnaram",
+            "name": "Jinnaram"
+        },
+        {
+            "id": "Kalher",
+            "name": "Kalher"
+        },
+        {
+            "id": "Kandi",
+            "name": "Kandi"
+        },
+        {
+            "id": "Kangti",
+            "name": "Kangti"
+        },
+        {
+            "id": "Kohir",
+            "name": "Kohir"
+        },
+        {
+            "id": "Kondapur",
+            "name": "Kondapur"
+        },
+        {
+            "id": "Manoor",
+            "name": "Manoor"
+        },
+        {
+            "id": "Mogudampally",
+            "name": "Mogudampally"
+        },
+        {
+            "id": "Munipally",
+            "name": "Munipally"
+        },
+        {
+            "id": "Nagalgidda",
+            "name": "Nagalgidda"
+        },
+        {
+            "id": "Narayankhed",
+            "name": "Narayankhed"
+        },
+        {
+            "id": "Nyalkal",
+            "name": "Nyalkal"
+        },
+        {
+            "id": "Patancheru",
+            "name": "Patancheru"
+        },
+        {
+            "id": "Pulkal",
+            "name": "Pulkal"
+        },
+        {
+            "id": "Raikode",
+            "name": "Raikode"
+        },
+        {
+            "id": "Ramchandrapuram",
+            "name": "Ramchandrapuram"
+        },
+        {
+            "id": "Sadasivpet",
+            "name": "Sadasivpet"
+        },
+        {
+            "id": "Sangareddy",
+            "name": "Sangareddy"
+        },
+        {
+            "id": "Sirgapoor",
+            "name": "Sirgapoor"
+        },
+        {
+            "id": "Vatpally",
+            "name": "Vatpally"
+        },
+        {
+            "id": "Zahirabad",
+            "name": "Zahirabad"
+        }
+    ],
+    "Siddipet": [
+        {
+            "id": "Akkannapet",
+            "name": "Akkannapet"
+        },
+        {
+            "id": "Bejjanki",
+            "name": "Bejjanki"
+        },
+        {
+            "id": "Cheriyal",
+            "name": "Cheriyal"
+        },
+        {
+            "id": "Chinnakodur",
+            "name": "Chinnakodur"
+        },
+        {
+            "id": "Dhoolmitta",
+            "name": "Dhoolmitta"
+        },
+        {
+            "id": "Doultabad",
+            "name": "Doultabad"
+        },
+        {
+            "id": "Dubbak",
+            "name": "Dubbak"
+        },
+        {
+            "id": "Gajwel",
+            "name": "Gajwel"
+        },
+        {
+            "id": "Husnabad",
+            "name": "Husnabad"
+        },
+        {
+            "id": "Jagdevpur",
+            "name": "Jagdevpur"
+        },
+        {
+            "id": "Koheda",
+            "name": "Koheda"
+        },
+        {
+            "id": "Komuravelli",
+            "name": "Komuravelli"
+        },
+        {
+            "id": "Kondapak",
+            "name": "Kondapak"
+        },
+        {
+            "id": "Maddur",
+            "name": "Maddur"
+        },
+        {
+            "id": "Markook",
+            "name": "Markook"
+        },
+        {
+            "id": "Mirdoddi",
+            "name": "Mirdoddi"
+        },
+        {
+            "id": "Mulug",
+            "name": "Mulug"
+        },
+        {
+            "id": "Nanganoor",
+            "name": "Nanganoor"
+        },
+        {
+            "id": "Narayanaraopet",
+            "name": "Narayanaraopet"
+        },
+        {
+            "id": "Raipole",
+            "name": "Raipole"
+        },
+        {
+            "id": "Siddipet Rural",
+            "name": "Siddipet Rural"
+        },
+        {
+            "id": "Siddipet Urban",
+            "name": "Siddipet Urban"
+        },
+        {
+            "id": "Thoguta",
+            "name": "Thoguta"
+        },
+        {
+            "id": "Wargal",
+            "name": "Wargal"
+        }
+    ],
+    "Suryapet": [
+        {
+            "id": "Ananthagiri",
+            "name": "Ananthagiri"
+        },
+        {
+            "id": "Atmakur(S)",
+            "name": "Atmakur(S)"
+        },
+        {
+            "id": "Chilkur",
+            "name": "Chilkur"
+        },
+        {
+            "id": "Chinthalapalem Mallareddygudem",
+            "name": "Chinthalapalem Mallareddygudem"
+        },
+        {
+            "id": "Chivvemla",
+            "name": "Chivvemla"
+        },
+        {
+            "id": "Garide Pally",
+            "name": "Garide Pally"
+        },
+        {
+            "id": "Huzurnagar",
+            "name": "Huzurnagar"
+        },
+        {
+            "id": "Jaji Reddi Gudem (Arvapally)",
+            "name": "Jaji Reddi Gudem (Arvapally)"
+        },
+        {
+            "id": "Kodad",
+            "name": "Kodad"
+        },
+        {
+            "id": "Maddirala",
+            "name": "Maddirala"
+        },
+        {
+            "id": "Mattam Pally",
+            "name": "Mattam Pally"
+        },
+        {
+            "id": "Mella Chervu",
+            "name": "Mella Chervu"
+        },
+        {
+            "id": "Mothey",
+            "name": "Mothey"
+        },
+        {
+            "id": "Munagala",
+            "name": "Munagala"
+        },
+        {
+            "id": "Nadigudem",
+            "name": "Nadigudem"
+        },
+        {
+            "id": "Nagaram",
+            "name": "Nagaram"
+        },
+        {
+            "id": "Nereducherla",
+            "name": "Nereducherla"
+        },
+        {
+            "id": "Nuthankal",
+            "name": "Nuthankal"
+        },
+        {
+            "id": "Palakeedu",
+            "name": "Palakeedu"
+        },
+        {
+            "id": "Penpahad",
+            "name": "Penpahad"
+        },
+        {
+            "id": "Suryapet",
+            "name": "Suryapet"
+        },
+        {
+            "id": "Thirumalagiri",
+            "name": "Thirumalagiri"
+        },
+        {
+            "id": "Thungathurthi",
+            "name": "Thungathurthi"
+        }
+    ],
+    "Vikarabad": [
+        {
+            "id": "Bantwaram",
+            "name": "Bantwaram"
+        },
+        {
+            "id": "Basheerabad",
+            "name": "Basheerabad"
+        },
+        {
+            "id": "Bomraspeta",
+            "name": "Bomraspeta"
+        },
+        {
+            "id": "Chowdapur",
+            "name": "Chowdapur"
+        },
+        {
+            "id": "Dharur",
+            "name": "Dharur"
+        },
+        {
+            "id": "Doma",
+            "name": "Doma"
+        },
+        {
+            "id": "Doulatabad",
+            "name": "Doulatabad"
+        },
+        {
+            "id": "Kodangal",
+            "name": "Kodangal"
+        },
+        {
+            "id": "Kotepally",
+            "name": "Kotepally"
+        },
+        {
+            "id": "Kulkacharla",
+            "name": "Kulkacharla"
+        },
+        {
+            "id": "Marpally",
+            "name": "Marpally"
+        },
+        {
+            "id": "Mominpet",
+            "name": "Mominpet"
+        },
+        {
+            "id": "Nawabpet",
+            "name": "Nawabpet"
+        },
+        {
+            "id": "Pargi",
+            "name": "Pargi"
+        },
+        {
+            "id": "Peddemul",
+            "name": "Peddemul"
+        },
+        {
+            "id": "Pudur",
+            "name": "Pudur"
+        },
+        {
+            "id": "Tandur",
+            "name": "Tandur"
+        },
+        {
+            "id": "Vikarabad",
+            "name": "Vikarabad"
+        },
+        {
+            "id": "Yalal",
+            "name": "Yalal"
+        }
+    ],
+    "Wanaparthy": [
+        {
+            "id": "Amarachintha",
+            "name": "Amarachintha"
+        },
+        {
+            "id": "Atmakur",
+            "name": "Atmakur"
+        },
+        {
+            "id": "Chinnambavi",
+            "name": "Chinnambavi"
+        },
+        {
+            "id": "Ghanpur",
+            "name": "Ghanpur"
+        },
+        {
+            "id": "Gopalpeta",
+            "name": "Gopalpeta"
+        },
+        {
+            "id": "Kothakota",
+            "name": "Kothakota"
+        },
+        {
+            "id": "Madanapur",
+            "name": "Madanapur"
+        },
+        {
+            "id": "Pangal",
+            "name": "Pangal"
+        },
+        {
+            "id": "Pebbair",
+            "name": "Pebbair"
+        },
+        {
+            "id": "Peddamandadi",
+            "name": "Peddamandadi"
+        },
+        {
+            "id": "Revally",
+            "name": "Revally"
+        },
+        {
+            "id": "Srirangapur",
+            "name": "Srirangapur"
+        },
+        {
+            "id": "Wanaparthy",
+            "name": "Wanaparthy"
+        },
+        {
+            "id": "Weepangandla",
+            "name": "Weepangandla"
+        }
+    ],
+    "Warangal": [
+        {
+            "id": "Chennaraopet",
+            "name": "Chennaraopet"
+        },
+        {
+            "id": "Duggondi",
+            "name": "Duggondi"
+        },
+        {
+            "id": "Geesugonda",
+            "name": "Geesugonda"
+        },
+        {
+            "id": "Khanapur",
+            "name": "Khanapur"
+        },
+        {
+            "id": "Khila Warangal",
+            "name": "Khila Warangal"
+        },
+        {
+            "id": "Nalla Belli",
+            "name": "Nalla Belli"
+        },
+        {
+            "id": "Narsampet",
+            "name": "Narsampet"
+        },
+        {
+            "id": "Nekkonda",
+            "name": "Nekkonda"
+        },
+        {
+            "id": "Parvathagiri",
+            "name": "Parvathagiri"
+        },
+        {
+            "id": "Raiparthy",
+            "name": "Raiparthy"
+        },
+        {
+            "id": "Sangem",
+            "name": "Sangem"
+        },
+        {
+            "id": "Warangal",
+            "name": "Warangal"
+        },
+        {
+            "id": "Wardhanna Pet",
+            "name": "Wardhanna Pet"
+        }
+    ],
+    "Yadadri Bhuvanagiri": [
+        {
+            "id": "Addaguduru",
+            "name": "Addaguduru"
+        },
+        {
+            "id": "Alair",
+            "name": "Alair"
+        },
+        {
+            "id": "Atmakur(M)",
+            "name": "Atmakur(M)"
+        },
+        {
+            "id": "Bhongir",
+            "name": "Bhongir"
+        },
+        {
+            "id": "Bibinagar",
+            "name": "Bibinagar"
+        },
+        {
+            "id": "Bommala Ramaram",
+            "name": "Bommala Ramaram"
+        },
+        {
+            "id": "B.Pochampally",
+            "name": "B.Pochampally"
+        },
+        {
+            "id": "Choutuppal",
+            "name": "Choutuppal"
+        },
+        {
+            "id": "Gundala",
+            "name": "Gundala"
+        },
+        {
+            "id": "Motakonduru",
+            "name": "Motakonduru"
+        },
+        {
+            "id": "Mothkur",
+            "name": "Mothkur"
+        },
+        {
+            "id": "Narayanapur",
+            "name": "Narayanapur"
+        },
+        {
+            "id": "Rajapet",
+            "name": "Rajapet"
+        },
+        {
+            "id": "Ramannapeta",
+            "name": "Ramannapeta"
+        },
+        {
+            "id": "Thurkapally",
+            "name": "Thurkapally"
+        },
+        {
+            "id": "Valigonda",
+            "name": "Valigonda"
+        },
+        {
+            "id": "Yadagirigutta",
+            "name": "Yadagirigutta"
+        }
+    ]
+}

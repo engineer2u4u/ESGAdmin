@@ -29,8 +29,13 @@ sap.ui.define([
                     .then(function (doc) {
                         if (doc.exists) {
                             that.domain = doc.data().domain;
+                            var obj = doc.data();
+                            if(obj.reportingType){
+                            var framework = obj.reportingType.join(", ");
+                            obj.reportingType = framework;
+                            }
                             // Bind the fetched data to the form
-                            var oModel = new JSONModel(doc.data());
+                            var oModel = new JSONModel(obj);
                             that.getView().byId("detailsForm").setModel(oModel);
                             that.byId("detailsForm").getModel().refresh();
                             // Show the details box
@@ -80,6 +85,25 @@ sap.ui.define([
         onHomePress: function (oEvent) {
             var oRouter = this.getOwnerComponent().getRouter();
             oRouter.navTo("Main");
-        }
+        },
+
+        onSendEmail: function(oEvent) {
+            var db = firebase.firestore();
+            db.collection('emails').add({
+                to: [
+                  {
+                    email: 'rudanboss@gmail.com',
+                    name: 'Rudramani Pandey'
+                  }
+                ],
+                from: {
+                  email: 'koshish@trial-jy7zpl9pnkrg5vx6.mlsender.net',
+                  name: 'ESG Koshish'
+                },
+                subject: 'Hello from Firebase!',
+                html: 'This is an <code>HTML</code> email body.',
+                text: 'This is an TEXT email body.'
+              })
+        },
     });
 });

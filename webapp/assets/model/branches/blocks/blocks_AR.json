@@ -1,0 +1,568 @@
+{
+    "Anjaw": [
+        {
+            "id": "Chaglagam",
+            "name": "Chaglagam"
+        },
+        {
+            "id": "Hawai-Walong",
+            "name": "Hawai-Walong"
+        },
+        {
+            "id": "Hayuliang",
+            "name": "Hayuliang"
+        },
+        {
+            "id": "Manchal",
+            "name": "Manchal"
+        }
+    ],
+    "Changlang": [
+        {
+            "id": "Bordumsa",
+            "name": "Bordumsa"
+        },
+        {
+            "id": "Changlang",
+            "name": "Changlang"
+        },
+        {
+            "id": "Diyun",
+            "name": "Diyun"
+        },
+        {
+            "id": "Kantang",
+            "name": "Kantang"
+        },
+        {
+            "id": "Khagam-Miao",
+            "name": "Khagam-Miao"
+        },
+        {
+            "id": "Khimiyang",
+            "name": "Khimiyang"
+        },
+        {
+            "id": "Manmao",
+            "name": "Manmao"
+        },
+        {
+            "id": "Nampong",
+            "name": "Nampong"
+        },
+        {
+            "id": "Vijoynagar",
+            "name": "Vijoynagar"
+        },
+        {
+            "id": "Yatdam",
+            "name": "Yatdam"
+        }
+    ],
+    "Dibang Valley": [
+        {
+            "id": "Anelih Arzu",
+            "name": "Anelih Arzu"
+        },
+        {
+            "id": "Anini-Mepi",
+            "name": "Anini-Mepi"
+        },
+        {
+            "id": "Etalin Malinye",
+            "name": "Etalin Malinye"
+        }
+    ],
+    "East Kameng": [
+        {
+            "id": "Bameng",
+            "name": "Bameng"
+        },
+        {
+            "id": "Bana",
+            "name": "Bana"
+        },
+        {
+            "id": "Chayangtajo",
+            "name": "Chayangtajo"
+        },
+        {
+            "id": "Khenewa",
+            "name": "Khenewa"
+        },
+        {
+            "id": "Lada",
+            "name": "Lada"
+        },
+        {
+            "id": "Pipu",
+            "name": "Pipu"
+        },
+        {
+            "id": "Sawa",
+            "name": "Sawa"
+        },
+        {
+            "id": "Seppa",
+            "name": "Seppa"
+        }
+    ],
+    "East Siang": [
+        {
+            "id": "Bilat",
+            "name": "Bilat"
+        },
+        {
+            "id": "Mebo",
+            "name": "Mebo"
+        },
+        {
+            "id": "Pasighat",
+            "name": "Pasighat"
+        },
+        {
+            "id": "Ruksin",
+            "name": "Ruksin"
+        }
+    ],
+    "Kamle": [
+        {
+            "id": "Gepen",
+            "name": "Gepen"
+        },
+        {
+            "id": "Kamporijo",
+            "name": "Kamporijo"
+        },
+        {
+            "id": "Persin Dollungmukh",
+            "name": "Persin Dollungmukh"
+        },
+        {
+            "id": "Puchi Geko",
+            "name": "Puchi Geko"
+        },
+        {
+            "id": "Tamen-Raga",
+            "name": "Tamen-Raga"
+        }
+    ],
+    "Kra Daadi": [
+        {
+            "id": "Chambang",
+            "name": "Chambang"
+        },
+        {
+            "id": "Gangte",
+            "name": "Gangte"
+        },
+        {
+            "id": "Palin",
+            "name": "Palin"
+        },
+        {
+            "id": "Pipsorang",
+            "name": "Pipsorang"
+        },
+        {
+            "id": "Tali",
+            "name": "Tali"
+        },
+        {
+            "id": "Yangte",
+            "name": "Yangte"
+        }
+    ],
+    "Kurung Kumey": [
+        {
+            "id": "Damin",
+            "name": "Damin"
+        },
+        {
+            "id": "Koloriang",
+            "name": "Koloriang"
+        },
+        {
+            "id": "Nyapin",
+            "name": "Nyapin"
+        },
+        {
+            "id": "Paniasang",
+            "name": "Paniasang"
+        },
+        {
+            "id": "Parsiparlo",
+            "name": "Parsiparlo"
+        },
+        {
+            "id": "Phassang",
+            "name": "Phassang"
+        },
+        {
+            "id": "Polosang",
+            "name": "Polosang"
+        },
+        {
+            "id": "Sangram",
+            "name": "Sangram"
+        },
+        {
+            "id": "Sarli",
+            "name": "Sarli"
+        }
+    ],
+    "Leparada": [
+        {
+            "id": "Basar",
+            "name": "Basar"
+        },
+        {
+            "id": "Daring",
+            "name": "Daring"
+        },
+        {
+            "id": "Tirbin",
+            "name": "Tirbin"
+        }
+    ],
+    "Lohit": [
+        {
+            "id": "Tezu",
+            "name": "Tezu"
+        },
+        {
+            "id": "Wakro",
+            "name": "Wakro"
+        }
+    ],
+    "Longding": [
+        {
+            "id": "Kanubari",
+            "name": "Kanubari"
+        },
+        {
+            "id": "Lawnu",
+            "name": "Lawnu"
+        },
+        {
+            "id": "Niausa",
+            "name": "Niausa"
+        },
+        {
+            "id": "Pongchau",
+            "name": "Pongchau"
+        },
+        {
+            "id": "Wakka",
+            "name": "Wakka"
+        }
+    ],
+    "Lower Dibang Valley": [
+        {
+            "id": "Dambuk",
+            "name": "Dambuk"
+        },
+        {
+            "id": "Hunli-Kronli",
+            "name": "Hunli-Kronli"
+        },
+        {
+            "id": "Roing",
+            "name": "Roing"
+        }
+    ],
+    "Lower Siang": [
+        {
+            "id": "Gensi",
+            "name": "Gensi"
+        },
+        {
+            "id": "Kangku",
+            "name": "Kangku"
+        },
+        {
+            "id": "Likabali",
+            "name": "Likabali"
+        },
+        {
+            "id": "Ramle Bango",
+            "name": "Ramle Bango"
+        }
+    ],
+    "Lower Subansiri": [
+        {
+            "id": "Hong-Hari",
+            "name": "Hong-Hari"
+        },
+        {
+            "id": "Pistana",
+            "name": "Pistana"
+        },
+        {
+            "id": "Ziro-I",
+            "name": "Ziro-I"
+        },
+        {
+            "id": "Ziro-Ii",
+            "name": "Ziro-Ii"
+        }
+    ],
+    "Namsai": [
+        {
+            "id": "Chowkham",
+            "name": "Chowkham"
+        },
+        {
+            "id": "Lekang",
+            "name": "Lekang"
+        },
+        {
+            "id": "Namsai",
+            "name": "Namsai"
+        }
+    ],
+    "Pakke Kessang": [
+        {
+            "id": "Pakkekessang",
+            "name": "Pakkekessang"
+        },
+        {
+            "id": "Seijosa",
+            "name": "Seijosa"
+        }
+    ],
+    "Papum Pare": [
+        {
+            "id": "Balijan",
+            "name": "Balijan"
+        },
+        {
+            "id": "Borum",
+            "name": "Borum"
+        },
+        {
+            "id": "Doimukh",
+            "name": "Doimukh"
+        },
+        {
+            "id": "Kimin",
+            "name": "Kimin"
+        },
+        {
+            "id": "Mengio",
+            "name": "Mengio"
+        },
+        {
+            "id": "Sagalee",
+            "name": "Sagalee"
+        }
+    ],
+    "Shi Yomi": [
+        {
+            "id": "Manigoan",
+            "name": "Manigoan"
+        },
+        {
+            "id": "Mechuka-Tato",
+            "name": "Mechuka-Tato"
+        }
+    ],
+    "Siang": [
+        {
+            "id": "Boleng",
+            "name": "Boleng"
+        },
+        {
+            "id": "Kaying",
+            "name": "Kaying"
+        },
+        {
+            "id": "Pangin",
+            "name": "Pangin"
+        },
+        {
+            "id": "Payum",
+            "name": "Payum"
+        },
+        {
+            "id": "Rebo Parging",
+            "name": "Rebo Parging"
+        },
+        {
+            "id": "Riga",
+            "name": "Riga"
+        },
+        {
+            "id": "Rumgong",
+            "name": "Rumgong"
+        }
+    ],
+    "Tawang": [
+        {
+            "id": "Jang-Thingbu",
+            "name": "Jang-Thingbu"
+        },
+        {
+            "id": "Kitpi",
+            "name": "Kitpi"
+        },
+        {
+            "id": "Lumla",
+            "name": "Lumla"
+        },
+        {
+            "id": "Mukto Bongkhar",
+            "name": "Mukto Bongkhar"
+        },
+        {
+            "id": "Tawang",
+            "name": "Tawang"
+        },
+        {
+            "id": "Zemithang Dudunghar",
+            "name": "Zemithang Dudunghar"
+        }
+    ],
+    "Tirap": [
+        {
+            "id": "Bari Basip",
+            "name": "Bari Basip"
+        },
+        {
+            "id": "Borduria",
+            "name": "Borduria"
+        },
+        {
+            "id": "Dadam",
+            "name": "Dadam"
+        },
+        {
+            "id": "Khonsa",
+            "name": "Khonsa"
+        },
+        {
+            "id": "Lazu",
+            "name": "Lazu"
+        },
+        {
+            "id": "Namsang",
+            "name": "Namsang"
+        }
+    ],
+    "Upper Siang": [
+        {
+            "id": "Geku",
+            "name": "Geku"
+        },
+        {
+            "id": "Jengging",
+            "name": "Jengging"
+        },
+        {
+            "id": "Mariyang",
+            "name": "Mariyang"
+        },
+        {
+            "id": "Singa Gelling",
+            "name": "Singa Gelling"
+        },
+        {
+            "id": "Tuting",
+            "name": "Tuting"
+        },
+        {
+            "id": "Yingkiong",
+            "name": "Yingkiong"
+        }
+    ],
+    "Upper Subansiri": [
+        {
+            "id": "Baririjo",
+            "name": "Baririjo"
+        },
+        {
+            "id": "Chetam",
+            "name": "Chetam"
+        },
+        {
+            "id": "Daporijo",
+            "name": "Daporijo"
+        },
+        {
+            "id": "Dumporijo",
+            "name": "Dumporijo"
+        },
+        {
+            "id": "Giba",
+            "name": "Giba"
+        },
+        {
+            "id": "Limeking",
+            "name": "Limeking"
+        },
+        {
+            "id": "Nacho",
+            "name": "Nacho"
+        },
+        {
+            "id": "Payeng",
+            "name": "Payeng"
+        },
+        {
+            "id": "Siyum",
+            "name": "Siyum"
+        },
+        {
+            "id": "Taksing",
+            "name": "Taksing"
+        },
+        {
+            "id": "Taliha",
+            "name": "Taliha"
+        }
+    ],
+    "West Kameng": [
+        {
+            "id": "Dirang",
+            "name": "Dirang"
+        },
+        {
+            "id": "Kalaktang",
+            "name": "Kalaktang"
+        },
+        {
+            "id": "Nafra",
+            "name": "Nafra"
+        },
+        {
+            "id": "Singchung",
+            "name": "Singchung"
+        },
+        {
+            "id": "Thrizino",
+            "name": "Thrizino"
+        }
+    ],
+    "West Siang": [
+        {
+            "id": "Along East",
+            "name": "Along East"
+        },
+        {
+            "id": "Along West",
+            "name": "Along West"
+        },
+        {
+            "id": "Bagra",
+            "name": "Bagra"
+        },
+        {
+            "id": "Darak",
+            "name": "Darak"
+        },
+        {
+            "id": "Liromoba-Yomcha",
+            "name": "Liromoba-Yomcha"
+        }
+    ]
+}

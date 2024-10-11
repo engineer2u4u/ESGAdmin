@@ -1,0 +1,131 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    xmlns="sap.m"
+    controllerName="ESGAdmin.ESGAdmin.controller.MonitorClients"
+>
+    <Page
+        title="Client Reports"
+        titleAlignment="Center"
+    >
+        <customHeader>
+            <Bar>
+                <contentLeft>
+                <Button
+                    icon="sap-icon://nav-back"
+                    tooltip="{i18n>back}"
+                    press="onNavBack"
+                />                    <Image
+                        src="./assets/ESG Kosh.png"
+                        class="sapUiMediumMargin"
+                        width="50px"
+                    />
+                </contentLeft>
+                <contentMiddle>
+                    <HBox>
+                        <Title text="Client Reports" />
+                    </HBox>
+                </contentMiddle>
+                <contentRight>
+                    <!-- <core:Fragment fragmentName="eybtcadmin.fragment.headerContent" type="XML"/> -->
+                    <Text id="user" />
+                    <Button
+                        id="notificationIcon"
+                        icon="sap-icon://bell"
+                        text="{notificationModel>/unreadCount}"
+                        type="{= ${notificationModel>/unreadCount} > 0 ? 'Emphasized' : 'Default'}"
+                        press="onNotificationPress"
+                    />
+                    <Button
+                        icon="sap-icon://log"
+                        tooltip="Log Out"
+                        press="onLogOut"
+                    />
+                </contentRight>
+            </Bar>
+        </customHeader>
+        <content>
+            <HBox class="sapUiSmallMargin">
+                <!-- Buttons -->
+                <HBox width="60%">
+                    <VBox>
+                        <Label text="Organization" />
+                        <Select
+                            id="organizationSelect"
+                            width="200px"
+                            items="{path: 'orgData>/results'}"
+                            class="sapUiTinyMarginEnd"
+                            change="onSelectOrg"
+                        >
+                            <core:Item
+                                key="{orgData>orgID}"
+                                text="{orgData>orgName}"
+                            />
+                        </Select>
+                    </VBox>
+                    <VBox>
+                        <!-- Reporting Cycle Filter -->
+                        <Label
+                            text="Reporting Cycle"
+                            labelFor="cycleSelect"
+                            class="sapUiTinyMarginEnd"
+                        />
+                        <Select
+                            id="cycleSelect"
+                            width="200px"
+                            items="{path: 'cycleData>/results'}"
+                            class="sapUiTinyMarginEnd"
+                            change="onSelectCycle"
+                        >
+                            <core:Item
+                                key="{cycleData>id}"
+                                text="{cycleData>id}"
+                            />
+                        </Select>
+                    </VBox>
+                    <!-- Organization Filter -->
+                    <VBox>
+                        <Label
+                            text="Sheets"
+                            labelFor="sheetSelect"
+                            class="sapUiTinyMarginEnd"
+                        />
+                        <Select
+                            id="sheetSelect"
+                            width="200px"
+                            items="{path: 'sheetData>/results'}"
+                            class="sapUiTinyMarginEnd"
+                        >
+                            <core:Item
+                                key="{sheetData>sheetName}"
+                                text="{sheetData>sheetName}"
+                            />
+                        </Select>
+                    </VBox>
+                </HBox>
+                <HBox
+                    width="40%"
+                    class="sapUiSmallMarginTop"
+                    layoutData="new sap.ui.layout.GridData({span: 'L6 M6 S12'})"
+                    justifyContent="Start"
+                >
+                    <Button
+                        text="Search"
+                        type="Emphasized"
+                        press="onSearch"
+                    />
+                    <Button
+                        icon="sap-icon://history"
+                        text="Reset"
+                        type="Default"
+                        press="onReset"
+                        class="sapUiTinyMarginBegin"
+                    />
+                </HBox>
+            </HBox>
+            <VBox>
+                <Table id="dynamicTable" />
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>

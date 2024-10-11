@@ -1,0 +1,1190 @@
+{
+    "Anantnag": [
+        {
+            "id": "Achabal",
+            "name": "Achabal"
+        },
+        {
+            "id": "Anantnag",
+            "name": "Anantnag"
+        },
+        {
+            "id": "Bijibehara",
+            "name": "Bijibehara"
+        },
+        {
+            "id": "Breng",
+            "name": "Breng"
+        },
+        {
+            "id": "Chathergul",
+            "name": "Chathergul"
+        },
+        {
+            "id": "Dachnipora",
+            "name": "Dachnipora"
+        },
+        {
+            "id": "Hiller Shahabad",
+            "name": "Hiller Shahabad"
+        },
+        {
+            "id": "Khoveripora",
+            "name": "Khoveripora"
+        },
+        {
+            "id": "Larnoo",
+            "name": "Larnoo"
+        },
+        {
+            "id": "Pahalgam",
+            "name": "Pahalgam"
+        },
+        {
+            "id": "Qazigund (Partly)",
+            "name": "Qazigund (Partly)"
+        },
+        {
+            "id": "Quimoh Anantnag District Part",
+            "name": "Quimoh Anantnag District Part"
+        },
+        {
+            "id": "Sagam",
+            "name": "Sagam"
+        },
+        {
+            "id": "Shahabad",
+            "name": "Shahabad"
+        },
+        {
+            "id": "Shangus",
+            "name": "Shangus"
+        },
+        {
+            "id": "Verinag",
+            "name": "Verinag"
+        },
+        {
+            "id": "Vessu",
+            "name": "Vessu"
+        }
+    ],
+    "Bandipora": [
+        {
+            "id": "Aloosa",
+            "name": "Aloosa"
+        },
+        {
+            "id": "Arin",
+            "name": "Arin"
+        },
+        {
+            "id": "Baktoor",
+            "name": "Baktoor"
+        },
+        {
+            "id": "Bandipora",
+            "name": "Bandipora"
+        },
+        {
+            "id": "Bonkoot",
+            "name": "Bonkoot"
+        },
+        {
+            "id": "Ganstan",
+            "name": "Ganstan"
+        },
+        {
+            "id": "Gurez",
+            "name": "Gurez"
+        },
+        {
+            "id": "Hajin",
+            "name": "Hajin"
+        },
+        {
+            "id": "Naidkhay",
+            "name": "Naidkhay"
+        },
+        {
+            "id": "Nowgam",
+            "name": "Nowgam"
+        },
+        {
+            "id": "Sumbal",
+            "name": "Sumbal"
+        },
+        {
+            "id": "Tulail",
+            "name": "Tulail"
+        }
+    ],
+    "Baramulla": [
+        {
+            "id": "Baramulla",
+            "name": "Baramulla"
+        },
+        {
+            "id": "Bijhama",
+            "name": "Bijhama"
+        },
+        {
+            "id": "Boniyar",
+            "name": "Boniyar"
+        },
+        {
+            "id": "Chandil Wangam",
+            "name": "Chandil Wangam"
+        },
+        {
+            "id": "Hardaboora",
+            "name": "Hardaboora"
+        },
+        {
+            "id": "Kandi Rafiabad",
+            "name": "Kandi Rafiabad"
+        },
+        {
+            "id": "Khaipora",
+            "name": "Khaipora"
+        },
+        {
+            "id": "Kunzer",
+            "name": "Kunzer"
+        },
+        {
+            "id": "Lalpora",
+            "name": "Lalpora"
+        },
+        {
+            "id": "Nadihal",
+            "name": "Nadihal"
+        },
+        {
+            "id": "Narwah",
+            "name": "Narwah"
+        },
+        {
+            "id": "Noorkah",
+            "name": "Noorkah"
+        },
+        {
+            "id": "Paranpeela",
+            "name": "Paranpeela"
+        },
+        {
+            "id": "Pattan",
+            "name": "Pattan"
+        },
+        {
+            "id": "Rafiabad",
+            "name": "Rafiabad"
+        },
+        {
+            "id": "Rohama",
+            "name": "Rohama"
+        },
+        {
+            "id": "Sangrama",
+            "name": "Sangrama"
+        },
+        {
+            "id": "Sherabad Khore",
+            "name": "Sherabad Khore"
+        },
+        {
+            "id": "Singhpora",
+            "name": "Singhpora"
+        },
+        {
+            "id": "Sopore",
+            "name": "Sopore"
+        },
+        {
+            "id": "Tangmarag",
+            "name": "Tangmarag"
+        },
+        {
+            "id": "Tujjar Sharief",
+            "name": "Tujjar Sharief"
+        },
+        {
+            "id": "Uri",
+            "name": "Uri"
+        },
+        {
+            "id": "Wagoora",
+            "name": "Wagoora"
+        },
+        {
+            "id": "Wailoo",
+            "name": "Wailoo"
+        },
+        {
+            "id": "Zaingeer",
+            "name": "Zaingeer"
+        }
+    ],
+    "Budgam": [
+        {
+            "id": "Badgam",
+            "name": "Badgam"
+        },
+        {
+            "id": "Beerwah",
+            "name": "Beerwah"
+        },
+        {
+            "id": "B.K.Pora",
+            "name": "B.K.Pora"
+        },
+        {
+            "id": "Chadoora",
+            "name": "Chadoora"
+        },
+        {
+            "id": "Charisharief",
+            "name": "Charisharief"
+        },
+        {
+            "id": "Khag",
+            "name": "Khag"
+        },
+        {
+            "id": "Khan-Sahib",
+            "name": "Khan-Sahib"
+        },
+        {
+            "id": "Nagam",
+            "name": "Nagam"
+        },
+        {
+            "id": "Narbal",
+            "name": "Narbal"
+        },
+        {
+            "id": "Pakherpora",
+            "name": "Pakherpora"
+        },
+        {
+            "id": "Parnewa",
+            "name": "Parnewa"
+        },
+        {
+            "id": "Rathsun",
+            "name": "Rathsun"
+        },
+        {
+            "id": "S K Pora",
+            "name": "S K Pora"
+        },
+        {
+            "id": "Soibugh",
+            "name": "Soibugh"
+        },
+        {
+            "id": "Sukhnag Hard Panzoo",
+            "name": "Sukhnag Hard Panzoo"
+        },
+        {
+            "id": "Surasyar",
+            "name": "Surasyar"
+        },
+        {
+            "id": "Waterhail",
+            "name": "Waterhail"
+        }
+    ],
+    "Doda": [
+        {
+            "id": "Assar",
+            "name": "Assar"
+        },
+        {
+            "id": "Bhaderwah",
+            "name": "Bhaderwah"
+        },
+        {
+            "id": "Bhagwah",
+            "name": "Bhagwah"
+        },
+        {
+            "id": "Bhalessa(Gandoh)",
+            "name": "Bhalessa(Gandoh)"
+        },
+        {
+            "id": "Bhalla",
+            "name": "Bhalla"
+        },
+        {
+            "id": "Changa",
+            "name": "Changa"
+        },
+        {
+            "id": "Chilli Pingal",
+            "name": "Chilli Pingal"
+        },
+        {
+            "id": "Chiralla",
+            "name": "Chiralla"
+        },
+        {
+            "id": "Dali Udhyanpur",
+            "name": "Dali Udhyanpur"
+        },
+        {
+            "id": "Doda",
+            "name": "Doda"
+        },
+        {
+            "id": "Gundana",
+            "name": "Gundana"
+        },
+        {
+            "id": "Jakyas",
+            "name": "Jakyas"
+        },
+        {
+            "id": "Kahara",
+            "name": "Kahara"
+        },
+        {
+            "id": "Kastigarh",
+            "name": "Kastigarh"
+        },
+        {
+            "id": "Khellani",
+            "name": "Khellani"
+        },
+        {
+            "id": "Marmat",
+            "name": "Marmat"
+        },
+        {
+            "id": "Thathri",
+            "name": "Thathri"
+        }
+    ],
+    "Ganderbal": [
+        {
+            "id": "Ganderbal",
+            "name": "Ganderbal"
+        },
+        {
+            "id": "Gund",
+            "name": "Gund"
+        },
+        {
+            "id": "Kangan",
+            "name": "Kangan"
+        },
+        {
+            "id": "Lar",
+            "name": "Lar"
+        },
+        {
+            "id": "Safapora",
+            "name": "Safapora"
+        },
+        {
+            "id": "Sherpathri",
+            "name": "Sherpathri"
+        },
+        {
+            "id": "Wakoora",
+            "name": "Wakoora"
+        }
+    ],
+    "Jammu": [
+        {
+            "id": "Akhnoor",
+            "name": "Akhnoor"
+        },
+        {
+            "id": "Arnia",
+            "name": "Arnia"
+        },
+        {
+            "id": "Bhalwal",
+            "name": "Bhalwal"
+        },
+        {
+            "id": "Bhalwal Brahmana",
+            "name": "Bhalwal Brahmana"
+        },
+        {
+            "id": "Bishnah",
+            "name": "Bishnah"
+        },
+        {
+            "id": "Chowki Choura",
+            "name": "Chowki Choura"
+        },
+        {
+            "id": "Dansal",
+            "name": "Dansal"
+        },
+        {
+            "id": "Kharah Balli",
+            "name": "Kharah Balli"
+        },
+        {
+            "id": "Khour",
+            "name": "Khour"
+        },
+        {
+            "id": "Maira Mandrian",
+            "name": "Maira Mandrian"
+        },
+        {
+            "id": "Mandal Phallain",
+            "name": "Mandal Phallain"
+        },
+        {
+            "id": "Marh",
+            "name": "Marh"
+        },
+        {
+            "id": "Mathwar",
+            "name": "Mathwar"
+        },
+        {
+            "id": "Miran Sahib",
+            "name": "Miran Sahib"
+        },
+        {
+            "id": "Nagrota",
+            "name": "Nagrota"
+        },
+        {
+            "id": "Pragwal",
+            "name": "Pragwal"
+        },
+        {
+            "id": "R.S.Pura",
+            "name": "R.S.Pura"
+        },
+        {
+            "id": "Samwan",
+            "name": "Samwan"
+        },
+        {
+            "id": "Satwari",
+            "name": "Satwari"
+        },
+        {
+            "id": "Suchetgarh",
+            "name": "Suchetgarh"
+        }
+    ],
+    "Kathua": [
+        {
+            "id": "Baggan",
+            "name": "Baggan"
+        },
+        {
+            "id": "Bani",
+            "name": "Bani"
+        },
+        {
+            "id": "Barnoti",
+            "name": "Barnoti"
+        },
+        {
+            "id": "Basohli",
+            "name": "Basohli"
+        },
+        {
+            "id": "Bhoond",
+            "name": "Bhoond"
+        },
+        {
+            "id": "Billawar",
+            "name": "Billawar"
+        },
+        {
+            "id": "Dhar Mahanpur",
+            "name": "Dhar Mahanpur"
+        },
+        {
+            "id": "Dinga Amb",
+            "name": "Dinga Amb"
+        },
+        {
+            "id": "Duggain",
+            "name": "Duggain"
+        },
+        {
+            "id": "Duggan",
+            "name": "Duggan"
+        },
+        {
+            "id": "Hiranagar",
+            "name": "Hiranagar"
+        },
+        {
+            "id": "Kathua",
+            "name": "Kathua"
+        },
+        {
+            "id": "Keerian Gangyal",
+            "name": "Keerian Gangyal"
+        },
+        {
+            "id": "Lohai-Malhar",
+            "name": "Lohai-Malhar"
+        },
+        {
+            "id": "Mahanpur",
+            "name": "Mahanpur"
+        },
+        {
+            "id": "Mandli",
+            "name": "Mandli"
+        },
+        {
+            "id": "Marheen",
+            "name": "Marheen"
+        },
+        {
+            "id": "Nagri",
+            "name": "Nagri"
+        },
+        {
+            "id": "Nagrota Gujroo",
+            "name": "Nagrota Gujroo"
+        }
+    ],
+    "Kishtwar": [
+        {
+            "id": "Bunjwah",
+            "name": "Bunjwah"
+        },
+        {
+            "id": "Dachhan",
+            "name": "Dachhan"
+        },
+        {
+            "id": "Drabshalla",
+            "name": "Drabshalla"
+        },
+        {
+            "id": "Inderwal",
+            "name": "Inderwal"
+        },
+        {
+            "id": "Kishtwar",
+            "name": "Kishtwar"
+        },
+        {
+            "id": "Marwah",
+            "name": "Marwah"
+        },
+        {
+            "id": "Mughalmaidan",
+            "name": "Mughalmaidan"
+        },
+        {
+            "id": "Nagseni",
+            "name": "Nagseni"
+        },
+        {
+            "id": "Padder",
+            "name": "Padder"
+        },
+        {
+            "id": "Palmar",
+            "name": "Palmar"
+        },
+        {
+            "id": "Thakraie",
+            "name": "Thakraie"
+        },
+        {
+            "id": "Trigam",
+            "name": "Trigam"
+        },
+        {
+            "id": "Warwan",
+            "name": "Warwan"
+        }
+    ],
+    "Kulgam": [
+        {
+            "id": "Behibag",
+            "name": "Behibag"
+        },
+        {
+            "id": "Devsar",
+            "name": "Devsar"
+        },
+        {
+            "id": "D.H. Pora",
+            "name": "D.H. Pora"
+        },
+        {
+            "id": "D K Marg",
+            "name": "D K Marg"
+        },
+        {
+            "id": "Frisal",
+            "name": "Frisal"
+        },
+        {
+            "id": "Kulgam",
+            "name": "Kulgam"
+        },
+        {
+            "id": "Kund",
+            "name": "Kund"
+        },
+        {
+            "id": "Manzgam",
+            "name": "Manzgam"
+        },
+        {
+            "id": "Pahloo",
+            "name": "Pahloo"
+        },
+        {
+            "id": "Pombay",
+            "name": "Pombay"
+        },
+        {
+            "id": "Qaimoh",
+            "name": "Qaimoh"
+        }
+    ],
+    "Kupwara": [
+        {
+            "id": "Drugmulla",
+            "name": "Drugmulla"
+        },
+        {
+            "id": "Handwara",
+            "name": "Handwara"
+        },
+        {
+            "id": "Hayhama",
+            "name": "Hayhama"
+        },
+        {
+            "id": "Kalarooch",
+            "name": "Kalarooch"
+        },
+        {
+            "id": "Keran",
+            "name": "Keran"
+        },
+        {
+            "id": "Kralpora",
+            "name": "Kralpora"
+        },
+        {
+            "id": "Kupwara",
+            "name": "Kupwara"
+        },
+        {
+            "id": "Langate",
+            "name": "Langate"
+        },
+        {
+            "id": "Machil",
+            "name": "Machil"
+        },
+        {
+            "id": "Magam",
+            "name": "Magam"
+        },
+        {
+            "id": "Mawar Kalamabad",
+            "name": "Mawar Kalamabad"
+        },
+        {
+            "id": "Meliyal",
+            "name": "Meliyal"
+        },
+        {
+            "id": "Nutnoosa",
+            "name": "Nutnoosa"
+        },
+        {
+            "id": "Qadirabad",
+            "name": "Qadirabad"
+        },
+        {
+            "id": "Qaziabad Supernagama",
+            "name": "Qaziabad Supernagama"
+        },
+        {
+            "id": "Rajwar",
+            "name": "Rajwar"
+        },
+        {
+            "id": "Ramhal",
+            "name": "Ramhal"
+        },
+        {
+            "id": "Reddi Chowkibal",
+            "name": "Reddi Chowkibal"
+        },
+        {
+            "id": "Sogam",
+            "name": "Sogam"
+        },
+        {
+            "id": "Tangdar",
+            "name": "Tangdar"
+        },
+        {
+            "id": "Tarathpora",
+            "name": "Tarathpora"
+        },
+        {
+            "id": "Teetwal",
+            "name": "Teetwal"
+        },
+        {
+            "id": "Trehgam",
+            "name": "Trehgam"
+        },
+        {
+            "id": "Wavoora",
+            "name": "Wavoora"
+        }
+    ],
+    "Poonch": [
+        {
+            "id": "Balakote",
+            "name": "Balakote"
+        },
+        {
+            "id": "Bufliaz",
+            "name": "Bufliaz"
+        },
+        {
+            "id": "Lassana",
+            "name": "Lassana"
+        },
+        {
+            "id": "Loran",
+            "name": "Loran"
+        },
+        {
+            "id": "Mandi",
+            "name": "Mandi"
+        },
+        {
+            "id": "Mankote",
+            "name": "Mankote"
+        },
+        {
+            "id": "Mendhar",
+            "name": "Mendhar"
+        },
+        {
+            "id": "Nangali Sahib Sain Baba",
+            "name": "Nangali Sahib Sain Baba"
+        },
+        {
+            "id": "Poonch",
+            "name": "Poonch"
+        },
+        {
+            "id": "Sathra",
+            "name": "Sathra"
+        },
+        {
+            "id": "Surankote",
+            "name": "Surankote"
+        }
+    ],
+    "Pulwama": [
+        {
+            "id": "Aripal",
+            "name": "Aripal"
+        },
+        {
+            "id": "Awantipora",
+            "name": "Awantipora"
+        },
+        {
+            "id": "Dadsara",
+            "name": "Dadsara"
+        },
+        {
+            "id": "Ichegoza",
+            "name": "Ichegoza"
+        },
+        {
+            "id": "Kakapora",
+            "name": "Kakapora"
+        },
+        {
+            "id": "Litter",
+            "name": "Litter"
+        },
+        {
+            "id": "Newa",
+            "name": "Newa"
+        },
+        {
+            "id": "Pampore",
+            "name": "Pampore"
+        },
+        {
+            "id": "Pulwama",
+            "name": "Pulwama"
+        },
+        {
+            "id": "Shadimarg",
+            "name": "Shadimarg"
+        },
+        {
+            "id": "Tral",
+            "name": "Tral"
+        }
+    ],
+    "Rajouri": [
+        {
+            "id": "Budhal",
+            "name": "Budhal"
+        },
+        {
+            "id": "Budhal New",
+            "name": "Budhal New"
+        },
+        {
+            "id": "Darhal",
+            "name": "Darhal"
+        },
+        {
+            "id": "Dhangri",
+            "name": "Dhangri"
+        },
+        {
+            "id": "Doongi",
+            "name": "Doongi"
+        },
+        {
+            "id": "Kalakote",
+            "name": "Kalakote"
+        },
+        {
+            "id": "Khawas",
+            "name": "Khawas"
+        },
+        {
+            "id": "Lamberi",
+            "name": "Lamberi"
+        },
+        {
+            "id": "Manjakote",
+            "name": "Manjakote"
+        },
+        {
+            "id": "Moughla",
+            "name": "Moughla"
+        },
+        {
+            "id": "Nowshera",
+            "name": "Nowshera"
+        },
+        {
+            "id": "Panjgrian",
+            "name": "Panjgrian"
+        },
+        {
+            "id": "Planger",
+            "name": "Planger"
+        },
+        {
+            "id": "Qila Darhal",
+            "name": "Qila Darhal"
+        },
+        {
+            "id": "Rajouri",
+            "name": "Rajouri"
+        },
+        {
+            "id": "Seri",
+            "name": "Seri"
+        },
+        {
+            "id": "Siot",
+            "name": "Siot"
+        },
+        {
+            "id": "Sunderbani",
+            "name": "Sunderbani"
+        },
+        {
+            "id": "Thana Mandi",
+            "name": "Thana Mandi"
+        }
+    ],
+    "Ramban": [
+        {
+            "id": "Banihal",
+            "name": "Banihal"
+        },
+        {
+            "id": "Batote",
+            "name": "Batote"
+        },
+        {
+            "id": "Gandhri",
+            "name": "Gandhri"
+        },
+        {
+            "id": "Gool",
+            "name": "Gool"
+        },
+        {
+            "id": "Gundi Dharam",
+            "name": "Gundi Dharam"
+        },
+        {
+            "id": "Khari",
+            "name": "Khari"
+        },
+        {
+            "id": "Rajgarh",
+            "name": "Rajgarh"
+        },
+        {
+            "id": "Ramban",
+            "name": "Ramban"
+        },
+        {
+            "id": "Ramsoo",
+            "name": "Ramsoo"
+        },
+        {
+            "id": "Sangaldan",
+            "name": "Sangaldan"
+        },
+        {
+            "id": "Ukhral",
+            "name": "Ukhral"
+        }
+    ],
+    "Reasi": [
+        {
+            "id": "Arnas",
+            "name": "Arnas"
+        },
+        {
+            "id": "Bamagh",
+            "name": "Bamagh"
+        },
+        {
+            "id": "Chassana",
+            "name": "Chassana"
+        },
+        {
+            "id": "Gulab Garh",
+            "name": "Gulab Garh"
+        },
+        {
+            "id": "Jig Bagli",
+            "name": "Jig Bagli"
+        },
+        {
+            "id": "Katra",
+            "name": "Katra"
+        },
+        {
+            "id": "Mahore",
+            "name": "Mahore"
+        },
+        {
+            "id": "Panthal",
+            "name": "Panthal"
+        },
+        {
+            "id": "Pouni",
+            "name": "Pouni"
+        },
+        {
+            "id": "Reasi",
+            "name": "Reasi"
+        },
+        {
+            "id": "Thakrakote",
+            "name": "Thakrakote"
+        },
+        {
+            "id": "Thuroo",
+            "name": "Thuroo"
+        }
+    ],
+    "Samba": [
+        {
+            "id": "Bari Brahmana",
+            "name": "Bari Brahmana"
+        },
+        {
+            "id": "Ghagwal",
+            "name": "Ghagwal"
+        },
+        {
+            "id": "Nud",
+            "name": "Nud"
+        },
+        {
+            "id": "Purmandal",
+            "name": "Purmandal"
+        },
+        {
+            "id": "Rajpura",
+            "name": "Rajpura"
+        },
+        {
+            "id": "Ramgarh",
+            "name": "Ramgarh"
+        },
+        {
+            "id": "Samba",
+            "name": "Samba"
+        },
+        {
+            "id": "Sumb",
+            "name": "Sumb"
+        },
+        {
+            "id": "Vijaypur",
+            "name": "Vijaypur"
+        }
+    ],
+    "Shopian": [
+        {
+            "id": "Chitragam",
+            "name": "Chitragam"
+        },
+        {
+            "id": "Harman",
+            "name": "Harman"
+        },
+        {
+            "id": "Imamsahib",
+            "name": "Imamsahib"
+        },
+        {
+            "id": "Kanji Ullar",
+            "name": "Kanji Ullar"
+        },
+        {
+            "id": "Kaprin",
+            "name": "Kaprin"
+        },
+        {
+            "id": "Keller",
+            "name": "Keller"
+        },
+        {
+            "id": "Ramnagri",
+            "name": "Ramnagri"
+        },
+        {
+            "id": "Shopian",
+            "name": "Shopian"
+        },
+        {
+            "id": "Zainpora",
+            "name": "Zainpora"
+        }
+    ],
+    "Srinagar": [
+        {
+            "id": "Eidgah",
+            "name": "Eidgah"
+        },
+        {
+            "id": "Harwan Rural Area Dara",
+            "name": "Harwan Rural Area Dara"
+        },
+        {
+            "id": "Khanmoh",
+            "name": "Khanmoh"
+        },
+        {
+            "id": "Qamarwari",
+            "name": "Qamarwari"
+        },
+        {
+            "id": "Srinagar",
+            "name": "Srinagar"
+        }
+    ],
+    "Udhampur": [
+        {
+            "id": "Chanunta Dalsar",
+            "name": "Chanunta Dalsar"
+        },
+        {
+            "id": "Chenani",
+            "name": "Chenani"
+        },
+        {
+            "id": "Dudu",
+            "name": "Dudu"
+        },
+        {
+            "id": "Ghordi",
+            "name": "Ghordi"
+        },
+        {
+            "id": "Jaganoo",
+            "name": "Jaganoo"
+        },
+        {
+            "id": "Khoon",
+            "name": "Khoon"
+        },
+        {
+            "id": "Kulwanta",
+            "name": "Kulwanta"
+        },
+        {
+            "id": "Latti",
+            "name": "Latti"
+        },
+        {
+            "id": "Majalta",
+            "name": "Majalta"
+        },
+        {
+            "id": "Moungri",
+            "name": "Moungri"
+        },
+        {
+            "id": "Narsoo",
+            "name": "Narsoo"
+        },
+        {
+            "id": "Panchari",
+            "name": "Panchari"
+        },
+        {
+            "id": "Parli Dhar",
+            "name": "Parli Dhar"
+        },
+        {
+            "id": "Ramnagar",
+            "name": "Ramnagar"
+        },
+        {
+            "id": "Sewna",
+            "name": "Sewna"
+        },
+        {
+            "id": "Tikri",
+            "name": "Tikri"
+        },
+        {
+            "id": "Udhampur",
+            "name": "Udhampur"
+        }
+    ]
+}

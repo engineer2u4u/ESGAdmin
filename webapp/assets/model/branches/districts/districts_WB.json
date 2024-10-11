@@ -1,0 +1,94 @@
+[
+    {
+        "id": "Alipurduar",
+        "name": "Alipurduar"
+    },
+    {
+        "id": "Bankura",
+        "name": "Bankura"
+    },
+    {
+        "id": "Birbhum",
+        "name": "Birbhum"
+    },
+    {
+        "id": "Cooch Behar",
+        "name": "Cooch Behar"
+    },
+    {
+        "id": "Dakshin Dinajpur",
+        "name": "Dakshin Dinajpur"
+    },
+    {
+        "id": "Darjeeling",
+        "name": "Darjeeling"
+    },
+    {
+        "id": "Hooghly",
+        "name": "Hooghly"
+    },
+    {
+        "id": "Howrah",
+        "name": "Howrah"
+    },
+    {
+        "id": "Jalpaiguri",
+        "name": "Jalpaiguri"
+    },
+    {
+        "id": "Jhargram",
+        "name": "Jhargram"
+    },
+    {
+        "id": "Kalimpong",
+        "name": "Kalimpong"
+    },
+    {
+        "id": "Kolkata",
+        "name": "Kolkata"
+    },
+    {
+        "id": "Malda",
+        "name": "Malda"
+    },
+    {
+        "id": "Murshidabad",
+        "name": "Murshidabad"
+    },
+    {
+        "id": "Nadia",
+        "name": "Nadia"
+    },
+    {
+        "id": "North 24 Parganas",
+        "name": "North 24 Parganas"
+    },
+    {
+        "id": "Paschim Bardhaman",
+        "name": "Paschim Bardhaman"
+    },
+    {
+        "id": "Paschim Medinipur",
+        "name": "Paschim Medinipur"
+    },
+    {
+        "id": "Purba Bardhaman",
+        "name": "Purba Bardhaman"
+    },
+    {
+        "id": "Purba Medinipur",
+        "name": "Purba Medinipur"
+    },
+    {
+        "id": "Purulia",
+        "name": "Purulia"
+    },
+    {
+        "id": "South 24 Parganas",
+        "name": "South 24 Parganas"
+    },
+    {
+        "id": "Uttar Dinajpur",
+        "name": "Uttar Dinajpur"
+    }
+]

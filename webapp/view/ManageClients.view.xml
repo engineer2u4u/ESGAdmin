@@ -75,6 +75,7 @@
                                 width="200px"
                                 items="{path: 'orgData>/results'}"
                                 class="sapUiTinyMarginEnd"
+                                forceSelection="false"
                             >
                                 <core:Item
                                     key="{orgData>orgID}"
@@ -92,6 +93,12 @@
                             text="Reset"
                             press="onReset"
                         />
+                        <!-- <Button
+                            text="Send Email"
+                            press="onSendEmail"
+                            type="Emphasized"
+                            class="sapUiTinyMarginEnd"
+                        /> -->
                     </HBox>
                 </VBox>
             </VBox>
@@ -124,14 +131,14 @@
                     <Label text="Country" />
                     <Text text="{/country}" />
 
-                    <Label text="Domain" />
-                    <Text text="{/domain}" />
-
                     <Label text="Number of Employees" />
                     <Text text="{/numEmployees}" />
 
                     <Label text="Renewable Energy" />
                     <Text text="{/renewableEnergy}" />
+
+                    <Label text="Framework" />
+                    <Text text="{/reportingType}" />
 
                     <Label text="Status" />
                     <Text text="{/status}" />
@@ -163,7 +170,7 @@
                     />
                 <Button
                         icon="sap-icon://excel-attachment"
-                        text="Reporting Sheets"
+                        text="Reporting Parameters"
                         press="onViewSheets"
                         type="Emphasized"
                         class="sapUiTinyMarginEnd"

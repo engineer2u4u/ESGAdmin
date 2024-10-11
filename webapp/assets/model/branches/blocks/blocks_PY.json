@@ -1,0 +1,34 @@
+{
+    "Karaikal": [
+        {
+            "id": "Karaikal",
+            "name": "Karaikal"
+        }
+    ],
+    "Mahe": [
+        {
+            "id": "Mahe",
+            "name": "Mahe"
+        }
+    ],
+    "Puducherry": [
+        {
+            "id": "Ariankuppam",
+            "name": "Ariankuppam"
+        },
+        {
+            "id": "Ozhukarai",
+            "name": "Ozhukarai"
+        },
+        {
+            "id": "Villianur",
+            "name": "Villianur"
+        }
+    ],
+    "Yanam": [
+        {
+            "id": "Yanam",
+            "name": "Yanam"
+        }
+    ]
+}

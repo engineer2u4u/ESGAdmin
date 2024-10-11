@@ -1,0 +1,1012 @@
+{
+    "Bagalkote": [
+        {
+            "id": "Badami",
+            "name": "Badami"
+        },
+        {
+            "id": "Bagalkot",
+            "name": "Bagalkot"
+        },
+        {
+            "id": "Bilagi",
+            "name": "Bilagi"
+        },
+        {
+            "id": "Guledagudda",
+            "name": "Guledagudda"
+        },
+        {
+            "id": "Hungund",
+            "name": "Hungund"
+        },
+        {
+            "id": "Ilkal",
+            "name": "Ilkal"
+        },
+        {
+            "id": "Jamkhandi",
+            "name": "Jamkhandi"
+        },
+        {
+            "id": "Mudhol",
+            "name": "Mudhol"
+        },
+        {
+            "id": "Rabakavi Banahatti",
+            "name": "Rabakavi Banahatti"
+        }
+    ],
+    "Ballari": [
+        {
+            "id": "Ballari",
+            "name": "Ballari"
+        },
+        {
+            "id": "Kampli",
+            "name": "Kampli"
+        },
+        {
+            "id": "Kurugodu",
+            "name": "Kurugodu"
+        },
+        {
+            "id": "Sandur",
+            "name": "Sandur"
+        },
+        {
+            "id": "Siruguppa",
+            "name": "Siruguppa"
+        }
+    ],
+    "Belagavi": [
+        {
+            "id": "Athni",
+            "name": "Athni"
+        },
+        {
+            "id": "Belagavi",
+            "name": "Belagavi"
+        },
+        {
+            "id": "Bylahongal",
+            "name": "Bylahongal"
+        },
+        {
+            "id": "Chikodi",
+            "name": "Chikodi"
+        },
+        {
+            "id": "Gokak",
+            "name": "Gokak"
+        },
+        {
+            "id": "Hukeri",
+            "name": "Hukeri"
+        },
+        {
+            "id": "Kagawada",
+            "name": "Kagawada"
+        },
+        {
+            "id": "Khanapur",
+            "name": "Khanapur"
+        },
+        {
+            "id": "Kittur",
+            "name": "Kittur"
+        },
+        {
+            "id": "Mudalagi",
+            "name": "Mudalagi"
+        },
+        {
+            "id": "Nippani",
+            "name": "Nippani"
+        },
+        {
+            "id": "Ramdurg",
+            "name": "Ramdurg"
+        },
+        {
+            "id": "Raybag",
+            "name": "Raybag"
+        },
+        {
+            "id": "Savadathi",
+            "name": "Savadathi"
+        },
+        {
+            "id": "Yaragatti",
+            "name": "Yaragatti"
+        }
+    ],
+    "Bengaluru Rural": [
+        {
+            "id": "Devanhalli",
+            "name": "Devanhalli"
+        },
+        {
+            "id": "Dodballapur",
+            "name": "Dodballapur"
+        },
+        {
+            "id": "Hoskote",
+            "name": "Hoskote"
+        },
+        {
+            "id": "Nelamangala",
+            "name": "Nelamangala"
+        }
+    ],
+    "Bengaluru Urban": [
+        {
+            "id": "Anekal",
+            "name": "Anekal"
+        },
+        {
+            "id": "Bengaluru East",
+            "name": "Bengaluru East"
+        },
+        {
+            "id": "Bengaluru North",
+            "name": "Bengaluru North"
+        },
+        {
+            "id": "Bengaluru South",
+            "name": "Bengaluru South"
+        },
+        {
+            "id": "Yelahanka",
+            "name": "Yelahanka"
+        }
+    ],
+    "Bidar": [
+        {
+            "id": "Aurad",
+            "name": "Aurad"
+        },
+        {
+            "id": "Basavakalyan",
+            "name": "Basavakalyan"
+        },
+        {
+            "id": "Bhalki",
+            "name": "Bhalki"
+        },
+        {
+            "id": "Bidar",
+            "name": "Bidar"
+        },
+        {
+            "id": "Chittaguppa",
+            "name": "Chittaguppa"
+        },
+        {
+            "id": "Hulasuru",
+            "name": "Hulasuru"
+        },
+        {
+            "id": "Humnabad",
+            "name": "Humnabad"
+        },
+        {
+            "id": "Kamalanagara",
+            "name": "Kamalanagara"
+        }
+    ],
+    "Chamarajanagara": [
+        {
+            "id": "Chamarajanagar",
+            "name": "Chamarajanagar"
+        },
+        {
+            "id": "Gundlupet",
+            "name": "Gundlupet"
+        },
+        {
+            "id": "Hanuru",
+            "name": "Hanuru"
+        },
+        {
+            "id": "Kollegala",
+            "name": "Kollegala"
+        },
+        {
+            "id": "Yelandur",
+            "name": "Yelandur"
+        }
+    ],
+    "Chikkaballapura": [
+        {
+            "id": "Bagepalli",
+            "name": "Bagepalli"
+        },
+        {
+            "id": "Cheluru",
+            "name": "Cheluru"
+        },
+        {
+            "id": "Chikballapur",
+            "name": "Chikballapur"
+        },
+        {
+            "id": "Chintamani",
+            "name": "Chintamani"
+        },
+        {
+            "id": "Gauribidanur",
+            "name": "Gauribidanur"
+        },
+        {
+            "id": "Gudibanda",
+            "name": "Gudibanda"
+        },
+        {
+            "id": "Manchenahalli",
+            "name": "Manchenahalli"
+        },
+        {
+            "id": "Sidlaghatta",
+            "name": "Sidlaghatta"
+        }
+    ],
+    "Chikkamagaluru": [
+        {
+            "id": "Ajjampura",
+            "name": "Ajjampura"
+        },
+        {
+            "id": "Chikkamagaluru",
+            "name": "Chikkamagaluru"
+        },
+        {
+            "id": "Kadur",
+            "name": "Kadur"
+        },
+        {
+            "id": "Kalasa",
+            "name": "Kalasa"
+        },
+        {
+            "id": "Koppa",
+            "name": "Koppa"
+        },
+        {
+            "id": "Mudigere",
+            "name": "Mudigere"
+        },
+        {
+            "id": "Narasimharajapura",
+            "name": "Narasimharajapura"
+        },
+        {
+            "id": "Sringeri",
+            "name": "Sringeri"
+        },
+        {
+            "id": "Tarikere",
+            "name": "Tarikere"
+        }
+    ],
+    "Chitradurga": [
+        {
+            "id": "Challakere",
+            "name": "Challakere"
+        },
+        {
+            "id": "Chitradurga",
+            "name": "Chitradurga"
+        },
+        {
+            "id": "Hiriyur",
+            "name": "Hiriyur"
+        },
+        {
+            "id": "Holalkere",
+            "name": "Holalkere"
+        },
+        {
+            "id": "Hosdurga",
+            "name": "Hosdurga"
+        },
+        {
+            "id": "Molakalmuru",
+            "name": "Molakalmuru"
+        }
+    ],
+    "Dakshina Kannada": [
+        {
+            "id": "Bantval",
+            "name": "Bantval"
+        },
+        {
+            "id": "Beltangadi",
+            "name": "Beltangadi"
+        },
+        {
+            "id": "Kadaba",
+            "name": "Kadaba"
+        },
+        {
+            "id": "Mangaluru",
+            "name": "Mangaluru"
+        },
+        {
+            "id": "Mudubidare",
+            "name": "Mudubidare"
+        },
+        {
+            "id": "Mulki",
+            "name": "Mulki"
+        },
+        {
+            "id": "Puttur",
+            "name": "Puttur"
+        },
+        {
+            "id": "Sulya",
+            "name": "Sulya"
+        },
+        {
+            "id": "Ullala",
+            "name": "Ullala"
+        }
+    ],
+    "Davangere": [
+        {
+            "id": "Channagiri",
+            "name": "Channagiri"
+        },
+        {
+            "id": "Davanagere",
+            "name": "Davanagere"
+        },
+        {
+            "id": "Harihara",
+            "name": "Harihara"
+        },
+        {
+            "id": "Honnali",
+            "name": "Honnali"
+        },
+        {
+            "id": "Jagalur",
+            "name": "Jagalur"
+        },
+        {
+            "id": "Nyamathi",
+            "name": "Nyamathi"
+        }
+    ],
+    "Dharwad": [
+        {
+            "id": "Alnavar",
+            "name": "Alnavar"
+        },
+        {
+            "id": "Annigeri",
+            "name": "Annigeri"
+        },
+        {
+            "id": "Dharwad",
+            "name": "Dharwad"
+        },
+        {
+            "id": "Hubballi",
+            "name": "Hubballi"
+        },
+        {
+            "id": "Kalghatgi",
+            "name": "Kalghatgi"
+        },
+        {
+            "id": "Kundgol",
+            "name": "Kundgol"
+        },
+        {
+            "id": "Navalgund",
+            "name": "Navalgund"
+        }
+    ],
+    "Gadag": [
+        {
+            "id": "Gadag",
+            "name": "Gadag"
+        },
+        {
+            "id": "Gajendragad",
+            "name": "Gajendragad"
+        },
+        {
+            "id": "Laxmeshwar",
+            "name": "Laxmeshwar"
+        },
+        {
+            "id": "Mundaragi",
+            "name": "Mundaragi"
+        },
+        {
+            "id": "Naragund",
+            "name": "Naragund"
+        },
+        {
+            "id": "Ron",
+            "name": "Ron"
+        },
+        {
+            "id": "Shirahatti",
+            "name": "Shirahatti"
+        }
+    ],
+    "Hassan": [
+        {
+            "id": "Alur",
+            "name": "Alur"
+        },
+        {
+            "id": "Arkalgud",
+            "name": "Arkalgud"
+        },
+        {
+            "id": "Arsikere",
+            "name": "Arsikere"
+        },
+        {
+            "id": "Belur",
+            "name": "Belur"
+        },
+        {
+            "id": "Channarayapatna",
+            "name": "Channarayapatna"
+        },
+        {
+            "id": "Hassan",
+            "name": "Hassan"
+        },
+        {
+            "id": "Holenarsipur",
+            "name": "Holenarsipur"
+        },
+        {
+            "id": "Sakaleshpur",
+            "name": "Sakaleshpur"
+        }
+    ],
+    "Haveri": [
+        {
+            "id": "Byadgi",
+            "name": "Byadgi"
+        },
+        {
+            "id": "Hanagal",
+            "name": "Hanagal"
+        },
+        {
+            "id": "Haveri",
+            "name": "Haveri"
+        },
+        {
+            "id": "Hirekerur",
+            "name": "Hirekerur"
+        },
+        {
+            "id": "Ranebennur",
+            "name": "Ranebennur"
+        },
+        {
+            "id": "Rattihalli",
+            "name": "Rattihalli"
+        },
+        {
+            "id": "Savanur",
+            "name": "Savanur"
+        },
+        {
+            "id": "Shiggaon",
+            "name": "Shiggaon"
+        }
+    ],
+    "Kalaburagi": [
+        {
+            "id": "Afzalpur",
+            "name": "Afzalpur"
+        },
+        {
+            "id": "Aland",
+            "name": "Aland"
+        },
+        {
+            "id": "Chincholi",
+            "name": "Chincholi"
+        },
+        {
+            "id": "Chitapur",
+            "name": "Chitapur"
+        },
+        {
+            "id": "Jevargi",
+            "name": "Jevargi"
+        },
+        {
+            "id": "Kalaburagi",
+            "name": "Kalaburagi"
+        },
+        {
+            "id": "Kalagi",
+            "name": "Kalagi"
+        },
+        {
+            "id": "Kamalapur",
+            "name": "Kamalapur"
+        },
+        {
+            "id": "Sedam",
+            "name": "Sedam"
+        },
+        {
+            "id": "Shabad",
+            "name": "Shabad"
+        },
+        {
+            "id": "Yadrami",
+            "name": "Yadrami"
+        }
+    ],
+    "Kodagu": [
+        {
+            "id": "Kushalanagar",
+            "name": "Kushalanagar"
+        },
+        {
+            "id": "Madikeri",
+            "name": "Madikeri"
+        },
+        {
+            "id": "Ponnampet",
+            "name": "Ponnampet"
+        },
+        {
+            "id": "Somvarpet",
+            "name": "Somvarpet"
+        },
+        {
+            "id": "Virajpet",
+            "name": "Virajpet"
+        }
+    ],
+    "Kolar": [
+        {
+            "id": "Bangarapet",
+            "name": "Bangarapet"
+        },
+        {
+            "id": "K G F",
+            "name": "K G F"
+        },
+        {
+            "id": "Kolar",
+            "name": "Kolar"
+        },
+        {
+            "id": "Malur",
+            "name": "Malur"
+        },
+        {
+            "id": "Mulbagal",
+            "name": "Mulbagal"
+        },
+        {
+            "id": "Srinivaspur",
+            "name": "Srinivaspur"
+        }
+    ],
+    "Koppal": [
+        {
+            "id": "Gangavathi",
+            "name": "Gangavathi"
+        },
+        {
+            "id": "Kanakagiri",
+            "name": "Kanakagiri"
+        },
+        {
+            "id": "Karatagi",
+            "name": "Karatagi"
+        },
+        {
+            "id": "Koppal",
+            "name": "Koppal"
+        },
+        {
+            "id": "Kukunoor",
+            "name": "Kukunoor"
+        },
+        {
+            "id": "Kushtagi",
+            "name": "Kushtagi"
+        },
+        {
+            "id": "Yelburga",
+            "name": "Yelburga"
+        }
+    ],
+    "Mandya": [
+        {
+            "id": "Krishnarajpet",
+            "name": "Krishnarajpet"
+        },
+        {
+            "id": "Maddur",
+            "name": "Maddur"
+        },
+        {
+            "id": "Malvalli",
+            "name": "Malvalli"
+        },
+        {
+            "id": "Mandya",
+            "name": "Mandya"
+        },
+        {
+            "id": "Nagamangala",
+            "name": "Nagamangala"
+        },
+        {
+            "id": "Pandavapura",
+            "name": "Pandavapura"
+        },
+        {
+            "id": "Shrirangapattana",
+            "name": "Shrirangapattana"
+        }
+    ],
+    "Mysuru": [
+        {
+            "id": "Heggadadevankote",
+            "name": "Heggadadevankote"
+        },
+        {
+            "id": "Hunsur",
+            "name": "Hunsur"
+        },
+        {
+            "id": "Krishnarajanagara",
+            "name": "Krishnarajanagara"
+        },
+        {
+            "id": "Mysuru",
+            "name": "Mysuru"
+        },
+        {
+            "id": "Nanjangud",
+            "name": "Nanjangud"
+        },
+        {
+            "id": "Piriyapatna",
+            "name": "Piriyapatna"
+        },
+        {
+            "id": "Saligrama",
+            "name": "Saligrama"
+        },
+        {
+            "id": "Saraguru",
+            "name": "Saraguru"
+        },
+        {
+            "id": "Tirumakudal-Narsipur",
+            "name": "Tirumakudal-Narsipur"
+        }
+    ],
+    "Raichur": [
+        {
+            "id": "Devadurga",
+            "name": "Devadurga"
+        },
+        {
+            "id": "Lingsugur",
+            "name": "Lingsugur"
+        },
+        {
+            "id": "Manvi",
+            "name": "Manvi"
+        },
+        {
+            "id": "Maski",
+            "name": "Maski"
+        },
+        {
+            "id": "Raichur",
+            "name": "Raichur"
+        },
+        {
+            "id": "Sindhanur",
+            "name": "Sindhanur"
+        },
+        {
+            "id": "Sirawara",
+            "name": "Sirawara"
+        }
+    ],
+    "Ramanagara": [
+        {
+            "id": "Channapatna",
+            "name": "Channapatna"
+        },
+        {
+            "id": "Harohalli",
+            "name": "Harohalli"
+        },
+        {
+            "id": "Kanakapura",
+            "name": "Kanakapura"
+        },
+        {
+            "id": "Magadi",
+            "name": "Magadi"
+        },
+        {
+            "id": "Ramanagara",
+            "name": "Ramanagara"
+        }
+    ],
+    "Shivamogga": [
+        {
+            "id": "Bhadravati",
+            "name": "Bhadravati"
+        },
+        {
+            "id": "Hosanagara",
+            "name": "Hosanagara"
+        },
+        {
+            "id": "Sagar",
+            "name": "Sagar"
+        },
+        {
+            "id": "Shikarpur",
+            "name": "Shikarpur"
+        },
+        {
+            "id": "Shivamogga",
+            "name": "Shivamogga"
+        },
+        {
+            "id": "Sorab",
+            "name": "Sorab"
+        },
+        {
+            "id": "Tirthahalli",
+            "name": "Tirthahalli"
+        }
+    ],
+    "Tumakuru": [
+        {
+            "id": "Chiknayakanhalli",
+            "name": "Chiknayakanhalli"
+        },
+        {
+            "id": "Gubbi",
+            "name": "Gubbi"
+        },
+        {
+            "id": "Koratagere",
+            "name": "Koratagere"
+        },
+        {
+            "id": "Kunigal",
+            "name": "Kunigal"
+        },
+        {
+            "id": "Madhugiri",
+            "name": "Madhugiri"
+        },
+        {
+            "id": "Pavagada",
+            "name": "Pavagada"
+        },
+        {
+            "id": "Sira",
+            "name": "Sira"
+        },
+        {
+            "id": "Tiptur",
+            "name": "Tiptur"
+        },
+        {
+            "id": "Tumakuru",
+            "name": "Tumakuru"
+        },
+        {
+            "id": "Turuvekere",
+            "name": "Turuvekere"
+        }
+    ],
+    "Udupi": [
+        {
+            "id": "Bainduru",
+            "name": "Bainduru"
+        },
+        {
+            "id": "Brahmavara",
+            "name": "Brahmavara"
+        },
+        {
+            "id": "Hebri",
+            "name": "Hebri"
+        },
+        {
+            "id": "Kapu",
+            "name": "Kapu"
+        },
+        {
+            "id": "Karkal",
+            "name": "Karkal"
+        },
+        {
+            "id": "Kundapura",
+            "name": "Kundapura"
+        },
+        {
+            "id": "Udupi",
+            "name": "Udupi"
+        }
+    ],
+    "Uttara Kannada": [
+        {
+            "id": "Ankola",
+            "name": "Ankola"
+        },
+        {
+            "id": "Bhatkal",
+            "name": "Bhatkal"
+        },
+        {
+            "id": "Dandeli",
+            "name": "Dandeli"
+        },
+        {
+            "id": "Haliyal",
+            "name": "Haliyal"
+        },
+        {
+            "id": "Honavar",
+            "name": "Honavar"
+        },
+        {
+            "id": "Karwar",
+            "name": "Karwar"
+        },
+        {
+            "id": "Kumta",
+            "name": "Kumta"
+        },
+        {
+            "id": "Mundgod",
+            "name": "Mundgod"
+        },
+        {
+            "id": "Siddapur",
+            "name": "Siddapur"
+        },
+        {
+            "id": "Sirsi",
+            "name": "Sirsi"
+        },
+        {
+            "id": "Supa",
+            "name": "Supa"
+        },
+        {
+            "id": "Yellapur",
+            "name": "Yellapur"
+        }
+    ],
+    "Vijayanagar": [
+        {
+            "id": "Hadagalli",
+            "name": "Hadagalli"
+        },
+        {
+            "id": "Hagaribommanahalli",
+            "name": "Hagaribommanahalli"
+        },
+        {
+            "id": "Harappanahalli",
+            "name": "Harappanahalli"
+        },
+        {
+            "id": "Hosapete",
+            "name": "Hosapete"
+        },
+        {
+            "id": "Kottur",
+            "name": "Kottur"
+        },
+        {
+            "id": "Kudligi",
+            "name": "Kudligi"
+        }
+    ],
+    "Vijayapura": [
+        {
+            "id": "Almel",
+            "name": "Almel"
+        },
+        {
+            "id": "Babaleshwar",
+            "name": "Babaleshwar"
+        },
+        {
+            "id": "Basavana Bagewadi",
+            "name": "Basavana Bagewadi"
+        },
+        {
+            "id": "Chadachan",
+            "name": "Chadachan"
+        },
+        {
+            "id": "Devara Hipparagi",
+            "name": "Devara Hipparagi"
+        },
+        {
+            "id": "Indi",
+            "name": "Indi"
+        },
+        {
+            "id": "Kolhar",
+            "name": "Kolhar"
+        },
+        {
+            "id": "Muddebihal",
+            "name": "Muddebihal"
+        },
+        {
+            "id": "Nidagundi",
+            "name": "Nidagundi"
+        },
+        {
+            "id": "Sindagi",
+            "name": "Sindagi"
+        },
+        {
+            "id": "Thalikoti",
+            "name": "Thalikoti"
+        },
+        {
+            "id": "Thikota",
+            "name": "Thikota"
+        },
+        {
+            "id": "Vijayapura",
+            "name": "Vijayapura"
+        }
+    ],
+    "Yadgir": [
+        {
+            "id": "Gurumitkal",
+            "name": "Gurumitkal"
+        },
+        {
+            "id": "Hunasagi",
+            "name": "Hunasagi"
+        },
+        {
+            "id": "Shahapur",
+            "name": "Shahapur"
+        },
+        {
+            "id": "Shorapur",
+            "name": "Shorapur"
+        },
+        {
+            "id": "Wadagera",
+            "name": "Wadagera"
+        },
+        {
+            "id": "Yadgir",
+            "name": "Yadgir"
+        }
+    ]
+}

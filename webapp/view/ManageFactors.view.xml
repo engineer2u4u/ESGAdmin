@@ -37,65 +37,83 @@
         </customHeader>
         <content>
             <VBox>
-                <!-- Filter Inputs -->
-                <HBox>
-                    <Select
-                        id="filterScope"
-                        selectedKey="Scope 1"
-                    >
-                        <core:Item
-                            key="Scope 1"
-                            text="Scope 1"
+                <VBox class="sapUiSmallMargin">
+                    <!-- Filter Inputs -->
+                    <HBox>
+                        <VBox>
+                            <Select
+                                id="filterScope"
+                                selectedKey="Scope 1"
+                                change="onChangeScope"
+                            >
+                                <core:Item
+                                    key="Scope1"
+                                    text="Scope 1"
+                                />
+                                <core:Item
+                                    key="Scope2"
+                                    text="Scope 2"
+                                />
+                                <core:Item
+                                    key="Scope3"
+                                    text="Scope 3"
+                                />
+                            </Select>
+                        </VBox>
+                        <VBox class="sapUiSmallMarginBegin">
+                            <MultiComboBox
+                                id="level1ComboBox"
+                                items="{level1Model>/results}"
+                                selectionChange="onFilterChange"
+                            >
+                                <core:Item
+                                    key="{level1Model>key}"
+                                    text="{level1Model>text}"
+                                />
+                            </MultiComboBox>
+                        </VBox>
+                        <VBox class="sapUiSmallMarginBegin">
+                            <MultiComboBox
+                                id="level2ComboBox"
+                                items="{level2Model>/results}"
+                                selectionChange="onFilterChange"
+                            >
+                                <core:Item
+                                    key="{level2Model>key}"
+                                    text="{level2Model>text}"
+                                />
+                            </MultiComboBox>
+                        </VBox>
+                        <VBox class="sapUiSmallMarginBegin">
+                            <MultiComboBox
+                                id="level3ComboBox"
+                                items="{level3Model>/results}"
+                                selectionChange="onFilterChange"
+                            >
+                                <core:Item
+                                    key="{level3Model>key}"
+                                    text="{level3Model>text}"
+                                />
+                            </MultiComboBox>
+                        </VBox>
+                        <Button
+                            class="sapUiSmallMarginBegin"
+                            text="Search"
+                            press="onSearch"
                         />
-                        <core:Item
-                            key="Scope 2"
-                            text="Scope 2"
-                        />
-                        <core:Item
-                            key="Scope 3"
-                            text="Scope 3"
-                        />
-                    </Select>
-                    <MultiComboBox
-                        id="filterLevel1"
-                        placeholder="Filter by Level 1"
-                        selectionChange="onFilterChange"
-                        items="{/data}"
-                    >
-                        <core:Item
-                            key="{Lookup}"
-                            text="{Lookup}"
-                        />
-                    </MultiComboBox>
-                    <MultiComboBox
-                        id="filterLevel2"
-                        placeholder="Filter by Level 2"
-                      items="{/data}"
-                    >
-                        <core:Item
-                            key="{Lookup}"
-                            text="{Lookup}"
-                        />
-                    </MultiComboBox>
-                    <MultiComboBox
-                        id="filterLevel3"
-                        placeholder="Filter by Level 3"
-                       items="{/data}"
-                    >
-                        <core:Item
-                            key="{Lookup}"
-                            text="{Lookup}"
-                        />
-                    </MultiComboBox>
-                    <!-- Add other filters as needed -->
-                </HBox>
-
+                    </HBox>
+                </VBox>
                 <!-- Table -->
                 <Table
                     id="ghgTable"
                     items="{factorData>/results}"
+                    headerText="{= ${factorData>/results}.length + ' Factors'}"
+                    updateFinished="onUpdateFinished"
                 >
                     <columns>
+                        <Column>
+                            <Text text="ID" />
+                        </Column>
                         <Column>
                             <Text text="Scope" />
                         </Column>
@@ -120,32 +138,43 @@
                     </columns>
                     <items>
                         <ColumnListItem>
+                            <Text text="{factorData>ID}" />
                             <Text text="{factorData>Scope}" />
                             <Text text="{factorData>Level 1}" />
                             <Text text="{factorData>Level 2}" />
                             <Text text="{factorData>Level 3}" />
                             <Text text="{factorData>UOM}" />
                             <Text text="{factorData>Lookup}" />
-                            <Input value="{factorData>GHG Conversion}" />
+                            <Input
+                                value="{factorData>GHG Conversion}"
+                                change="onGHGConversionChange"
+                            />
                         </ColumnListItem>
                     </items>
                 </Table>
             </VBox>
         </content>
-                <footer>
+        <footer>
             <OverflowToolbar>
                 <ToolbarSpacer />
                 <Button
                     text="Save"
                     icon="sap-icon://save"
-                    press="onUploadFactor"
+                    press="onSaveChanges"
                     type="Emphasized"
                     visible="true"
                 />
                 <Button
                     text="Reset"
                     icon="sap-icon://reset"
-                    press="onReset"
+                    press="onResetFilters"
+                />
+                <Button
+                    text="Upload Default"
+                    icon="sap-icon://save"
+                    press="onUploadDefaultFactor"
+                    type="Emphasized"
+                    visible="true"
                 />
             </OverflowToolbar>
         </footer>
